@@ -3,7 +3,7 @@
         "name": "Hunter's Knife",
         "name_upg": "Steel Knife",
         "type": "Sword and Shield",
-        "monster": "Hunter/iron Weapons",
+        "monster": "Hunter",
         "element": "None",
         "skills": [{ "name": "Poison Resistance", "level": 2 }]
     },
