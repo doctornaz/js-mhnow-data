@@ -1,0 +1,318 @@
+[
+    {
+        "name": "Hunter's Knife",
+        "name_upg": "Steel Knife",
+        "type": "Sword and Shield",
+        "monster": "Hunter/iron Weapons",
+        "element": "None",
+        "skills": [{ "name": "Poison Resistance", "level": 2 }]
+    },
+    {
+        "name": "Jagras Edge",
+        "name_upg": "Jagras Garotte",
+        "type": "Sword and Shield",
+        "monster": "Great Jagras",
+        "element": "Water",
+        "skills": [{ "name": "Health Boost", "level": 2 }]
+    },
+    {
+        "name": "Blooming Knife",
+        "name_upg": "Datura Blossom",
+        "type": "Sword and Shield",
+        "monster": "Pukei-pukei",
+        "element": "Poison",
+        "skills": [{ "name": "Sneak Attack", "level": 1 }]
+    },
+    {
+        "name": "Laguna Blossom",
+        "name_upg": "Laguna Blossom",
+        "type": "Sword and Shield",
+        "monster": "Coral Pukei-pukei",
+        "element": "Water",
+        "skills": [{ "name": "Earplugs", "level": 1 }]
+    },
+        {
+        "name": "Carapace Edge",
+        "name_upg": "Barroth Club",
+        "type": "Sword and Shield",
+        "monster": "Barroth",
+        "element": "None",
+        "skills": [{ "name": "Defense Boost", "level": 2 }]
+    },
+    {
+        "name": "Girros Knife",
+        "name_upg": "Maslady's Tabar",
+        "type": "Sword and Shield",
+        "monster": "Great Girros",
+        "element": "None",
+        "skills": [{ "name": "Sneak Attack", "level": 1 }]
+    },
+    {
+        "name": "Thunder Knife",
+        "name_upg": "Lightning Nemesis",
+        "type": "Sword and Shield",
+        "monster": "Tobi-Kadachi",
+        "element": "Thunder",
+        "skills": [{ "name": "Evade Extender", "level": 1 }]
+    },
+    {
+        "name": "Lumu Knife",
+        "name_upg": "Lumu Tabar",
+        "type": "Sword and Shield",
+        "monster": "Paolumu",
+        "element": "None",
+        "skills": [{ "name": "Divine Blessing", "level": 2 }]
+    },
+    {
+        "name": "Nyx Tabar",
+        "name_upg": "Nyx Tabar",
+        "type": "Sword and Shield",
+        "monster": "Nightshade Paolumu",
+        "element": "Sleep",
+        "skills": [{ "name": "Sneak Attack", "level": 1 }]
+    },
+    {
+        "name": "Aqua Messer",
+        "name_upg": "Rogue Wave",
+        "type": "Sword and Shield",
+        "monster": "Jyuratodus",
+        "element": "Water",
+        "skills": [{ "name": "Last Stand", "level": 1 }]
+    },
+    {
+        "name": "Blazing Claw",
+        "name_upg": "Flammensucher",
+        "type": "Sword and Shield",
+        "monster": "Anjanath",
+        "element": "Fire",
+        "skills": [{ "name": "Rising Tide", "level": 1 }]
+    },
+    {
+        "name": "Princess Rapier",
+        "name_upg": "Queen Rapier",
+        "type": "Sword and Shield",
+        "monster": "Rathian",
+        "element": "Poison",
+        "skills": [{ "name": "Health Boost", "level": 2 }]
+    },
+    {
+        "name": "Queen Rose",
+        "name_upg": "Queen Rose",
+        "type": "Sword and Shield",
+        "monster": "Pink Rathian",
+        "element": "Poison",
+        "skills": [{ "name": "Evade Extender", "level": 1 }]
+    },
+    {
+        "name": "Lunatic Rose",
+        "name_upg": "Lunatic Rose",
+        "type": "Sword and Shield",
+        "monster": "Golden Rathian",
+        "element": "Poison",
+        "skills": [{ "name": "Poison Exploit", "level": 2 }]
+    },
+    {
+        "name": "Glacial Grace",
+        "name_upg": "Rimespire",
+        "type": "Sword and Shield",
+        "monster": "Legiana",
+        "element": "Ice",
+        "skills": [{ "name": "Divine Blessing", "level": 2 }]
+    },
+    {
+        "name": "Flame Knife",
+        "name_upg": "Heat Edge",
+        "type": "Sword and Shield",
+        "monster": "Rathalos",
+        "element": "Fire",
+        "skills": [{ "name": "Earplugs", "level": 1 }]
+    },
+    {
+        "name": "Blue Corona",
+        "name_upg": "Blue Corona",
+        "type": "Sword and Shield",
+        "monster": "Azure Rathalos",
+        "element": "Fire",
+        "skills": [{ "name": "Special Boost", "level": 1 }]
+    },
+    {
+        "name": "Platinum Dawn",
+        "name_upg": "Platinum Dawn",
+        "type": "Sword and Shield",
+        "monster": "Silver Rathalos",
+        "element": "Fire",
+        "skills": [{ "name": "Critical Element", "level": 2 }]
+    },
+    {
+        "name": "Icicle Spike",
+        "name_upg": "Icicle SPike",
+        "type": "Sword and Shield",
+        "monster": "Barioth",
+        "element": "Ice",
+        "skills": [{ "name": "Evade Extender", "level": 1 }]
+    },
+    {
+        "name": "Usurper Firebolt",
+        "name_upg": "Despot's Crookbolt",
+        "type": "Sword and Shield",
+        "monster": "Zinogre",
+        "element": "Thunder",
+        "skills": [{ "name": "Artful Dodger", "level": 1 }]
+    },
+    {
+        "name": "Fatal Jho",
+        "name_upg": "Fatal Jho",
+        "type": "Sword and Shield",
+        "monster": "Deviljho",
+        "element": "Dragon",
+        "skills": [{ "name": "Skyward Striker", "level": 2 }]
+    },
+    {
+        "name": "Khezu Razor",
+        "name_upg": "Painful Razor",
+        "type": "Sword and Shield",
+        "monster": "Khezu",
+        "element": "Thunder",
+        "skills": [{ "name": "Peak Performance", "level": 1 }]
+    },
+        {
+        "name": "Daora's Razor",
+        "name_upg": "Daora's Razor",
+        "type": "Sword and Shield",
+        "monster": "Kushala Daora",
+        "element": "Ice",
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Windproof", "level": 2 }
+        ]
+    },
+    {
+        "name": "Hana No Nagoriwo",
+        "name_upg": "Kurenawi Ougi",
+        "type": "Sword and Shield",
+        "monster": "Mizutsune",
+        "element": "Water",
+        "skills": [{ "name": "Artful Dodger", "level": 1 }]
+    },
+    {
+        "name": "Teostra's Emblem",
+        "name_upg": "Teostra's Emblem",
+        "type": "Sword and Shield",
+        "monster": "Teostra",
+        "element": "Blast",
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Heroics", "level": 2 }
+        ]
+    },
+    {
+        "name": "Sinister Sword",
+        "name_upg": "Sinister Shadekeeper",
+        "type": "Sword and Shield",
+        "monster": "Magnamalo",
+        "element": "Blast",
+        "skills": [{ "name": "Partbreaker", "level": 1 }]
+    },
+    {
+        "name": "Rajang Club",
+        "name_upg": "Banned Rajang Club",
+        "type": "Sword and Shield",
+        "monster": "Rajang",
+        "element": "Thunder",
+        "skills": [{ "name": "Slugger", "level": 2 }]
+    },
+    {
+        "name": "Eradication Vanguard",
+        "name_upg": "Eradication Vanguard",
+        "type": "Sword and Shield",
+        "monster": "Nergigante",
+        "element": "Dragon",
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Partbreaker", "level": 2 }
+        ]
+    },
+    {
+        "name": "Rex Talon",
+        "name_upg": "Rex Talon",
+        "type": "Sword and Shield",
+        "monster": "Tigrex",
+        "element": "None",
+        "skills": [{ "name": "Critical Ferocity", "level": 1 }]
+    },
+    {
+        "name": "Fulminator",
+        "name_upg": "Fulminator",
+        "type": "Sword and Shield",
+        "monster": "Kirin",
+        "element": "Thunder",
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Latent Power", "level": 1 }
+        ]
+    },
+    {
+        "name": "Chata Club",
+        "name_upg": "Shrouded Katalo",
+        "type": "Sword and Shield",
+        "monster": "Chatacabra",
+        "element": "None",
+        "skills": [{ "name": "Litheness", "level": 1 }]
+    },
+    {
+        "name": "Glavenus Razor",
+        "name_upg": "Glavenus Razor",
+        "type": "Sword and Shield",
+        "monster": "Glavenus",
+        "element": "Fire",
+        "skills": [{ "name": "Critical Ferocity", "level": 1 }]
+    },
+    {
+        "name": "Dirty Baron",
+        "name_upg": "Dirty Marquis",
+        "type": "Sword and Shield",
+        "monster": "Great Wroggi",
+        "element": "Poison",
+        "skills": [{ "name": "Lock On", "level": 1 }]
+    },
+    {
+        "name": "Exorcising Sword",
+        "name_upg": "Schaucha Pureblade",
+        "type": "Sword and Shield",
+        "monster": "Bishaten",
+        "element": "None",
+        "skills": [{ "name": "Shared Sword", "level": 2 }]
+    },
+    {
+        "name": "Hidden Edge",
+        "name_upg": "Hidden Edge",
+        "type": "Sword and Shield",
+        "monster": "Nargacuga",
+        "element": "None",
+        "skills": [{ "name": "Resuscitate", "level": 2 }]
+    },
+    {
+        "name": "Bone Kukri",
+        "name_upg": "Chief Kukri",
+        "type": "Sword and Shield",
+        "monster": "Bone",
+        "element": "None",
+        "skills": [{ "name": "Concentration", "level": 1 }]
+    },
+    {
+        "name": "MrBeast Sword & Shield",
+        "name_upg": "MrBeast Sword & Shield",
+        "type": "Sword and Shield",
+        "monster": "MrBeast",
+        "element": "None",
+        "skills": [{ "name": "MrBeast Challenge!", "level": 1 }]
+    },
+    {
+        "name": "Hope Sword",
+        "name_upg": "Esperanza Sword",
+        "type": "Sword and Shield",
+        "monster": "Hope",
+        "element": "None",
+        "skills": [{ "name": "Lock On", "level": 1 }]
+    }
+]
