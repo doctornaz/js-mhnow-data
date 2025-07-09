@@ -102,5 +102,18 @@
             { "name": "Attack Up (L)", "melody": "BBRB" }
         ],
         "skills": [{ "name": "Sneak Attack", "level": 1 }]
+    },
+    {
+        "name": "Aqua Bagpipe",
+        "name_upg": "Water Tamtam",
+        "type": "Hunting Horn",
+        "monster": "Jyuratodus",
+        "element": "Water",
+        "buffs": [
+            { "name": "Fire Resistance Up", "melody": "BB" },
+            { "name": "Earplugs (S)", "melody": "RR" },
+            { "name": "Attack Up (L)", "melody": "BBRB" }
+        ],
+        "skills": [{ "name": "Last Stand", "level": 1 }]
     }
 ]
