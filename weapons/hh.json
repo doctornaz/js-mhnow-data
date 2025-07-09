@@ -1,0 +1,106 @@
+[
+    {
+        "name": "Metal Bagpipe",
+        "name_upg": "Great Bagpipe",
+        "type": "Sword and Shield",
+        "monster": "Hunter",
+        "element": "None",
+        "buffs": [
+            { "name": "Muck/Snow Negated", "melody": "BB" },
+            { "name": "Divine Protection", "melody": "RR" },
+            { "name": "Attack Up (S)", "melody": "BBR" }
+        ],
+        "skills": [{ "name": "Poison Resistance", "level": 2 }]
+    },
+    {
+        "name": "Kulu Duda",
+        "name_upg": "Dancing Davul",
+        "type": "Hunting Horn",
+        "monster": "Kulu-Ya-Ku",
+        "element": "None",
+        "buffs": [
+            { "name": "Paralysis Negated", "melody": "BB" },
+            { "name": "Affinity Up (S)", "melody": "RR" },
+            { "name": "Sonic Wave", "melody": "BRB" }
+        ],
+        "skills": [{ "name": "Fortify", "level": 2 }]
+    },
+    {
+        "name": "Blooming Horn",
+        "name_upg": "Datura Horn",
+        "type": "Hunting Horn",
+        "monster": "Pukei-Pukei",
+        "element": "Poison",
+        "buffs": [
+            { "name": "Thunder Resistance Up", "melody": "BB" },
+            { "name": "Evasion Distance Up", "melody": "RR" },
+            { "name": "Sonic Wave", "melody": "BRB" }
+        ],
+        "skills": [{ "name": "Sneak Attack", "level": 1 }]
+    },
+    {
+        "name": "Laguna Drum",
+        "name_upg": "Laguna Drum",
+        "type": "Hunting Horn",
+        "monster": "Coral Pukei-Pukei",
+        "element": "Poison",
+        "buffs": [
+            { "name": "Sleep Negated", "melody": "BB" },
+            { "name": "Wind Pressure Resistance", "melody": "RR" },
+            { "name": "Water Attack Up", "melody": "RBBR" }
+        ],
+        "skills": [{ "name": "Earplugs", "level": 1 }]
+    },
+    {
+        "name": "Sandpipe",
+        "name_upg": "Sandcrier",
+        "type": "Hunting Horn",
+        "monster": "Barroth",
+        "element": "None",
+        "buffs": [
+            { "name": "Defense Up", "melody": "BB" },
+            { "name": "Knockbacks Negated", "melody": "RR" },
+            { "name": "Attack Up (L)", "melody": "BBRB" }
+        ],
+        "skills": [{ "name": "Defense Boost", "level": 2 }]
+    },
+    {
+        "name": "Thunder Gaida",
+        "name_upg": "Lightning Drum",
+        "type": "Hunting Horn",
+        "monster": "Tobi-Kadachi",
+        "element": "Thunder",
+        "buffs": [
+            { "name": "Sleep Negated", "melody": "BB" },
+            { "name": "Earplugs (L)", "melody": "RR" },
+            { "name": "Attack Up (L)", "melody": "BBRB" }
+        ],
+        "skills": [{ "name": "Evade Extender", "level": 1 }]
+    },
+    {
+        "name": "Lumu Horn",
+        "name_upg": "Lumu Barone",
+        "type": "Hunting Horn",
+        "monster": "Paolumu",
+        "element": "None",
+        "buffs": [
+            { "name": "Sleep Negated", "melody": "BB" },
+            { "name": "Wind Pressure Resistance", "melody": "RR" },
+            { "name": "Attack Up (L)", "melody": "BBRB" }
+        ],
+        "skills": [{ "name": "Divine Blessing", "level": 2 }]
+    },
+    {
+        "name": "Nyx Barone",
+        "name_upg": "Nyx Barone",
+        "type": "Hunting Horn",
+        "monster": "Paolumu",
+        "element": "None",
+        "buffs": [
+            { "name": "Fire Resistance Up", "melody": "BB" },
+            { "name": "Evasion Distance Up", "melody": "RR" },
+            { "name": "Attack Up (L)", "melody": "BBRB" }
+        ],
+        "skills": [{ "name": "Sneak Attack", "level": 1 }]
+    }
+]
