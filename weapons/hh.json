@@ -384,5 +384,115 @@
             { "name": "Element Value Up (L)", "melody": "BBRB" }
         ],
         "skills": [{ "name": "Evade Extender", "level": 1 }]
+    },
+    {
+        "name": "Striped Dragonga",
+        "name_upg": "Striped Dragonga",
+        "type": "Hunting Horn",
+        "monster": "Tigrex",
+        "element": "None",
+        "buffs": [
+            { "name": "Defense Up", "melody": "BB" },
+            { "name": "Special Replenishment (S)", "melody": "RR" },
+            { "name": "Sonic Wave", "melody": "BRB" }
+        ],
+        "skills": [{ "name": "Critical Ferocity", "level": 1 }]
+    },
+    {
+        "name": "Thundercry Horn",
+        "name_upg": "Thundercry Horn",
+        "type": "Hunting Horn",
+        "monster": "Kirin",
+        "element": "Thunder",
+        "buffs": [
+            { "name": "Tremors Negated", "melody": "BB" },
+            { "name": "Special Replenishment (S)", "melody": "RR" },
+            { "name": "Affinity Up (L)", "melody": "BRRB" }
+        ],
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Latent Power", "level": 1 }
+        ]
+    },
+    {
+        "name": "Rookslayer Drum",
+        "name_upg": "Bazelreid Rookslayer",
+        "type": "Hunting Horn",
+        "monster": "Bazelgeuse",
+        "element": "Blast",
+        "buffs": [
+            { "name": "Tremors Negated", "melody": "BB" },
+            { "name": "Evasion Distance Up", "melody": "RR" },
+            { "name": "Sonic Wave", "melody": "BRB" }
+        ],
+        "skills": [{ "name": "Blast Attack", "level": 2 }]
+    },
+    {
+        "name": "Zurogong Primo",
+        "name_upg": "Zurogong Secundo",
+        "type": "Hunting Horn",
+        "monster": "Arzuros",
+        "element": "None",
+        "buffs": [
+            { "name": "Poison Negated", "melody": "BB" },
+            { "name": "Special Replenishment (S)", "melody": "RR" },
+            { "name": "Attack Up (S)", "melody": "BBR" }
+        ],
+        "skills": [{ "name": "Special Boost", "level": 2 }]
+    },
+    {
+        "name": "Hell Horn",
+        "name_upg": "Glavenus Horn+",
+        "type": "Hunting Horn",
+        "monster": "Glavenus",
+        "element": "Fire",
+        "buffs": [
+            { "name": "Knockbacks Negated", "melody": "BB" },
+            { "name": "Earplugs (S)", "melody": "RR" },
+            { "name": "Special Replenishment (L)", "melody": "RBR" }
+        ],
+        "skills": [{ "name": "Critical Ferocity", "level": 1 }]
+    },
+    {
+        "name": "Cursed Ocarina",
+        "name_upg": "Cursed Ocarina",
+        "type": "Hunting Horn",
+        "monster": "Chameleos",
+        "element": "Poison",
+        "buffs": [
+            { "name": "Defense Up", "melody": "BB" },
+            { "name": "Wind Pressure Negated", "melody": "RR" },
+            { "name": "Element Value Up (L)", "melody": "BBRB" }
+        ],
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Status Sneak Attack", "level": 2 }
+    ]
+    },
+    {
+        "name": "Hidden Harmonic",
+        "name_upg": "Hidden Harmonic",
+        "type": "Hunting Horn",
+        "monster": "Nargacuga",
+        "element": "None",
+        "buffs": [
+            { "name": "Evasion Distance Up", "melody": "BB" },
+            { "name": "Affinity Up (S)", "melody": "RR" },
+            { "name": "Special Replenishment (L)", "melody": "RBR" }
+        ],
+        "skills": [{ "name": "Resuscitate", "level": 2 }]
+    },
+    {
+        "name": "Bone Horn",
+        "name_upg": "Hardened Bone Horn",
+        "type": "Hunting Horn",
+        "monster": "Bone",
+        "element": "None",
+        "buffs": [
+            { "name": "Evasion Distance Up", "melody": "BB" },
+            { "name": "Earplugs (S)", "melody": "RR" },
+            { "name": "Attack Up (L)", "melody": "BBRB" }
+        ],
+        "skills": [{ "name": "Concentration", "level": 1 }]
     }
 ]
