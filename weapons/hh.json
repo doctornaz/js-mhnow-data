@@ -327,8 +327,62 @@
         ],
         "skills": [
             { "name": "Hunter's Unity", "level": 1 },
-            { "name": "Blast Attack", "level": 2 }
+            { "name": "Heroics", "level": 2 }
         ]
     },
+    {
+        "name": "Sinister Strum",
+        "name_upg": "Sinister Shadestrum",
+        "type": "Hunting Horn",
+        "monster": "Magnamalo",
+        "element": "Blast",
+        "buffs": [
+            { "name": "Sleep Negated", "melody": "BB" },
+            { "name": "Knockbacks Negated", "melody": "RR" },
+            { "name": "Element Value Up (L)", "melody": "BBRB" }
+        ],
+        "skills": [{ "name": "Partbreaker", "level": 1 }]
+    },
+    {
+        "name": "Denden Daiko",
+        "name_upg": "Denden Doomsounder",
+        "type": "Hunting Horn",
+        "monster": "Rajang",
+        "element": "Thunder",
+        "buffs": [
+            { "name": "Water Resistance Up", "melody": "BB" },
+            { "name": "Earplugs (S)", "melody": "RR" },
+            { "name": "Element Value Up (L)", "melody": "BBRB" }
+        ],
+        "skills": [{ "name": "Raw Power", "level": 1 }]
+    },
+    {
+        "name": "Desolation's Overture",
+        "name_upg": "Desolation's Overture",
+        "type": "Hunting Horn",
+        "monster": "Nergigante",
+        "element": "Dragon",
+        "buffs": [
+            { "name": "Water Resistance Up", "melody": "BB" },
+            { "name": "Knockbacks Negated", "melody": "RR" },
+            { "name": "Element Value Up (L)", "melody": "BBRB" }
+        ],
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Partbreaker", "level": 2 }
+        ]
+    },
+    {
+        "name": "Frilled Flute",
+        "name_upg": "Illusory Flute",
+        "type": "Hunting Horn",
+        "monster": "Somnacanth",
+        "element": "Sleep",
+        "buffs": [
+            { "name": "Paralysis Negated", "melody": "BB" },
+            { "name": "Knockbacks Negated", "melody": "RR" },
+            { "name": "Element Value Up (L)", "melody": "BBRB" }
+        ],
+        "skills": [{ "name": "Evade Extender", "level": 1 }]
     }
 ]
