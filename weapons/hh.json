@@ -245,5 +245,32 @@
             { "name": "Thunder Attack Up", "melody": "RBBR" }
         ],
         "skills": [{ "name": "Artful Dodger", "level": 1 }]
+    },
+    {
+        "name": "Devil's Maestro",
+        "name_upg": "Deep Vero",
+        "type": "Hunting Horn",
+        "monster": "Deviljho",
+        "element": "Dragon",
+        "buffs": [
+            { "name": "Poison Negated", "melody": "BB" },
+            { "name": "Wind Pressure Negated", "melody": "RR" },
+            { "name": "Attack Up (L)", "melody": "BBRB" }
+        ],
+        "skills": [{ "name": "Power Prolonger", "level": 1 }]
+    },
+    {
+        "name": "Basarios Rock",
+        "name_upg": "Gigant Rock",
+        "type": "Hunting Horn",
+        "monster": "Basarios",
+        "element": "Fire",
+        "buffs": [
+            { "name": "Ice Resistance Up", "melody": "BB" },
+            { "name": "Divine Protection", "melody": "RR" },
+            { "name": "Attack Up (S)", "melody": "BBR" }
+        ],
+        "skills": [{ "name": "Heroics", "level": 1 }]
+    },
     }
 ]
