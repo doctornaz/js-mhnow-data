@@ -115,5 +115,135 @@
             { "name": "Attack Up (L)", "melody": "BBRB" }
         ],
         "skills": [{ "name": "Last Stand", "level": 1 }]
+    },
+    {
+        "name": "Blazing Horn",
+        "name_upg": "Anja Barone",
+        "type": "Hunting Horn",
+        "monster": "Anjanath",
+        "element": "Fire",
+        "buffs": [
+            { "name": "Special Replenishment (S)", "melody": "BB" },
+            { "name": "Wind Pressure Resistance", "melody": "RR" },
+            { "name": "Attack Up (L)", "melody": "BBRB" }
+        ],
+        "skills": [{ "name": "Rising Tide", "level": 1 }]
+    },
+    {
+        "name": "Valkyrie Chordmaker",
+        "name_upg": "Queen Chordmaker",
+        "type": "Hunting Horn",
+        "monster": "Rathian",
+        "element": "Poison",
+        "buffs": [
+            { "name": "Dragon Resistance Up", "melody": "BB" },
+            { "name": "Tremors Negated", "melody": "RR" },
+            { "name": "Attack Up (L)", "melody": "BBRB" }
+        ],
+        "skills": [{ "name": "Health Boost", "level": 2 }]
+    },
+    {
+        "name": "Coral Chordmaker",
+        "name_upg": "Coral Chordmaker",
+        "type": "Hunting Horn",
+        "monster": "Pink Rathian",
+        "element": "Fire",
+        "buffs": [
+            { "name": "Thunder Resistance Up", "melody": "BB" },
+            { "name": "Earplugs (L)", "melody": "RR" },
+            { "name": "Fire Attack Up", "melody": "RBBR" }
+        ],
+        "skills": [{ "name": "Evade Extender", "level": 1 }]
+    },
+    {
+        "name": "Gold Chordmaker",
+        "name_upg": "Gold Chordmaker",
+        "type": "Hunting Horn",
+        "monster": "Gold Rathian",
+        "element": "Fire",
+        "buffs": [
+            { "name": "Paralysis Negated", "melody": "BB" },
+            { "name": "Attack Up (S)", "melody": "RR" },
+            { "name": "Sonic Wave", "melody": "BRB" }
+        ],
+        "skills": [{ "name": "Critical Eye", "level": 2 }]
+    },
+    {
+        "name": "Glacial Bagpipe",
+        "name_upg": "Sectored",
+        "type": "Hunting Horn",
+        "monster": "Legiana",
+        "element": "Ice",
+        "buffs": [
+            { "name": "Thunder Resistance Up", "melody": "BB" },
+            { "name": "Earplugs (S)", "melody": "RR" },
+            { "name": "Element Value Up (L)", "melody": "BBRB" }
+        ],
+        "skills": [{ "name": "Divine Blessing", "level": 2 }]
+    },
+    {
+        "name": "Duo Horn",
+        "name_upg": "Duo Risoluto",
+        "type": "Hunting Horn",
+        "monster": "Diablos",
+        "element": "None",
+        "buffs": [
+            { "name": "Tremors Negated", "melody": "BB" },
+            { "name": "Earplugs (L)", "melody": "RR" },
+            { "name": "Attack Up (S)", "melody": "BBR" }
+        ],
+        "skills": [{ "name": "Heroics", "level": 1 }]
+    },
+    {
+        "name": "Flame Feroce",
+        "name_upg": "Rathalos Feroce",
+        "type": "Hunting Horn",
+        "monster": "Rathalos",
+        "element": "Fire",
+        "buffs": [
+            { "name": "Ice Resistance Up", "melody": "BB" },
+            { "name": "Special Replenishment (S)", "melody": "RR" },
+            { "name": "Element Value Up (L)", "melody": "BBRB" }
+        ],
+        "skills": [{ "name": "Earplugs", "level": 1 }]
+    },
+    {
+        "name": "Spiked Horn",
+        "name_upg": "Baan Horn",
+        "type": "Hunting Horn",
+        "monster": "Radobaan",
+        "element": "Sleep",
+        "buffs": [
+            { "name": "Knockbacks Negated", "melody": "BB" },
+            { "name": "Divine Protection", "melody": "RR" },
+            { "name": "Sonic Wave", "melody": "BRB" }
+        ],
+        "skills": [{ "name": "Defense Boost", "level": 2 }]
+    },
+    {
+        "name": "Icicle Horn",
+        "name_upg": "Barioth Horn+",
+        "type": "Hunting Horn",
+        "monster": "Barioth",
+        "element": "Ice",
+        "buffs": [
+            { "name": "Poison Negated", "melody": "BB" },
+            { "name": "Wind Pressure Resistance", "melody": "RR" },
+            { "name": "Affinity Up (L)", "melody": "BRRB" }
+        ],
+        "skills": [{ "name": "Evade Extender", "level": 1 }]
+    },
+    {
+        "name": "Usurper's Growl",
+        "name_upg": "Despot's Thunderclap",
+        "type": "Hunting Horn",
+        "monster": "Zinogre",
+        "element": "Thunder",
+        "buffs": [
+            { "name": "Poison Negated", "melody": "BB" },
+            { "name": "Knockbacks Negated", "melody": "RR" },
+            { "name": "Thunder Attack Up", "melody": "RBBR" }
+        ],
+        "skills": [{ "name": "Artful Dodger", "level": 1 }]
     }
 ]
