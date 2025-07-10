@@ -272,5 +272,63 @@
         ],
         "skills": [{ "name": "Heroics", "level": 1 }]
     },
+    {
+        "name": "Khezu Horn",
+        "name_upg": "Khezu Flute",
+        "type": "Hunting Horn",
+        "monster": "Khezu",
+        "element": "Thunder",
+        "buffs": [
+            { "name": "Muck/Snow Negated", "melody": "BB" },
+            { "name": "Affinity Up (S)", "melody": "RR" },
+            { "name": "Sonic Wave", "melody": "BRB" }
+        ],
+        "skills": [{ "name": "Peak Performance", "level": 2 }]
+    },
+    {
+        "name": "Daora's Baphophone",
+        "name_upg": "Daora's Baphophone",
+        "type": "Hunting Horn",
+        "monster": "Kushala Daora",
+        "element": "Ice",
+        "buffs": [
+            { "name": "Fire Resistance Up", "melody": "BB" },
+            { "name": "Attack Up (S)", "melody": "RR" },
+            { "name": "Diffused Sonic Wave", "melody": "BRB" }
+        ],
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Windproof", "level": 2 }
+        ]
+    },
+    {
+        "name": "Poetic Bell",
+        "name_upg": "Summoning Bell",
+        "type": "Hunting Horn",
+        "monster": "Mizutsune",
+        "element": "Water",
+        "buffs": [
+            { "name": "Dragon Resistance Up", "melody": "BB" },
+            { "name": "Evasion Distance Up", "melody": "RR" },
+            { "name": "Affinity Up (L)", "melody": "BRRB" }
+        ],
+        "skills": [{ "name": "Artful Dodger", "level": 1 }]
+    },
+    {
+        "name": "Teostra Horn",
+        "name_upg": "Teostra Horn+",
+        "type": "Hunting Horn",
+        "monster": "Teostra",
+        "element": "Blast",
+        "buffs": [
+            { "name": "Poison Negated/Cured", "melody": "BB" },
+            { "name": "Element Value Up (S)", "melody": "RR" },
+            { "name": "Special Replenishment (L)", "melody": "RBR" }
+        ],
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Blast Attack", "level": 2 }
+        ]
+    },
     }
 ]
