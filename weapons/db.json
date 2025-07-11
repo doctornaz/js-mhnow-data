@@ -75,6 +75,14 @@
         ]
     },
     {
+        "name": "Banbaro Bashers",
+        "name_upg": "Banbaro Bashers+",
+        "type": "Dual Blades",
+        "monster": "Banbaro",
+        "element": "None",
+        "skills": [{ "name": "Stamina Thief", "level": 1 }]
+    },
+    {
         "name": "Baan Claws",
         "name_upg": "Baan Claws+",
         "type": "Dual Blades",
@@ -89,14 +97,6 @@
         "monster": "Silver Rathalos",
         "element": "Fire",
         "skills": [{ "name": "Critical Element", "level": 2 }]
-    },
-    {
-        "name": "Banbaro Bashers",
-        "name_upg": "Banbaro Bashers+",
-        "type": "Dual Blades",
-        "monster": "Banbaro",
-        "element": "None",
-        "skills": [{ "name": "Stamina Thief", "level": 1 }]
     },
     {
         "name": "Barioth Claws",
