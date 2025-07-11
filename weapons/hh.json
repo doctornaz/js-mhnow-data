@@ -1,0 +1,498 @@
+[
+    {
+        "name": "Metal Bagpipe",
+        "name_upg": "Great Bagpipe",
+        "type": "Sword and Shield",
+        "monster": "Hunter",
+        "element": "None",
+        "buffs": [
+            { "name": "Muck/Snow Negated", "melody": "BB" },
+            { "name": "Divine Protection", "melody": "RR" },
+            { "name": "Attack Up (S)", "melody": "BBR" }
+        ],
+        "skills": [{ "name": "Poison Resistance", "level": 2 }]
+    },
+    {
+        "name": "Kulu Duda",
+        "name_upg": "Dancing Davul",
+        "type": "Hunting Horn",
+        "monster": "Kulu-Ya-Ku",
+        "element": "None",
+        "buffs": [
+            { "name": "Paralysis Negated", "melody": "BB" },
+            { "name": "Affinity Up (S)", "melody": "RR" },
+            { "name": "Sonic Wave", "melody": "BRB" }
+        ],
+        "skills": [{ "name": "Fortify", "level": 2 }]
+    },
+    {
+        "name": "Blooming Horn",
+        "name_upg": "Datura Horn",
+        "type": "Hunting Horn",
+        "monster": "Pukei-Pukei",
+        "element": "Poison",
+        "buffs": [
+            { "name": "Thunder Resistance Up", "melody": "BB" },
+            { "name": "Evasion Distance Up", "melody": "RR" },
+            { "name": "Sonic Wave", "melody": "BRB" }
+        ],
+        "skills": [{ "name": "Sneak Attack", "level": 1 }]
+    },
+    {
+        "name": "Laguna Drum",
+        "name_upg": "Laguna Drum",
+        "type": "Hunting Horn",
+        "monster": "Coral Pukei-Pukei",
+        "element": "Poison",
+        "buffs": [
+            { "name": "Sleep Negated", "melody": "BB" },
+            { "name": "Wind Pressure Resistance", "melody": "RR" },
+            { "name": "Water Attack Up", "melody": "RBBR" }
+        ],
+        "skills": [{ "name": "Earplugs", "level": 1 }]
+    },
+    {
+        "name": "Sandpipe",
+        "name_upg": "Sandcrier",
+        "type": "Hunting Horn",
+        "monster": "Barroth",
+        "element": "None",
+        "buffs": [
+            { "name": "Defense Up", "melody": "BB" },
+            { "name": "Knockbacks Negated", "melody": "RR" },
+            { "name": "Attack Up (L)", "melody": "BBRB" }
+        ],
+        "skills": [{ "name": "Defense Boost", "level": 2 }]
+    },
+    {
+        "name": "Thunder Gaida",
+        "name_upg": "Lightning Drum",
+        "type": "Hunting Horn",
+        "monster": "Tobi-Kadachi",
+        "element": "Thunder",
+        "buffs": [
+            { "name": "Sleep Negated", "melody": "BB" },
+            { "name": "Earplugs (L)", "melody": "RR" },
+            { "name": "Attack Up (L)", "melody": "BBRB" }
+        ],
+        "skills": [{ "name": "Evade Extender", "level": 1 }]
+    },
+    {
+        "name": "Lumu Horn",
+        "name_upg": "Lumu Barone",
+        "type": "Hunting Horn",
+        "monster": "Paolumu",
+        "element": "None",
+        "buffs": [
+            { "name": "Sleep Negated", "melody": "BB" },
+            { "name": "Wind Pressure Resistance", "melody": "RR" },
+            { "name": "Attack Up (L)", "melody": "BBRB" }
+        ],
+        "skills": [{ "name": "Divine Blessing", "level": 2 }]
+    },
+    {
+        "name": "Nyx Barone",
+        "name_upg": "Nyx Barone",
+        "type": "Hunting Horn",
+        "monster": "Paolumu",
+        "element": "None",
+        "buffs": [
+            { "name": "Fire Resistance Up", "melody": "BB" },
+            { "name": "Evasion Distance Up", "melody": "RR" },
+            { "name": "Attack Up (L)", "melody": "BBRB" }
+        ],
+        "skills": [{ "name": "Sneak Attack", "level": 1 }]
+    },
+    {
+        "name": "Aqua Bagpipe",
+        "name_upg": "Water Tamtam",
+        "type": "Hunting Horn",
+        "monster": "Jyuratodus",
+        "element": "Water",
+        "buffs": [
+            { "name": "Fire Resistance Up", "melody": "BB" },
+            { "name": "Earplugs (S)", "melody": "RR" },
+            { "name": "Attack Up (L)", "melody": "BBRB" }
+        ],
+        "skills": [{ "name": "Last Stand", "level": 1 }]
+    },
+    {
+        "name": "Blazing Horn",
+        "name_upg": "Anja Barone",
+        "type": "Hunting Horn",
+        "monster": "Anjanath",
+        "element": "Fire",
+        "buffs": [
+            { "name": "Special Replenishment (S)", "melody": "BB" },
+            { "name": "Wind Pressure Resistance", "melody": "RR" },
+            { "name": "Attack Up (L)", "melody": "BBRB" }
+        ],
+        "skills": [{ "name": "Rising Tide", "level": 1 }]
+    },
+    {
+        "name": "Valkyrie Chordmaker",
+        "name_upg": "Queen Chordmaker",
+        "type": "Hunting Horn",
+        "monster": "Rathian",
+        "element": "Poison",
+        "buffs": [
+            { "name": "Dragon Resistance Up", "melody": "BB" },
+            { "name": "Tremors Negated", "melody": "RR" },
+            { "name": "Attack Up (L)", "melody": "BBRB" }
+        ],
+        "skills": [{ "name": "Health Boost", "level": 2 }]
+    },
+    {
+        "name": "Coral Chordmaker",
+        "name_upg": "Coral Chordmaker",
+        "type": "Hunting Horn",
+        "monster": "Pink Rathian",
+        "element": "Fire",
+        "buffs": [
+            { "name": "Thunder Resistance Up", "melody": "BB" },
+            { "name": "Earplugs (L)", "melody": "RR" },
+            { "name": "Fire Attack Up", "melody": "RBBR" }
+        ],
+        "skills": [{ "name": "Evade Extender", "level": 1 }]
+    },
+    {
+        "name": "Gold Chordmaker",
+        "name_upg": "Gold Chordmaker",
+        "type": "Hunting Horn",
+        "monster": "Gold Rathian",
+        "element": "Fire",
+        "buffs": [
+            { "name": "Paralysis Negated", "melody": "BB" },
+            { "name": "Attack Up (S)", "melody": "RR" },
+            { "name": "Sonic Wave", "melody": "BRB" }
+        ],
+        "skills": [{ "name": "Critical Eye", "level": 2 }]
+    },
+    {
+        "name": "Glacial Bagpipe",
+        "name_upg": "Sectored",
+        "type": "Hunting Horn",
+        "monster": "Legiana",
+        "element": "Ice",
+        "buffs": [
+            { "name": "Thunder Resistance Up", "melody": "BB" },
+            { "name": "Earplugs (S)", "melody": "RR" },
+            { "name": "Element Value Up (L)", "melody": "BBRB" }
+        ],
+        "skills": [{ "name": "Divine Blessing", "level": 2 }]
+    },
+    {
+        "name": "Duo Horn",
+        "name_upg": "Duo Risoluto",
+        "type": "Hunting Horn",
+        "monster": "Diablos",
+        "element": "None",
+        "buffs": [
+            { "name": "Tremors Negated", "melody": "BB" },
+            { "name": "Earplugs (L)", "melody": "RR" },
+            { "name": "Attack Up (S)", "melody": "BBR" }
+        ],
+        "skills": [{ "name": "Heroics", "level": 1 }]
+    },
+    {
+        "name": "Flame Feroce",
+        "name_upg": "Rathalos Feroce",
+        "type": "Hunting Horn",
+        "monster": "Rathalos",
+        "element": "Fire",
+        "buffs": [
+            { "name": "Ice Resistance Up", "melody": "BB" },
+            { "name": "Special Replenishment (S)", "melody": "RR" },
+            { "name": "Element Value Up (L)", "melody": "BBRB" }
+        ],
+        "skills": [{ "name": "Earplugs", "level": 1 }]
+    },
+    {
+        "name": "Spiked Horn",
+        "name_upg": "Baan Horn",
+        "type": "Hunting Horn",
+        "monster": "Radobaan",
+        "element": "Sleep",
+        "buffs": [
+            { "name": "Knockbacks Negated", "melody": "BB" },
+            { "name": "Divine Protection", "melody": "RR" },
+            { "name": "Sonic Wave", "melody": "BRB" }
+        ],
+        "skills": [{ "name": "Defense Boost", "level": 2 }]
+    },
+    {
+        "name": "Icicle Horn",
+        "name_upg": "Barioth Horn+",
+        "type": "Hunting Horn",
+        "monster": "Barioth",
+        "element": "Ice",
+        "buffs": [
+            { "name": "Poison Negated", "melody": "BB" },
+            { "name": "Wind Pressure Resistance", "melody": "RR" },
+            { "name": "Affinity Up (L)", "melody": "BRRB" }
+        ],
+        "skills": [{ "name": "Evade Extender", "level": 1 }]
+    },
+    {
+        "name": "Usurper's Growl",
+        "name_upg": "Despot's Thunderclap",
+        "type": "Hunting Horn",
+        "monster": "Zinogre",
+        "element": "Thunder",
+        "buffs": [
+            { "name": "Poison Negated", "melody": "BB" },
+            { "name": "Knockbacks Negated", "melody": "RR" },
+            { "name": "Thunder Attack Up", "melody": "RBBR" }
+        ],
+        "skills": [{ "name": "Artful Dodger", "level": 1 }]
+    },
+    {
+        "name": "Devil's Maestro",
+        "name_upg": "Deep Vero",
+        "type": "Hunting Horn",
+        "monster": "Deviljho",
+        "element": "Dragon",
+        "buffs": [
+            { "name": "Poison Negated", "melody": "BB" },
+            { "name": "Wind Pressure Negated", "melody": "RR" },
+            { "name": "Attack Up (L)", "melody": "BBRB" }
+        ],
+        "skills": [{ "name": "Power Prolonger", "level": 1 }]
+    },
+    {
+        "name": "Basarios Rock",
+        "name_upg": "Gigant Rock",
+        "type": "Hunting Horn",
+        "monster": "Basarios",
+        "element": "Fire",
+        "buffs": [
+            { "name": "Ice Resistance Up", "melody": "BB" },
+            { "name": "Divine Protection", "melody": "RR" },
+            { "name": "Attack Up (S)", "melody": "BBR" }
+        ],
+        "skills": [{ "name": "Heroics", "level": 1 }]
+    },
+    {
+        "name": "Khezu Horn",
+        "name_upg": "Khezu Flute",
+        "type": "Hunting Horn",
+        "monster": "Khezu",
+        "element": "Thunder",
+        "buffs": [
+            { "name": "Muck/Snow Negated", "melody": "BB" },
+            { "name": "Affinity Up (S)", "melody": "RR" },
+            { "name": "Sonic Wave", "melody": "BRB" }
+        ],
+        "skills": [{ "name": "Peak Performance", "level": 2 }]
+    },
+    {
+        "name": "Daora's Baphophone",
+        "name_upg": "Daora's Baphophone",
+        "type": "Hunting Horn",
+        "monster": "Kushala Daora",
+        "element": "Ice",
+        "buffs": [
+            { "name": "Fire Resistance Up", "melody": "BB" },
+            { "name": "Attack Up (S)", "melody": "RR" },
+            { "name": "Diffused Sonic Wave", "melody": "BRB" }
+        ],
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Windproof", "level": 2 }
+        ]
+    },
+    {
+        "name": "Poetic Bell",
+        "name_upg": "Summoning Bell",
+        "type": "Hunting Horn",
+        "monster": "Mizutsune",
+        "element": "Water",
+        "buffs": [
+            { "name": "Dragon Resistance Up", "melody": "BB" },
+            { "name": "Evasion Distance Up", "melody": "RR" },
+            { "name": "Affinity Up (L)", "melody": "BRRB" }
+        ],
+        "skills": [{ "name": "Artful Dodger", "level": 1 }]
+    },
+    {
+        "name": "Teostra Horn",
+        "name_upg": "Teostra Horn+",
+        "type": "Hunting Horn",
+        "monster": "Teostra",
+        "element": "Blast",
+        "buffs": [
+            { "name": "Poison Negated/Cured", "melody": "BB" },
+            { "name": "Element Value Up (S)", "melody": "RR" },
+            { "name": "Special Replenishment (L)", "melody": "RBR" }
+        ],
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Heroics", "level": 2 }
+        ]
+    },
+    {
+        "name": "Sinister Strum",
+        "name_upg": "Sinister Shadestrum",
+        "type": "Hunting Horn",
+        "monster": "Magnamalo",
+        "element": "Blast",
+        "buffs": [
+            { "name": "Sleep Negated", "melody": "BB" },
+            { "name": "Knockbacks Negated", "melody": "RR" },
+            { "name": "Element Value Up (L)", "melody": "BBRB" }
+        ],
+        "skills": [{ "name": "Partbreaker", "level": 1 }]
+    },
+    {
+        "name": "Denden Daiko",
+        "name_upg": "Denden Doomsounder",
+        "type": "Hunting Horn",
+        "monster": "Rajang",
+        "element": "Thunder",
+        "buffs": [
+            { "name": "Water Resistance Up", "melody": "BB" },
+            { "name": "Earplugs (S)", "melody": "RR" },
+            { "name": "Element Value Up (L)", "melody": "BBRB" }
+        ],
+        "skills": [{ "name": "Raw Power", "level": 1 }]
+    },
+    {
+        "name": "Desolation's Overture",
+        "name_upg": "Desolation's Overture",
+        "type": "Hunting Horn",
+        "monster": "Nergigante",
+        "element": "Dragon",
+        "buffs": [
+            { "name": "Water Resistance Up", "melody": "BB" },
+            { "name": "Knockbacks Negated", "melody": "RR" },
+            { "name": "Element Value Up (L)", "melody": "BBRB" }
+        ],
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Partbreaker", "level": 2 }
+        ]
+    },
+    {
+        "name": "Frilled Flute",
+        "name_upg": "Illusory Flute",
+        "type": "Hunting Horn",
+        "monster": "Somnacanth",
+        "element": "Sleep",
+        "buffs": [
+            { "name": "Paralysis Negated", "melody": "BB" },
+            { "name": "Knockbacks Negated", "melody": "RR" },
+            { "name": "Element Value Up (L)", "melody": "BBRB" }
+        ],
+        "skills": [{ "name": "Evade Extender", "level": 1 }]
+    },
+    {
+        "name": "Striped Dragonga",
+        "name_upg": "Striped Dragonga",
+        "type": "Hunting Horn",
+        "monster": "Tigrex",
+        "element": "None",
+        "buffs": [
+            { "name": "Defense Up", "melody": "BB" },
+            { "name": "Special Replenishment (S)", "melody": "RR" },
+            { "name": "Sonic Wave", "melody": "BRB" }
+        ],
+        "skills": [{ "name": "Critical Ferocity", "level": 1 }]
+    },
+    {
+        "name": "Thundercry Horn",
+        "name_upg": "Thundercry Horn",
+        "type": "Hunting Horn",
+        "monster": "Kirin",
+        "element": "Thunder",
+        "buffs": [
+            { "name": "Tremors Negated", "melody": "BB" },
+            { "name": "Special Replenishment (S)", "melody": "RR" },
+            { "name": "Affinity Up (L)", "melody": "BRRB" }
+        ],
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Latent Power", "level": 1 }
+        ]
+    },
+    {
+        "name": "Rookslayer Drum",
+        "name_upg": "Bazelreid Rookslayer",
+        "type": "Hunting Horn",
+        "monster": "Bazelgeuse",
+        "element": "Blast",
+        "buffs": [
+            { "name": "Tremors Negated", "melody": "BB" },
+            { "name": "Evasion Distance Up", "melody": "RR" },
+            { "name": "Sonic Wave", "melody": "BRB" }
+        ],
+        "skills": [{ "name": "Blast Attack", "level": 2 }]
+    },
+    {
+        "name": "Zurogong Primo",
+        "name_upg": "Zurogong Secundo",
+        "type": "Hunting Horn",
+        "monster": "Arzuros",
+        "element": "None",
+        "buffs": [
+            { "name": "Poison Negated", "melody": "BB" },
+            { "name": "Special Replenishment (S)", "melody": "RR" },
+            { "name": "Attack Up (S)", "melody": "BBR" }
+        ],
+        "skills": [{ "name": "Special Boost", "level": 2 }]
+    },
+    {
+        "name": "Hell Horn",
+        "name_upg": "Glavenus Horn+",
+        "type": "Hunting Horn",
+        "monster": "Glavenus",
+        "element": "Fire",
+        "buffs": [
+            { "name": "Knockbacks Negated", "melody": "BB" },
+            { "name": "Earplugs (S)", "melody": "RR" },
+            { "name": "Special Replenishment (L)", "melody": "RBR" }
+        ],
+        "skills": [{ "name": "Critical Ferocity", "level": 1 }]
+    },
+    {
+        "name": "Cursed Ocarina",
+        "name_upg": "Cursed Ocarina",
+        "type": "Hunting Horn",
+        "monster": "Chameleos",
+        "element": "Poison",
+        "buffs": [
+            { "name": "Defense Up", "melody": "BB" },
+            { "name": "Wind Pressure Negated", "melody": "RR" },
+            { "name": "Element Value Up (L)", "melody": "BBRB" }
+        ],
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Status Sneak Attack", "level": 2 }
+    ]
+    },
+    {
+        "name": "Hidden Harmonic",
+        "name_upg": "Hidden Harmonic",
+        "type": "Hunting Horn",
+        "monster": "Nargacuga",
+        "element": "None",
+        "buffs": [
+            { "name": "Evasion Distance Up", "melody": "BB" },
+            { "name": "Affinity Up (S)", "melody": "RR" },
+            { "name": "Special Replenishment (L)", "melody": "RBR" }
+        ],
+        "skills": [{ "name": "Resuscitate", "level": 2 }]
+    },
+    {
+        "name": "Bone Horn",
+        "name_upg": "Hardened Bone Horn",
+        "type": "Hunting Horn",
+        "monster": "Bone",
+        "element": "None",
+        "buffs": [
+            { "name": "Evasion Distance Up", "melody": "BB" },
+            { "name": "Earplugs (S)", "melody": "RR" },
+            { "name": "Attack Up (L)", "melody": "BBRB" }
+        ],
+        "skills": [{ "name": "Concentration", "level": 1 }]
+    }
+]
