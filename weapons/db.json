@@ -56,6 +56,14 @@
         "skills": [{ "name": "Heroics", "level": 1 }]
     },
     {
+        "name": "Thanatos Mauls",
+        "name_upg": "Thanatos Mauls",
+        "type": "Dual Blades",
+        "monster": "Black Diablos",
+        "element": "None",
+        "skills": [{ "name": "Partbreaker", "level": 1 }]
+    },
+    {
         "name": "Baan Claws",
         "name_upg": "Baan Claws+",
         "type": "Dual Blades",
