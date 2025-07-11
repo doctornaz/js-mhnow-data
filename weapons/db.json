@@ -64,6 +64,17 @@
         "skills": [{ "name": "Partbreaker", "level": 1 }]
     },
     {
+        "name": "Wyvern Strife",
+        "name_upg": "Wyvern Strife",
+        "type": "Dual Blades",
+        "monster": "Silver Rathalos/Gold Rathian",
+        "element": "Fire",
+        "skills": [
+            { "name": "Critical Element", "level": 2 },
+            { "name": "Poison Exploit", "level": 1 }
+        ]
+    },
+    {
         "name": "Baan Claws",
         "name_upg": "Baan Claws+",
         "type": "Dual Blades",
