@@ -75,32 +75,16 @@
         ]
     },
     {
-        "name": "Banbaro Bashers",
-        "name_upg": "Banbaro Bashers+",
+        "name": "Mammoth Direbones",
+        "name_upg": "Mammoth Direbones",
         "type": "Dual Blades",
         "monster": "Banbaro",
         "element": "None",
-        "skills": [{ "name": "Stamina Thief", "level": 1 }]
+        "skills": [{ "name": "Firm Foothold", "level": 2 }]
     },
     {
-        "name": "Baan Claws",
-        "name_upg": "Baan Claws+",
-        "type": "Dual Blades",
-        "monster": "Radobaan",
-        "element": "Sleep",
-        "skills": [{ "name": "Defense Boost", "level": 1 }]
-    },
-    {
-        "name": "Silver Sabers",
-        "name_upg": "Silver Sabers+",
-        "type": "Dual Blades",
-        "monster": "Silver Rathalos",
-        "element": "Fire",
-        "skills": [{ "name": "Critical Element", "level": 2 }]
-    },
-    {
-        "name": "Barioth Claws",
-        "name_upg": "Barioth Claws+",
+        "name": "Blizzarioths",
+        "name_upg": "Blizzarioths",
         "type": "Dual Blades",
         "monster": "Barioth",
         "element": "Ice",
@@ -115,40 +99,40 @@
         "skills": [{ "name": "Artful Dodger", "level": 1 }]
     },
     {
-        "name": "Tzitzi Claws",
-        "name_upg": "Tzitzi Claws+",
+        "name": "Luminous Daggers",
+        "name_upg": "Dual Destroyers",
         "type": "Dual Blades",
         "monster": "Tzitzi-Ya-Ku",
-        "element": "None",
-        "skills": [{ "name": "Stun Power Up", "level": 1 }]
+        "element": "Thunder",
+        "skills": [{ "name": "Lock On", "level": 1 }]
     },
     {
-        "name": "Odogaron Slicers",
-        "name_upg": "Odogaron Slicers+",
+        "name": "Garon Hatches",
+        "name_upg": "Blood-drinker Chainblade",
         "type": "Dual Blades",
         "monster": "Odogaron",
         "element": "None",
-        "skills": [{ "name": "Bleeding Resistance", "level": 1 }]
+        "skills": [{ "name": "Evasive Concentration", "level": 1 }]
     },
     {
-        "name": "Ebony Odogaron Slicers",
-        "name_upg": "Ebony Odogaron Slicers+",
+        "name": "Nether Chainblades",
+        "name_upg": "Death Row",
         "type": "Dual Blades",
         "monster": "Ebony Odogaron",
         "element": "Dragon",
-        "skills": [{ "name": "Critical Eye", "level": 1 }]
+        "skills": [{ "name": "Critical Boost", "level": 1 }]
     },
     {
-        "name": "Deviljho Slicers",
-        "name_upg": "Deviljho Slicers+",
+        "name": "Wrath & Rancor",
+        "name_upg": "Wrathful Predation",
         "type": "Dual Blades",
         "monster": "Deviljho",
         "element": "Dragon",
-        "skills": [{ "name": "Power Prolonger", "level": 1 }]
+        "skills": [{ "name": "Burst", "level": 2 }]
     },
     {
-        "name": "Daora's Talons",
-        "name_upg": "Daora's Talons+",
+        "name": "Daora's Hook",
+        "name_upg": "Daora's Hook",
         "type": "Dual Blades",
         "monster": "Kushala Daora",
         "element": "Ice",
@@ -158,36 +142,36 @@
         ]
     },
     {
-        "name": "Mizutsune Fans",
-        "name_upg": "Mizutsune Fans+",
+        "name": "Morning Dawn",
+        "name_upg": "Evening Dusk",
         "type": "Dual Blades",
         "monster": "Mizutsune",
         "element": "Water",
         "skills": [{ "name": "Artful Dodger", "level": 1 }]
     },
     {
-        "name": "Aknosom Fans",
-        "name_upg": "Aknosom Fans+",
+        "name": "Schirmscorn",
+        "name_upg": "Daybreak Daggers",
         "type": "Dual Blades",
         "monster": "Aknosom",
         "element": "Fire",
-        "skills": [{ "name": "Fire Attack", "level": 1 }]
+        "skills": [{ "name": "Lock On", "level": 1 }]
     },
     {
-        "name": "Sinister Fangs",
-        "name_upg": "Sinister Shadeslicers",
+        "name": "Sinister Blades",
+        "name_upg": "Sinister Famineblades",
         "type": "Dual Blades",
         "monster": "Magnamalo",
         "element": "Blast",
         "skills": [{ "name": "Partbreaker", "level": 1 }]
     },
     {
-        "name": "Rajang Claws",
-        "name_upg": "Rajang Claws+",
+        "name": "Suzuka Takamaru",
+        "name_upg": "Suzuka Otakemaru",
         "type": "Dual Blades",
         "monster": "Rajang",
         "element": "Thunder",
-        "skills": [{ "name": "Slugger", "level": 2 }]
+        "skills": [{ "name": "Power Prolonger", "level": 2 }]
     },
     {
         "name": "Nergigante Slicers",
