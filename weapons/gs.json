@@ -1,0 +1,321 @@
+[
+    {
+        "name": "Buster Sword",
+        "name_upg": "Buster Blade",
+        "type": "Great Sword",
+        "monster": "Iron",
+        "element": "None",
+        "skills": [{ "name": "Poison Resistance", "level": 2 }]
+    },
+    {
+        "name": "Jagras Blade",
+        "name_upg": "Jagras Hacker",
+        "type": "Great Sword",
+        "monster": "Great Jagras",
+        "element": "Water",
+        "skills": [{ "name": "Health Boost", "level": 2 }]
+    },
+    {
+        "name": "Blooming Blade",
+        "name_upg": "Datura Blaze",
+        "type": "Great Sword",
+        "monster": "Pukei-Pukei",
+        "element": "Poison",
+        "skills": [{ "name": "Sneak Attack", "level": 1 }]
+    },
+    {
+        "name": "Laguna Golem",
+        "name_upg": "Laguna Golem",
+        "type": "Great Sword",
+        "monster": "Coral Pukei-Pukei",
+        "element": "Water",
+        "skills": [{ "name": "Earplugs", "level": 1 }]
+    },
+    {
+        "name": "Carapace Buster",
+        "name_upg": "Barroth Shredder",
+        "type": "Great Sword",
+        "monster": "Barroth",
+        "element": "None",
+        "skills": [{ "name": "Defense Boost", "level": 2 }]
+    },
+    {
+        "name": "Girros Blade",
+        "name_upg": "Malady's Kiss",
+        "type": "Great Sword",
+        "monster": "Great Girros",
+        "element": "Paralysis",
+        "skills": [{ "name": "Sneak Attack", "level": 1 }]
+    },
+    {
+        "name": "Thunder Blade",
+        "name_upg": "Lightning Punisher",
+        "type": "Great Sword",
+        "monster": "Tobi-Kadachi",
+        "element": "Thunder",
+        "skills": [{ "name": "Evade Extender", "level": 1 }]
+    },
+    {
+        "name": "Nyx Razor",
+        "name_upg": "Nyx Razor",
+        "type": "Great Sword",
+        "monster": "Nightshade Paolumu",
+        "element": "Sleep",
+        "skills": [{ "name": "Sneak Attack", "level": 1 }]
+    },
+    {
+        "name": "Aqua Slasher",
+        "name_upg": "Water Golem",
+        "type": "Great Sword",
+        "monster": "Jyuratodus",
+        "element": "Water",
+        "skills": [{ "name": "Last Stand", "level": 1 }]
+    },
+    {
+        "name": "Flammenzahn",
+        "name_upg": "Flammenzahn+",
+        "type": "Great Sword",
+        "monster": "Anjanath",
+        "element": "Fire",
+        "skills": [{ "name": "Rising Tide", "level": 1 }]
+    },
+    {
+        "name": "Freeze Blade",
+        "name_upg": "Frost Blaze",
+        "type": "Great Sword",
+        "monster": "Legiana",
+        "element": "Ice",
+        "skills": [{ "name": "Divine Blessing", "level": 2 }]
+    },
+    {
+        "name": "Flame Blade",
+        "name_upg": "Red Wing",
+        "type": "Great Sword",
+        "monster": "Rathalos",
+        "element": "Fire",
+        "skills": [{ "name": "Earplugs", "level": 1 }]
+    },
+    {
+        "name": "Blue Wing",
+        "name_upg": "Rathalos Glinsword",
+        "type": "Great Sword",
+        "monster": "Azure Rathalos",
+        "element": "Fire",
+        "skills": [{ "name": "Special Boost", "level": 1 }]
+    },
+    {
+        "name": "Rathalos Gleamsword",
+        "name_upg": "Rathalos Gleamsword",
+        "type": "Great Sword",
+        "monster": "Silver Rathalos",
+        "element": "Fire",
+        "skills": [{ "name": "Critical Element", "level": 2 }]
+    },
+    {
+        "name": "Spiked Blade",
+        "name_upg": "Radobaan Slab",
+        "type": "Great Sword",
+        "monster": "Radobaan",
+        "element": "Sleep",
+        "skills": [{ "name": "Defense Boost", "level": 2 }]
+    },
+    {
+        "name": "Mammoth Greataxe",
+        "name_upg": "Mammoth Greataxe",
+        "type": "Great Sword",
+        "monster": "Banbaro",
+        "element": "None",
+        "skills": [{ "name": "Firm Foothold", "level": 2 }]
+    },
+    {
+        "name": "Icicle Fang",
+        "name_upg": "Icicle Fang+",
+        "type": "Great Sword",
+        "monster": "Barioth",
+        "element": "Ice",
+        "skills": [{ "name": "Evade Extender", "level": 1 }]
+    },
+    {
+        "name": "Severing Bolt",
+        "name_upg": "Severing Bolt",
+        "type": "Great Sword",
+        "monster": "Zinogre",
+        "element": "Thunder",
+        "skills": [{ "name": "Artful Dodger", "level": 1 }]
+    },
+    {
+        "name": "Berserker Sword",
+        "name_upg": "Anguish",
+        "type": "Great Sword",
+        "monster": "Deviljho",
+        "element": "Dragon",
+        "skills": [{ "name": "Focus", "level": 1 }]
+    },
+    {
+        "name": "Khezu Shock Sword",
+        "name_upg": "Khezu Shock Blade",
+        "type": "Great Sword",
+        "monster": "Khezu",
+        "element": "Thunder",
+        "skills": [{ "name": "Peak Performance", "level": 1 }]
+    },
+    {
+        "name": "Daora's Decimator",
+        "name_upg": "Daora's Decimator",
+        "type": "Great Sword",
+        "monster": "Kushala Daora",
+        "element": "Ice",
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Windproof", "level": 2 }
+        ]
+    },
+    {
+        "name": "Hanayako Yohino",
+        "name_upg": "Akanesasu",
+        "type": "Great Sword",
+        "monster": "Mizutsune",
+        "element": "Water",
+        "skills": [{ "name": "Artful Dodger", "level": 1 }]
+    },
+    {
+        "name": "King Teostra Blade",
+        "name_upg": "King Teostra Blade",
+        "type": "Great Sword",
+        "monster": "Teostra",
+        "element": "Blast",
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Heroics", "level": 2 }
+        ]
+    },
+    {
+        "name": "Aknosom Blade",
+        "name_upg": "Daybreak Cleaver",
+        "type": "Great Sword",
+        "monster": "Aknosom",
+        "element": "Fire",
+        "skills": [{ "name": "Lock On", "level": 1 }]
+    },
+    {
+        "name": "Sinister Blade",
+        "name_upg": "Sinister Shadowblade",
+        "type": "Great Sword",
+        "monster": "Magnamalo",
+        "element": "Blast",
+        "skills": [{ "name": "Partbreaker", "level": 1 }]
+    },
+    {
+        "name": "Demon Rod",
+        "name_upg": "Demonrod Goldrod",
+        "type": "Great Sword",
+        "monster": "Rajang",
+        "element": "Thunder",
+        "skills": [{ "name": "Resentment", "level": 2 }]
+    },
+    {
+        "name": "Purgation's Atrocity",
+        "name_upg": "Purgation's Atrocity",
+        "type": "Great Sword",
+        "monster": "Nergigante",
+        "element": "Dragon",
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Partbreaker", "level": 2 }
+        ]
+    },
+    {
+        "name": "Snowclad",
+        "name_upg": "Lagombi Charlotte",
+        "type": "Great Sword",
+        "monster": "Lagombi",
+        "element": "Ice",
+        "skills": [{ "name": "Lock On", "level": 1 }]
+    },
+    {
+        "name": "Frilled Blade",
+        "name_upg": "Illusory Frilled Blade",
+        "type": "Great Sword",
+        "monster": "Somnacanth",
+        "element": "Sleep",
+        "skills": [{ "name": "Evade Extender", "level": 1 }]
+    },
+    {
+        "name": "Tiger Jawblade",
+        "name_upg": "Tiger Jawblade+",
+        "type": "Great Sword",
+        "monster": "Tigrex",
+        "element": "None",
+        "skills": [{ "name": "Critical Ferocity", "level": 1 }]
+    },
+    {
+        "name": "Thundersword",
+        "name_upg": "Thundersword",
+        "type": "Great Sword",
+        "monster": "Kirin",
+        "element": "Thunder",
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Latent Power", "level": 1 }
+        ]
+    },
+    {
+        "name": "Glavenus Blaze",
+        "name_upg": "Glavenus Blaze",
+        "type": "Great Sword",
+        "monster": "Glavenus",
+        "element": "Fire",
+        "skills": [{ "name": "Critical Ferocity", "level": 1 }]
+    },
+    {
+        "name": "Foreboding Shamshir",
+        "name_upg": "Foreboding Shamshir",
+        "type": "Great Sword",
+        "monster": "Chameleos",
+        "element": "Poison",
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Status Sneak Attack", "level": 2 }
+        ]
+    },
+    {
+        "name": "Beo Slasher",
+        "name_upg": "Beo Slasher",
+        "type": "Great Sword",
+        "monster": "Beotodus",
+        "element": "Ice",
+        "skills": [{ "name": "Valor", "level": 1 }]
+    },
+    {
+        "name": "Hidden Blade",
+        "name_upg": "Hidden Blade",
+        "type": "Great Sword",
+        "monster": "Nargacuga",
+        "element": "None",
+        "skills": [{ "name": "Resuscitate", "level": 2 }]
+    },
+    {
+        "name": "Bone Slasher",
+        "name_upg": "Bone Slasher",
+        "type": "Great Sword",
+        "monster": "Bone",
+        "element": "None",
+        "skills": [{ "name": "Concentration", "level": 1 }]
+    },
+    {
+        "name": "Hope Blade",
+        "name_upg": "Esperanza Blade",
+        "type": "Great Sword",
+        "monster": "Hope",
+        "element": "None",
+        "skills": [{ "name": "Lock On", "level": 1 }]
+    },
+    {
+        "name": "Balloon Blade",
+        "name_upg": "Balloon Blade",
+        "type": "Great Sword",
+        "monster": "Balloon",
+        "element": "None",
+        "skills": [{ "name": "Balloon Charge", "level": 1 }]
+    }
+]
