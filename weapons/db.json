@@ -174,8 +174,8 @@
         "skills": [{ "name": "Power Prolonger", "level": 2 }]
     },
     {
-        "name": "Nergigante Slicers",
-        "name_upg": "Nergigante Slicers+",
+        "name": "Decimation Claws",
+        "name_upg": "Decimation Claws",
         "type": "Dual Blades",
         "monster": "Nergigante",
         "element": "Dragon",
@@ -185,32 +185,32 @@
         ]
     },
     {
-        "name": "Lagombi Slicers",
-        "name_upg": "Lagombi Slicers+",
+        "name": "Snow Slicers",
+        "name_upg": "Snow Sisters",
         "type": "Dual Blades",
         "monster": "Lagombi",
         "element": "Ice",
-        "skills": [{ "name": "Evade Extender", "level": 1 }]
+        "skills": [{ "name": "Lock On", "level": 1 }]
     },
     {
-        "name": "Somnacanth Slicers",
-        "name_upg": "Somnacanth Slicers+",
+        "name": "Frilled Claw",
+        "name_upg": "Illusory Frilled Claw",
         "type": "Dual Blades",
         "monster": "Somnacanth",
         "element": "Sleep",
         "skills": [{ "name": "Evade Extender", "level": 1 }]
     },
     {
-        "name": "Tigrex Slicers",
-        "name_upg": "Tigrex Slicers+",
+        "name": "Rex Chain",
+        "name_upg": "Rex Chain",
         "type": "Dual Blades",
         "monster": "Tigrex",
         "element": "None",
         "skills": [{ "name": "Critical Ferocity", "level": 1 }]
     },
     {
-        "name": "Kirin Slicers",
-        "name_upg": "Kirin Slicers+",
+        "name": "Monarch",
+        "name_upg": "Monarch",
         "type": "Dual Blades",
         "monster": "Kirin",
         "element": "Thunder",
@@ -220,32 +220,32 @@
         ]
     },
     {
-        "name": "Bazelgeuse Slicers",
-        "name_upg": "Bazelgeuse Slicers+",
+        "name": "Rookslayer Handaxes",
+        "name_upg": "Bazelhawk Rookslayer",
         "type": "Dual Blades",
         "monster": "Bazelgeuse",
         "element": "Blast",
-        "skills": [{ "name": "Blast Attack", "level": 2 }]
+        "skills": [{ "name": "Critical Ferocity", "level": 1 }]
     },
     {
-        "name": "Arzuros Slicers",
-        "name_upg": "Arzuros Slicers+",
+        "name": "Cerulean Axes",
+        "name_upg": "Ashigara Axes",
         "type": "Dual Blades",
         "monster": "Arzuros",
         "element": "None",
         "skills": [{ "name": "Special Boost", "level": 2 }]
     },
     {
-        "name": "Glavenus Slicers",
-        "name_upg": "Glavenus Slicers+",
+        "name": "Smoldering Cities",
+        "name_upg": "Smoldering Cities+",
         "type": "Dual Blades",
         "monster": "Glavenus",
         "element": "Fire",
         "skills": [{ "name": "Critical Ferocity", "level": 1 }]
     },
     {
-        "name": "Chameleos Slicers",
-        "name_upg": "Chameleos Slicers+",
+        "name": "Dual Chameleos",
+        "name_upg": "Dual Chameleos",
         "type": "Dual Blades",
         "monster": "Chameleos",
         "element": "Poison",
@@ -255,32 +255,24 @@
         ]
     },
     {
-        "name": "Nargacuga Slicers",
-        "name_upg": "Nargacuga Slicers+",
-        "type": "Dual Blades",
-        "monster": "Nargacuga",
-        "element": "None",
-        "skills": [{ "name": "Resuscitate", "level": 2 }]
-    },
-    {
-        "name": "Wroggi Slicers",
-        "name_upg": "Wroggi Slicers+",
+        "name": "Desperado",
+        "name_upg": "The Kid",
         "type": "Dual Blades",
         "monster": "Great Wroggi",
         "element": "Poison",
         "skills": [{ "name": "Lock On", "level": 1 }]
     },
     {
-        "name": "Beotodus Slicers",
-        "name_upg": "Beotodus Slicers+",
+        "name": "Beo Hatchets",
+        "name_upg": "Beo Hatchets",
         "type": "Dual Blades",
         "monster": "Beotodus",
         "element": "Ice",
-        "skills": [{ "name": "Last Stand", "level": 1 }]
+        "skills": [{ "name": "Valor", "level": 1 }]
     },
     {
-        "name": "Nargacuga Slicers",
-        "name_upg": "Nargacuga Slicers+",
+        "name": "Hidden Tomahawk",
+        "name_upg": "Hidden Tomahawk",
         "type": "Dual Blades",
         "monster": "Nargacuga",
         "element": "None",
@@ -288,7 +280,7 @@
     },
     {
         "name": "Bone Hatchets",
-        "name_upg": "Hardened Bone Hatchets",
+        "name_upg": "Wild Hatchets",
         "type": "Dual Blades",
         "monster": "Bone",
         "element": "None",
@@ -300,11 +292,11 @@
         "type": "Dual Blades",
         "monster": "Fortune Dragon",
         "element": "Dragon",
-        "skills": [{ "name": "MrBeast Challenge!", "level": 1 }]
+        "skills": [{ "name": "Divine Blessing", "level": 2 }]
     },
     {
-        "name": "Hope Dual Blades",
-        "name_upg": "Esperanza Dual Blades",
+        "name": "Hope Daggers",
+        "name_upg": "Esperanza Daggers",
         "type": "Dual Blades",
         "monster": "Hope",
         "element": "None",
