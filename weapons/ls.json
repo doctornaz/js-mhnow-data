@@ -1,159 +1,151 @@
 [
     {
         "name": "Iron Katana",
-        "name_upg": "Iron Katana+",
+        "name_upg": "Iron Grace",
         "type": "Long Sword",
         "monster": "Iron",
         "element": "None",
         "skills": [{ "name": "Poison Resistance", "level": 2 }]
     },
     {
-        "name": "Kulu Katana",
-        "name_upg": "Kulu Katana+",
+        "name": "First Dance",
+        "name_upg": "Last Dance",
         "type": "Long Sword",
         "monster": "Kulu-Ya-Ku",
         "element": "None",
         "skills": [{ "name": "Fortify", "level": 2 }]
     },
     {
-        "name": "Jagras Katana",
-        "name_upg": "Jagras Katana+",
-        "type": "Long Sword",
-        "monster": "Great Jagras",
-        "element": "Water",
-        "skills": [{ "name": "Health Boost", "level": 2 }]
-    },
-    {
-        "name": "Kadachi Katana",
-        "name_upg": "Kadachi Katana+",
+        "name": "Pulsar Shotel",
+        "name_upg": "Kadachi Fang",
         "type": "Long Sword",
         "monster": "Tobi-Kadachi",
         "element": "Thunder",
         "skills": [{ "name": "Evade Extender", "level": 1 }]
     },
     {
-        "name": "Jyura Katana",
-        "name_upg": "Jyura Katana+",
+        "name": "Jyura Shotel",
+        "name_upg": "Dipterus",
         "type": "Long Sword",
         "monster": "Jyuratodus",
         "element": "Water",
         "skills": [{ "name": "Last Stand", "level": 1 }]
     },
     {
-        "name": "Anja Katana",
-        "name_upg": "Anja Katana+",
+        "name": "Blazing Shotel",
+        "name_upg": "Anja Scimitar",
         "type": "Long Sword",
         "monster": "Anjanath",
         "element": "Fire",
         "skills": [{ "name": "Rising Tide", "level": 1 }]
     },
     {
-        "name": "Rathian Katana",
-        "name_upg": "Queen Katana",
+        "name": "Wyvern Blade 'Leaf'",
+        "name_upg": "Wyvern Blade 'Verde'",
         "type": "Long Sword",
         "monster": "Rathian",
         "element": "Poison",
         "skills": [{ "name": "Health Boost", "level": 2 }]
     },
     {
-        "name": "Pink Queen Katana",
-        "name_upg": "Pink Queen Katana+",
+        "name": "Wyvern Blade 'Blossom'",
+        "name_upg": "Wyvern Blade 'Blossom'+",
         "type": "Long Sword",
         "monster": "Pink Rathian",
         "element": "Poison",
         "skills": [{ "name": "Evade Extender", "level": 1 }]
     },
     {
-        "name": "Golden Queen Katana",
-        "name_upg": "Golden Queen Katana+",
+        "name": "Wyvern Blade 'Luna'",
+        "name_upg": "Wyvern Blade 'Luna'",
         "type": "Long Sword",
         "monster": "Gold Rathian",
         "element": "Poison",
         "skills": [{ "name": "Poison Exploit", "level": 2 }]
     },
     {
-        "name": "Legiana Katana",
-        "name_upg": "Rimespire Katana",
+        "name": "Glacial Shotel",
+        "name_upg": "Stealer",
         "type": "Long Sword",
         "monster": "Legiana",
         "element": "Ice",
         "skills": [{ "name": "Divine Blessing", "level": 2 }]
     },
     {
-        "name": "Rathalos Katana",
-        "name_upg": "Red Wing Katana",
+        "name": "Wyvern Blade 'Fall'",
+        "name_upg": "Wyvern Blade 'Blood'",
         "type": "Long Sword",
         "monster": "Rathalos",
         "element": "Fire",
         "skills": [{ "name": "Earplugs", "level": 1 }]
     },
     {
-        "name": "Azure Katana",
-        "name_upg": "Azure Katana+",
+        "name": "Wyvern Blade 'Azure'",
+        "name_upg": "Wyvern Blade 'Indigo'",
         "type": "Long Sword",
         "monster": "Azure Rathalos",
         "element": "Fire",
         "skills": [{ "name": "Special Boost", "level": 1 }]
     },
     {
-        "name": "Silver Katana",
-        "name_upg": "Silver Katana+",
+        "name": "Wyvern Blade 'Pale'",
+        "name_upg": "Wyvern Blade 'Pale'",
         "type": "Long Sword",
         "monster": "Silver Rathalos",
         "element": "Fire",
         "skills": [{ "name": "Critical Element", "level": 2 }]
     },
     {
-        "name": "Banbaro Katana",
-        "name_upg": "Banbaro Katana+",
+        "name": "Mammoth Longblade",
+        "name_upg": "Mammoth Longblade",
         "type": "Long Sword",
         "monster": "Banbaro",
         "element": "None",
         "skills": [{ "name": "Firm Foothold", "level": 2 }]
     },
     {
-        "name": "Barioth Katana",
-        "name_upg": "Barioth Katana+",
+        "name": "Ambertooth",
+        "name_upg": "Ambertooth",
         "type": "Long Sword",
         "monster": "Barioth",
         "element": "Ice",
         "skills": [{ "name": "Evade Extender", "level": 1 }]
     },
     {
-        "name": "Zinogre Katana",
-        "name_upg": "Despot's Katana",
+        "name": "Usurper's Boltslicer",
+        "name_upg": "Despot's Boltbreaker",
         "type": "Long Sword",
         "monster": "Zinogre",
         "element": "Thunder",
         "skills": [{ "name": "Artful Dodger", "level": 1 }]
     },
     {
-        "name": "Tzitzi Katana",
-        "name_upg": "Tzitzi Katana+",
+        "name": "Flickering Glow",
+        "name_upg": "Dazzling Flash",
         "type": "Long Sword",
         "monster": "Tzitzi-Ya-Ku",
         "element": "Thunder",
         "skills": [{ "name": "Lock On", "level": 1 }]
     },
     {
-        "name": "Deviljho Katana",
-        "name_upg": "Anguish Katana",
+        "name": "Reaver 'Cruelty'",
+        "name_upg": "Reaver 'Calamity'",
         "type": "Long Sword",
         "monster": "Deviljho",
         "element": "Dragon",
-        "skills": [{ "name": "Focus", "level": 1 }]
+        "skills": [{ "name": "Quick Work", "level": 1 }]
     },
     {
-        "name": "Basarios Katana",
-        "name_upg": "Gigant Katana",
+        "name": "Gigant Makra",
+        "name_upg": "Titanic Makra",
         "type": "Long Sword",
         "monster": "Basarios",
         "element": "Fire",
         "skills": [{ "name": "Heroics", "level": 1 }]
     },
     {
-        "name": "Daora's Katana",
-        "name_upg": "Daora's Katana+",
+        "name": "Daora's Raid",
+        "name_upg": "Daora's Raid",
         "type": "Long Sword",
         "monster": "Kushala Daora",
         "element": "Ice",
@@ -162,6 +154,7 @@
             { "name": "Windproof", "level": 2 }
         ]
     },
+    quede aca
     {
         "name": "Mizutsune Katana",
         "name_upg": "Kurenawi Katana",
