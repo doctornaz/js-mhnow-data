@@ -1,0 +1,334 @@
+[
+    {
+        "name": "Iron Hammer",
+        "name_upg": "Iron Demon",
+        "type": "Hammer",
+        "monster": "Iron",
+        "element": "None",
+        "skills": [{ "name": "Poison Resistance", "level": 2 }]
+    },
+    {
+        "name": "Kulu Beak",
+        "name_upg": "Crushing Beak",
+        "type": "Hammer",
+        "monster": "Kulu-Ya-Ku",
+        "element": "None",
+        "skills": [{ "name": "Fortify", "level": 2 }]
+    },
+    {
+        "name": "Blooming Hammer",
+        "name_upg": "Buon Fiore",
+        "type": "Hammer",
+        "monster": "Pukei-Pukei",
+        "element": "Poison",
+        "skills": [{ "name": "Sneak Attack", "level": 1 }]
+    },
+    {
+        "name": "Aqua Flora",
+        "name_upg": "Aqua Flora+",
+        "type": "Hammer",
+        "monster": "Coral Pukei-Pukei",
+        "element": "Water",
+        "skills": [{ "name": "Earplugs", "level": 1 }]
+    },
+    {
+        "name": "Carapace Sledge",
+        "name_upg": "Barroth Breaker",
+        "type": "Hammer",
+        "monster": "Barroth",
+        "element": "None",
+        "skills": [{ "name": "Defense Boost", "level": 2 }]
+    },
+    {
+        "name": "Girros Hammer",
+        "name_upg": "Malady's First",
+        "type": "Hammer",
+        "monster": "Great Girros",
+        "element": "Paralysis",
+        "skills": [{ "name": "Sneak Attack", "level": 1 }]
+    },
+    {
+        "name": "Thunder Hammer",
+        "name_upg": "Lightning Bash",
+        "type": "Hammer",
+        "monster": "Tobi-Kadachi",
+        "element": "Thunder",
+        "skills": [{ "name": "Evade Extender", "level": 1 }]
+    },
+    {
+        "name": "Nyx Hammer",
+        "name_upg": "Nyx Hammer",
+        "type": "Hammer",
+        "monster": "Nightshade Paolumu",
+        "element": "Sleep",
+        "skills": [{ "name": "Sneak Attack", "level": 1 }]
+    },
+    {
+        "name": "Aqua Hammer",
+        "name_upg": "Water Basher",
+        "type": "Hammer",
+        "monster": "Jyuratodus",
+        "element": "Water",
+        "skills": [{ "name": "Last Stand", "level": 1 }]
+    },
+    {
+        "name": "Blazing Hammer",
+        "name_upg": "Anja Striker",
+        "type": "Hammer",
+        "monster": "Anjanath",
+        "element": "Fire",
+        "skills": [{ "name": "Rising Tide", "level": 1 }]
+    },
+    {
+        "name": "Diablos Sledge",
+        "name_upg": "Diablos Shatterer",
+        "type": "Hammer",
+        "monster": "Diablos",
+        "element": "None",
+        "skills": [{ "name": "Heroics", "level": 1 }]
+    },
+    {
+        "name": "Chaos Shatterer",
+        "name_upg": "Chaos Shatterer",
+        "type": "Hammer",
+        "monster": "Black Diablos",
+        "element": "None",
+        "skills": [{ "name": "Partbreaker", "level": 1 }]
+    },
+    {
+        "name": "Red Bludgeon",
+        "name_upg": "Huracan Hammer",
+        "type": "Hammer",
+        "monster": "Rathalos",
+        "element": "Fire",
+        "skills": [{ "name": "Earplugs", "level": 1 }]
+    },
+    {
+        "name": "Leonid Starcrusher",
+        "name_upg": "Critical Starcrusher",
+        "type": "Hammer",
+        "monster": "Silver Rathalos",
+        "element": "Fire",
+        "skills": [{ "name": "Critical Element", "level": 2 }]
+    },
+    {
+        "name": "Bone Spike",
+        "name_upg": "Baan Strike",
+        "type": "Hammer",
+        "monster": "Radobaan",
+        "element": "Sleep",
+        "skills": [{ "name": "Defense Boost", "level": 2 }]
+    },
+    {
+        "name": "Mammoth Hoof",
+        "name_upg": "Mammoth Hoof+",
+        "type": "Hammer",
+        "monster": "Banbaro",
+        "element": "None",
+        "skills": [{ "name": "Firm Foothold", "level": 2 }]
+    },
+    {
+        "name": "Glacial Bash",
+        "name_upg": "Glacial Bash",
+        "type": "Hammer",
+        "monster": "Barioth",
+        "element": "Ice",
+        "skills": [{ "name": "Evade Extender", "level": 1 }]
+    },
+    {
+        "name": "Usurper's Thunder",
+        "name_upg": "Despot's Crackle",
+        "type": "Hammer",
+        "monster": "Zinogre",
+        "element": "Thunder",
+        "skills": [{ "name": "Artful Dodger", "level": 1 }]
+    },
+    {
+        "name": "Devil's Crush",
+        "name_upg": "Devil's Crush",
+        "type": "Hammer",
+        "monster": "Deviljho",
+        "element": "Dragon",
+        "skills": [{ "name": "Slugger", "level": 1 }]
+    },
+    {
+        "name": "Basarios Blow",
+        "name_upg": "Basarios Bash",
+        "type": "Hammer",
+        "monster": "Basarios",
+        "element": "Fire",
+        "skills": [{ "name": "Heroics", "level": 1 }]
+    },
+    {
+        "name": "Bag o' Horrors",
+        "name_upg": "Bag o' Thunder",
+        "type": "Hammer",
+        "monster": "Khezu",
+        "element": "Thunder",
+        "skills": [{ "name": "Peak Performance", "level": 1 }]
+    },
+    {
+        "name": "Daora's Colossus",
+        "name_upg": "Daora's Colossus",
+        "type": "Hammer",
+        "monster": "Kushala Daora",
+        "element": "Ice",
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Windproof", "level": 2 }
+        ]
+    },
+    {
+        "name": "Purity Hammer",
+        "name_upg": "Sinter Hammer",
+        "type": "Hammer",
+        "monster": "Mizutsune",
+        "element": "Water",
+        "skills": [{ "name": "Artful Dodger", "level": 1 }]
+    },
+    {
+        "name": "Teostra Cratergouger",
+        "name_upg": "Teostra Cratergouger",
+        "type": "Hammer",
+        "monster": "Teostra",
+        "element": "Blast",
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Heroics", "level": 2 }
+        ]
+    },
+    {
+        "name": "Sinister Hammer",
+        "name_upg": "Sinister Shade Hammer",
+        "type": "Hammer",
+        "monster": "Magnamalo",
+        "element": "Blast",
+        "skills": [{ "name": "Partbreaker", "level": 1 }]
+    },
+    {
+        "name": "Mane Malice",
+        "name_upg": "Mane Malice Rajang",
+        "type": "Hammer",
+        "monster": "Rajang",
+        "element": "Thunder",
+        "skills": [{ "name": "Partbreaker", "level": 1 }]
+    },
+    {
+        "name": "Obliteration's Footfall",
+        "name_upg": "Obliteration's Footfall",
+        "type": "Hammer",
+        "monster": "Nergigante",
+        "element": "Dragon",
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Partbreaker", "level": 2 }
+        ]
+    },
+    {
+        "name": "Binding Bludgeon",
+        "name_upg": "Armored Gogue",
+        "type": "Hammer",
+        "monster": "Volvidon",
+        "element": "Paralysis",
+        "skills": [{ "name": "Evade Extender", "level": 1 }]
+    },
+    {
+        "name": "Frilled Blow",
+        "name_upg": "Illusory Frilled Blow",
+        "type": "Hammer",
+        "monster": "Somnacanth",
+        "element": "Sleep",
+        "skills": [{ "name": "Evade Extender", "level": 1 }]
+    },
+    {
+        "name": "Striped Striker",
+        "name_upg": "Striped Striker",
+        "type": "Hammer",
+        "monster": "Tigrex",
+        "element": "None",
+        "skills": [{ "name": "Critical Ferocity", "level": 1 }]
+    },
+    {
+        "name": "Chata Clobberer",
+        "name_upg": "Shrouded Aghaturi",
+        "type": "Hammer",
+        "monster": "Chatacabra",
+        "element": "None",
+        "skills": [{ "name": "Litheness", "level": 1 }]
+    },
+    {
+        "name": "Unbearable Hammer",
+        "name_upg": "Unbearable Hammer",
+        "type": "Hammer",
+        "monster": "Arzuros",
+        "element": "None",
+        "skills": [{ "name": "Special Boost", "level": 2 }]
+    },
+    {
+        "name": "Scorching Isshata",
+        "name_upg": "Scorching Isshata+",
+        "type": "Hammer",
+        "monster": "Glavenus",
+        "element": "Fire",
+        "skills": [{ "name": "Critical Ferocity", "level": 1 }]
+    },
+    {
+        "name": "Diamalto's Dream",
+        "name_upg": "Diamalto's Dream",
+        "type": "Hammer",
+        "monster": "Chameleos",
+        "element": "Poison",
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Status Sneak Attack", "level": 2 }
+        ]
+    },
+    {
+        "name": "Wroggi Hammer",
+        "name_upg": "Dirty Hammer",
+        "type": "Hammer",
+        "monster": "Great Wroggi",
+        "element": "Poison",
+        "skills": [{ "name": "Lock On", "level": 1 }]
+    },
+    {
+        "name": "Five-Pronged Hammer",
+        "name_upg": "Great Pronged Hammer",
+        "type": "Hammer",
+        "monster": "Bishaten",
+        "element": "None",
+        "skills": [{ "name": "Shared Sword", "level": 2 }]
+    },
+    {
+        "name": "Hidden Breaker",
+        "name_upg": "Hidden Breaker+",
+        "type": "Hammer",
+        "monster": "Nargacuga",
+        "element": "None",
+        "skills": [{ "name": "Resuscitate", "level": 2 }]
+    },
+    {
+        "name": "Bone Bludgeon",
+        "name_upg": "Fossil Bludgeon",
+        "type": "Hammer",
+        "monster": "Bone",
+        "element": "None",
+        "skills": [{ "name": "Concentration", "level": 1 }]
+    },
+    {
+        "name": "Lucky Dragon Hammer",
+        "name_upg": "Lucky Dragon Hammer",
+        "type": "Hammer",
+        "monster": "Fortune Dragon",
+        "element": "Dragon",
+        "skills": [{ "name": "Divine Blessing", "level": 2 }]
+    },
+    {
+        "name": "Hope Hammer",
+        "name_upg": "Esperanza Hammer",
+        "type": "Hammer",
+        "monster": "Hope",
+        "element": "None",
+        "skills": [{ "name": "Lock On", "level": 1 }]
+    }
+]
