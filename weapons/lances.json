@@ -8,8 +8,8 @@
         "skills": [{ "name": "Poison Resistance", "level": 2 }]
     },
     {
-        "name": "Kulu Pike",
-        "name_upg": "Kulu Halberd",
+        "name": "Kulu Lance",
+        "name_upg": "Kulu Hasta",
         "type": "Lance",
         "monster": "Kulu-Ya-Ku",
         "element": "None",
@@ -17,7 +17,7 @@
     },
     {
         "name": "Blooming Lance",
-        "name_upg": "Datura Lance",
+        "name_upg": "Datura Pike",
         "type": "Lance",
         "monster": "Pukei-Pukei",
         "element": "Poison",
@@ -41,23 +41,23 @@
     },
     {
         "name": "Thunder Lance",
-        "name_upg": "Kadachi Lance",
+        "name_upg": "Lightning Spire",
         "type": "Lance",
         "monster": "Tobi-Kadachi",
         "element": "Thunder",
         "skills": [{ "name": "Evade Extender", "level": 1 }]
     },
     {
-        "name": "Nyx Pike",
-        "name_upg": "Nyx Pike",
+        "name": "Nyx Halberd",
+        "name_upg": "Nyx Halberd",
         "type": "Lance",
         "monster": "Nightshade Paolumu",
         "element": "Sleep",
         "skills": [{ "name": "Sneak Attack", "level": 1 }]
     },
     {
-        "name": "Aqua Lance",
-        "name_upg": "Jyura Pike",
+        "name": "Aqua Horn",
+        "name_upg": "Water Spike",
         "type": "Lance",
         "monster": "Jyuratodus",
         "element": "Water",
@@ -65,201 +65,214 @@
     },
     {
         "name": "Glacial Lance",
-        "name_upg": "Legiana Pike",
+        "name_upg": "Legiana Halberd",
         "type": "Lance",
         "monster": "Legiana",
         "element": "Ice",
         "skills": [{ "name": "Divine Blessing", "level": 2 }]
     },
     {
-        "name": "Diablos Lance",
-        "name_upg": "Diablos Halberd",
-        "type": "Lance",
-        "monster": "Black Diablos",
-        "element": "None",
-        "skills": [{ "name": "Partbreaker", "level": 1 }]
-    },
-    {
         "name": "Flame Lance",
-        "name_upg": "Red Lance",
+        "name_upg": "Red Tail",
         "type": "Lance",
         "monster": "Rathalos",
         "element": "Fire",
         "skills": [{ "name": "Earplugs", "level": 1 }]
     },
     {
-        "name": "Silver Lance",
-        "name_upg": "Silver Halberd",
+        "name": "Blue Tail",
+        "name_upg": "Blue Prominence",
+        "type": "Lance",
+        "monster": "Azure Rathalos",
+        "element": "Fire",
+        "skills": [{ "name": "Special Boost", "level": 1 }]
+    },
+    {
+        "name": "Silver Prominence",
+        "name_upg": "Silver Prominence",
         "type": "Lance",
         "monster": "Silver Rathalos",
         "element": "Fire",
         "skills": [{ "name": "Critical Element", "level": 2 }]
     },
     {
-        "name": "Icicle Pike",
-        "name_upg": "Barioth Pike",
+        "name": "Tusk Lance",
+        "name_upg": "Tusk Lance+",
         "type": "Lance",
         "monster": "Barioth",
         "element": "Ice",
         "skills": [{ "name": "Evade Extender", "level": 1 }]
     },
     {
-        "name": "Flickering Pike",
-        "name_upg": "Dazzling Pike",
+        "name": "Thunderpierce",
+        "name_upg": "Thunderpierce",
         "type": "Lance",
-        "monster": "Tzitzi-Ya-Ku",
+        "monster": "Zinogre",
         "element": "Thunder",
-        "skills": [{ "name": "Lock On", "level": 1 }]
+        "skills": [{ "name": "Artful Dodger", "level": 1 }]
     },
     {
         "name": "Garon Lance",
-        "name_upg": "Blood-drinker Pike",
+        "name_upg": "Garon Dhara",
         "type": "Lance",
         "monster": "Odogaron",
         "element": "None",
         "skills": [{ "name": "Evasive Concentration", "level": 1 }]
     },
     {
-        "name": "Nether Pike",
-        "name_upg": "Death Row Pike",
+        "name": "Death Garon Lance",
+        "name_upg": "Death Garon Lance",
         "type": "Lance",
         "monster": "Ebony Odogaron",
         "element": "Dragon",
         "skills": [{ "name": "Critical Boost", "level": 1 }]
     },
     {
-        "name": "Wrathful Pike",
-        "name_upg": "Wrathful Halberd",
+        "name": "Grief Lance",
+        "name_upg": "Fiendish Tower",
         "type": "Lance",
         "monster": "Deviljho",
         "element": "Dragon",
-        "skills": [{ "name": "Burst", "level": 2 }]
+        "skills": [{ "name": "Offensive Guard", "level": 2 }]
     },
     {
-        "name": "Basarios Pike",
-        "name_upg": "Gigant Pike",
+        "name": "Venom Lance",
+        "name_upg": "Basarios Venom Spear",
         "type": "Lance",
         "monster": "Basarios",
         "element": "Fire",
         "skills": [{ "name": "Heroics", "level": 1 }]
     },
     {
-        "name": "Khezu Lance",
-        "name_upg": "Painful Pike",
-        "type": "Lance",
-        "monster": "Khezu",
-        "element": "Thunder",
-        "skills": [{ "name": "Peak Performance", "level": 1 }]
-    },
-    {
-        "name": "Daora's Pike",
-        "name_upg": "Daora's Pike",
+        "name": "Daora's Fang",
+        "name_upg": "Daora's Fang",
         "type": "Lance",
         "monster": "Kushala Daora",
         "element": "Ice",
-        "skills": []
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Windproof", "level": 2 }
+        ]
     },
     {
-        "name": "Hana no Yari",
-        "name_upg": "Kurenawi Yari",
+        "name": "Hana mo Hana Nare",
+        "name_upg": "Kimi Ga Kiru",
         "type": "Lance",
         "monster": "Mizutsune",
         "element": "Water",
         "skills": [{ "name": "Artful Dodger", "level": 1 }]
     },
     {
-        "name": "Teostra's Pike",
-        "name_upg": "Teostra's Pike+",
+        "name": "Teostra's Roar",
+        "name_upg": "Teostra's Roar",
         "type": "Lance",
         "monster": "Teostra",
         "element": "Blast",
-        "skills": []
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Heroics", "level": 2 }
+        ]
     },
     {
-        "name": "Aknosom Pike",
-        "name_upg": "Daybreak Pike",
+        "name": "Aknosom Lance",
+        "name_upg": "Dawnbreaker Lance",
         "type": "Lance",
         "monster": "Aknosom",
         "element": "Fire",
         "skills": [{ "name": "Lock On", "level": 1 }]
     },
     {
-        "name": "Sinister Pike",
-        "name_upg": "Sinister Faminepike",
+        "name": "Sinister Spear",
+        "name_upg": "Sinister Shadespear",
         "type": "Lance",
         "monster": "Magnamalo",
         "element": "Blast",
         "skills": [{ "name": "Partbreaker", "level": 1 }]
     },
     {
-        "name": "Suzuka Yari",
-        "name_upg": "Suzuka Otakemaru Yari",
+        "name": "Demon Lance",
+        "name_upg": "Great Demon Lance",
         "type": "Lance",
         "monster": "Rajang",
         "element": "Thunder",
-        "skills": [{ "name": "Power Prolonger", "level": 2 }]
+        "skills": [{ "name": "Burst", "level": 2 }]
     },
     {
-        "name": "Decimation Pike",
-        "name_upg": "Decimation Pike+",
+        "name": "Perdition's Hand",
+        "name_upg": "Perdition's Hand",
         "type": "Lance",
         "monster": "Nergigante",
         "element": "Dragon",
-        "skills": []
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Partbreaker", "level": 2 }
+        ]
     },
     {
-        "name": "Volvidon Pike",
-        "name_upg": "Volvidon Pike+",
+        "name": "Volvi Stroke",
+        "name_upg": "Volvi Sweep+",
         "type": "Lance",
         "monster": "Volvidon",
         "element": "None",
-        "skills": [{ "name": "Stamina Thief", "level": 1 }]
+        "skills": [{ "name": "Evade Extender", "level": 1 }]
     },
     {
-        "name": "Rex Pike",
-        "name_upg": "Rex Pike+",
+        "name": "Tiger Stinger",
+        "name_upg": "Tiger Stinger+",
         "type": "Lance",
         "monster": "Tigrex",
         "element": "None",
         "skills": [{ "name": "Critical Ferocity", "level": 1 }]
     },
     {
-        "name": "Monarch Pike",
-        "name_upg": "Monarch Pike+",
+        "name": "Doris Spear",
+        "name_upg": "Doris Spear",
         "type": "Lance",
         "monster": "Kirin",
         "element": "Thunder",
-        "skills": []
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Latent Power", "level": 1 }
+        ]
     },
     {
-        "name": "Rookslayer Pike",
-        "name_upg": "Bazelhawk Rookslayer Pike",
+        "name": "Rookslayer Lance",
+        "name_upg": "Bazel Myniad Rookslayer",
         "type": "Lance",
         "monster": "Bazelgeuse",
         "element": "Blast",
+        "skills": [{ "name": "Offensive Guard", "level": 2 }]
+    },
+    {
+        "name": "Svarog Blazer",
+        "name_upg": "Svarog Blazer+",
+        "type": "Lance",
+        "monster": "Glavenus",
+        "element": "Fire",
         "skills": [{ "name": "Critical Ferocity", "level": 1 }]
     },
     {
-        "name": "Hidden Pike",
-        "name_upg": "Hidden Pike+",
+        "name": "Hidden Hastur",
+        "name_upg": "Hidden Hastur",
         "type": "Lance",
         "monster": "Nargacuga",
         "element": "None",
         "skills": [{ "name": "Resuscitate", "level": 2 }]
     },
     {
-        "name": "Bone Pike",
-        "name_upg": "Wild Pike",
+        "name": "Bone Lance",
+        "name_upg": "Hard Bone Pike",
         "type": "Lance",
         "monster": "Bone",
         "element": "None",
         "skills": [{ "name": "Concentration", "level": 1 }]
     },
     {
-        "name": "Hope Pike",
+        "name": "Hope Lance",
         "name_upg": "Esperanza Pike",
         "type": "Lance",
         "monster": "Hope",
-        "element": "None"
+        "element": "None",
+        "skills": [{ "name": "Lock On", "level": 1 }]
     }
 ]
