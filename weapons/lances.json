@@ -1,0 +1,265 @@
+[
+    {
+        "name": "Iron Lance",
+        "name_upg": "Steel Lance",
+        "type": "Lance",
+        "monster": "Iron",
+        "element": "None",
+        "skills": [{ "name": "Poison Resistance", "level": 2 }]
+    },
+    {
+        "name": "Kulu Pike",
+        "name_upg": "Kulu Halberd",
+        "type": "Lance",
+        "monster": "Kulu-Ya-Ku",
+        "element": "None",
+        "skills": [{ "name": "Fortify", "level": 2 }]
+    },
+    {
+        "name": "Blooming Lance",
+        "name_upg": "Datura Lance",
+        "type": "Lance",
+        "monster": "Pukei-Pukei",
+        "element": "Poison",
+        "skills": [{ "name": "Sneak Attack", "level": 1 }]
+    },
+    {
+        "name": "Laguna Pike",
+        "name_upg": "Laguna Pike",
+        "type": "Lance",
+        "monster": "Coral Pukei-Pukei",
+        "element": "Water",
+        "skills": [{ "name": "Earplugs", "level": 1 }]
+    },
+    {
+        "name": "Carapace Lance",
+        "name_upg": "Barroth Stinger",
+        "type": "Lance",
+        "monster": "Barroth",
+        "element": "None",
+        "skills": [{ "name": "Defense Boost", "level": 2 }]
+    },
+    {
+        "name": "Thunder Lance",
+        "name_upg": "Kadachi Lance",
+        "type": "Lance",
+        "monster": "Tobi-Kadachi",
+        "element": "Thunder",
+        "skills": [{ "name": "Evade Extender", "level": 1 }]
+    },
+    {
+        "name": "Nyx Pike",
+        "name_upg": "Nyx Pike",
+        "type": "Lance",
+        "monster": "Nightshade Paolumu",
+        "element": "Sleep",
+        "skills": [{ "name": "Sneak Attack", "level": 1 }]
+    },
+    {
+        "name": "Aqua Lance",
+        "name_upg": "Jyura Pike",
+        "type": "Lance",
+        "monster": "Jyuratodus",
+        "element": "Water",
+        "skills": [{ "name": "Last Stand", "level": 1 }]
+    },
+    {
+        "name": "Glacial Lance",
+        "name_upg": "Legiana Pike",
+        "type": "Lance",
+        "monster": "Legiana",
+        "element": "Ice",
+        "skills": [{ "name": "Divine Blessing", "level": 2 }]
+    },
+    {
+        "name": "Diablos Lance",
+        "name_upg": "Diablos Halberd",
+        "type": "Lance",
+        "monster": "Black Diablos",
+        "element": "None",
+        "skills": [{ "name": "Partbreaker", "level": 1 }]
+    },
+    {
+        "name": "Flame Lance",
+        "name_upg": "Red Lance",
+        "type": "Lance",
+        "monster": "Rathalos",
+        "element": "Fire",
+        "skills": [{ "name": "Earplugs", "level": 1 }]
+    },
+    {
+        "name": "Silver Lance",
+        "name_upg": "Silver Halberd",
+        "type": "Lance",
+        "monster": "Silver Rathalos",
+        "element": "Fire",
+        "skills": [{ "name": "Critical Element", "level": 2 }]
+    },
+    {
+        "name": "Icicle Pike",
+        "name_upg": "Barioth Pike",
+        "type": "Lance",
+        "monster": "Barioth",
+        "element": "Ice",
+        "skills": [{ "name": "Evade Extender", "level": 1 }]
+    },
+    {
+        "name": "Flickering Pike",
+        "name_upg": "Dazzling Pike",
+        "type": "Lance",
+        "monster": "Tzitzi-Ya-Ku",
+        "element": "Thunder",
+        "skills": [{ "name": "Lock On", "level": 1 }]
+    },
+    {
+        "name": "Garon Lance",
+        "name_upg": "Blood-drinker Pike",
+        "type": "Lance",
+        "monster": "Odogaron",
+        "element": "None",
+        "skills": [{ "name": "Evasive Concentration", "level": 1 }]
+    },
+    {
+        "name": "Nether Pike",
+        "name_upg": "Death Row Pike",
+        "type": "Lance",
+        "monster": "Ebony Odogaron",
+        "element": "Dragon",
+        "skills": [{ "name": "Critical Boost", "level": 1 }]
+    },
+    {
+        "name": "Wrathful Pike",
+        "name_upg": "Wrathful Halberd",
+        "type": "Lance",
+        "monster": "Deviljho",
+        "element": "Dragon",
+        "skills": [{ "name": "Burst", "level": 2 }]
+    },
+    {
+        "name": "Basarios Pike",
+        "name_upg": "Gigant Pike",
+        "type": "Lance",
+        "monster": "Basarios",
+        "element": "Fire",
+        "skills": [{ "name": "Heroics", "level": 1 }]
+    },
+    {
+        "name": "Khezu Lance",
+        "name_upg": "Painful Pike",
+        "type": "Lance",
+        "monster": "Khezu",
+        "element": "Thunder",
+        "skills": [{ "name": "Peak Performance", "level": 1 }]
+    },
+    {
+        "name": "Daora's Pike",
+        "name_upg": "Daora's Pike",
+        "type": "Lance",
+        "monster": "Kushala Daora",
+        "element": "Ice",
+        "skills": []
+    },
+    {
+        "name": "Hana no Yari",
+        "name_upg": "Kurenawi Yari",
+        "type": "Lance",
+        "monster": "Mizutsune",
+        "element": "Water",
+        "skills": [{ "name": "Artful Dodger", "level": 1 }]
+    },
+    {
+        "name": "Teostra's Pike",
+        "name_upg": "Teostra's Pike+",
+        "type": "Lance",
+        "monster": "Teostra",
+        "element": "Blast",
+        "skills": []
+    },
+    {
+        "name": "Aknosom Pike",
+        "name_upg": "Daybreak Pike",
+        "type": "Lance",
+        "monster": "Aknosom",
+        "element": "Fire",
+        "skills": [{ "name": "Lock On", "level": 1 }]
+    },
+    {
+        "name": "Sinister Pike",
+        "name_upg": "Sinister Faminepike",
+        "type": "Lance",
+        "monster": "Magnamalo",
+        "element": "Blast",
+        "skills": [{ "name": "Partbreaker", "level": 1 }]
+    },
+    {
+        "name": "Suzuka Yari",
+        "name_upg": "Suzuka Otakemaru Yari",
+        "type": "Lance",
+        "monster": "Rajang",
+        "element": "Thunder",
+        "skills": [{ "name": "Power Prolonger", "level": 2 }]
+    },
+    {
+        "name": "Decimation Pike",
+        "name_upg": "Decimation Pike+",
+        "type": "Lance",
+        "monster": "Nergigante",
+        "element": "Dragon",
+        "skills": []
+    },
+    {
+        "name": "Volvidon Pike",
+        "name_upg": "Volvidon Pike+",
+        "type": "Lance",
+        "monster": "Volvidon",
+        "element": "None",
+        "skills": [{ "name": "Stamina Thief", "level": 1 }]
+    },
+    {
+        "name": "Rex Pike",
+        "name_upg": "Rex Pike+",
+        "type": "Lance",
+        "monster": "Tigrex",
+        "element": "None",
+        "skills": [{ "name": "Critical Ferocity", "level": 1 }]
+    },
+    {
+        "name": "Monarch Pike",
+        "name_upg": "Monarch Pike+",
+        "type": "Lance",
+        "monster": "Kirin",
+        "element": "Thunder",
+        "skills": []
+    },
+    {
+        "name": "Rookslayer Pike",
+        "name_upg": "Bazelhawk Rookslayer Pike",
+        "type": "Lance",
+        "monster": "Bazelgeuse",
+        "element": "Blast",
+        "skills": [{ "name": "Critical Ferocity", "level": 1 }]
+    },
+    {
+        "name": "Hidden Pike",
+        "name_upg": "Hidden Pike+",
+        "type": "Lance",
+        "monster": "Nargacuga",
+        "element": "None",
+        "skills": [{ "name": "Resuscitate", "level": 2 }]
+    },
+    {
+        "name": "Bone Pike",
+        "name_upg": "Wild Pike",
+        "type": "Lance",
+        "monster": "Bone",
+        "element": "None",
+        "skills": [{ "name": "Concentration", "level": 1 }]
+    },
+    {
+        "name": "Hope Pike",
+        "name_upg": "Esperanza Pike",
+        "type": "Lance",
+        "monster": "Hope",
+        "element": "None"
+    }
+]
