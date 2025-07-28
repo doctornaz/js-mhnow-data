@@ -1,0 +1,310 @@
+[
+    {
+        "name": "Iron Katana",
+        "name_upg": "Iron Grace",
+        "type": "Long Sword",
+        "monster": "Iron",
+        "element": "None",
+        "skills": [{ "name": "Poison Resistance", "level": 2 }]
+    },
+    {
+        "name": "First Dance",
+        "name_upg": "Last Dance",
+        "type": "Long Sword",
+        "monster": "Kulu-Ya-Ku",
+        "element": "None",
+        "skills": [{ "name": "Fortify", "level": 2 }]
+    },
+    {
+        "name": "Pulsar Shotel",
+        "name_upg": "Kadachi Fang",
+        "type": "Long Sword",
+        "monster": "Tobi-Kadachi",
+        "element": "Thunder",
+        "skills": [{ "name": "Evade Extender", "level": 1 }]
+    },
+    {
+        "name": "Jyura Shotel",
+        "name_upg": "Dipterus",
+        "type": "Long Sword",
+        "monster": "Jyuratodus",
+        "element": "Water",
+        "skills": [{ "name": "Last Stand", "level": 1 }]
+    },
+    {
+        "name": "Blazing Shotel",
+        "name_upg": "Anja Scimitar",
+        "type": "Long Sword",
+        "monster": "Anjanath",
+        "element": "Fire",
+        "skills": [{ "name": "Rising Tide", "level": 1 }]
+    },
+    {
+        "name": "Wyvern Blade 'Leaf'",
+        "name_upg": "Wyvern Blade 'Verde'",
+        "type": "Long Sword",
+        "monster": "Rathian",
+        "element": "Poison",
+        "skills": [{ "name": "Health Boost", "level": 2 }]
+    },
+    {
+        "name": "Wyvern Blade 'Blossom'",
+        "name_upg": "Wyvern Blade 'Blossom'+",
+        "type": "Long Sword",
+        "monster": "Pink Rathian",
+        "element": "Poison",
+        "skills": [{ "name": "Evade Extender", "level": 1 }]
+    },
+    {
+        "name": "Wyvern Blade 'Luna'",
+        "name_upg": "Wyvern Blade 'Luna'",
+        "type": "Long Sword",
+        "monster": "Gold Rathian",
+        "element": "Poison",
+        "skills": [{ "name": "Poison Exploit", "level": 2 }]
+    },
+    {
+        "name": "Glacial Shotel",
+        "name_upg": "Stealer",
+        "type": "Long Sword",
+        "monster": "Legiana",
+        "element": "Ice",
+        "skills": [{ "name": "Divine Blessing", "level": 2 }]
+    },
+    {
+        "name": "Wyvern Blade 'Fall'",
+        "name_upg": "Wyvern Blade 'Blood'",
+        "type": "Long Sword",
+        "monster": "Rathalos",
+        "element": "Fire",
+        "skills": [{ "name": "Earplugs", "level": 1 }]
+    },
+    {
+        "name": "Wyvern Blade 'Azure'",
+        "name_upg": "Wyvern Blade 'Indigo'",
+        "type": "Long Sword",
+        "monster": "Azure Rathalos",
+        "element": "Fire",
+        "skills": [{ "name": "Special Boost", "level": 1 }]
+    },
+    {
+        "name": "Wyvern Blade 'Pale'",
+        "name_upg": "Wyvern Blade 'Pale'",
+        "type": "Long Sword",
+        "monster": "Silver Rathalos",
+        "element": "Fire",
+        "skills": [{ "name": "Critical Element", "level": 2 }]
+    },
+    {
+        "name": "Mammoth Longblade",
+        "name_upg": "Mammoth Longblade",
+        "type": "Long Sword",
+        "monster": "Banbaro",
+        "element": "None",
+        "skills": [{ "name": "Firm Foothold", "level": 2 }]
+    },
+    {
+        "name": "Ambertooth",
+        "name_upg": "Ambertooth",
+        "type": "Long Sword",
+        "monster": "Barioth",
+        "element": "Ice",
+        "skills": [{ "name": "Evade Extender", "level": 1 }]
+    },
+    {
+        "name": "Usurper's Boltslicer",
+        "name_upg": "Despot's Boltbreaker",
+        "type": "Long Sword",
+        "monster": "Zinogre",
+        "element": "Thunder",
+        "skills": [{ "name": "Artful Dodger", "level": 1 }]
+    },
+    {
+        "name": "Flickering Glow",
+        "name_upg": "Dazzling Flash",
+        "type": "Long Sword",
+        "monster": "Tzitzi-Ya-Ku",
+        "element": "Thunder",
+        "skills": [{ "name": "Lock On", "level": 1 }]
+    },
+    {
+        "name": "Reaver 'Cruelty'",
+        "name_upg": "Reaver 'Calamity'",
+        "type": "Long Sword",
+        "monster": "Deviljho",
+        "element": "Dragon",
+        "skills": [{ "name": "Quick Work", "level": 1 }]
+    },
+    {
+        "name": "Gigant Makra",
+        "name_upg": "Titanic Makra",
+        "type": "Long Sword",
+        "monster": "Basarios",
+        "element": "Fire",
+        "skills": [{ "name": "Heroics", "level": 1 }]
+    },
+    {
+        "name": "Daora's Raid",
+        "name_upg": "Daora's Raid",
+        "type": "Long Sword",
+        "monster": "Kushala Daora",
+        "element": "Ice",
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Windproof", "level": 2 }
+        ]
+    },
+    {
+        "name": "Kakaru Kumo Naki",
+        "name_upg": "Tamonowo",
+        "type": "Long Sword",
+        "monster": "Mizutsune",
+        "element": "Water",
+        "skills": [{ "name": "Artful Dodger", "level": 1 }]
+    },
+    {
+        "name": "Imperial Shimmer",
+        "name_upg": "Imperial Shimmer+",
+        "type": "Long Sword",
+        "monster": "Teostra",
+        "element": "Blast",
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Heroics", "level": 2 }
+        ]
+    },
+    {
+        "name": "Aknosom Sabre",
+        "name_upg": "Daybreak Blade",
+        "type": "Long Sword",
+        "monster": "Aknosom",
+        "element": "Fire",
+        "skills": [{ "name": "Lock On", "level": 1 }]
+    },
+    {
+        "name": "Sinister Long Sword",
+        "name_upg": "Sinister Shade Sword",
+        "type": "Long Sword",
+        "monster": "Magnamalo",
+        "element": "Blast",
+        "skills": [{ "name": "Partbreaker", "level": 1 }]
+    },
+    {
+        "name": "Demon Halberd",
+        "name_upg": "Great Demon Halberd",
+        "type": "Long Sword",
+        "monster": "Rajang",
+        "element": "Thunder",
+        "skills": [{ "name": "Focus", "level": 1 }]
+    },
+    {
+        "name": "Extermination's Edge",
+        "name_upg": "Extermination's Edge",
+        "type": "Long Sword",
+        "monster": "Nergigante",
+        "element": "Dragon",
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Partbreaker", "level": 2 }
+        ]
+    },
+    {
+        "name": "Ivory Rabbit",
+        "name_upg": "Iced Rabbit",
+        "type": "Long Sword",
+        "monster": "Lagombi",
+        "element": "Ice",
+        "skills": [{ "name": "Lock On", "level": 1 }]
+    },
+    {
+        "name": "Frilled Slash",
+        "name_upg": "Illusory Frilled Slash",
+        "type": "Long Sword",
+        "monster": "Somnacanth",
+        "element": "Sleep",
+        "skills": [{ "name": "Evade Extender", "level": 1 }]
+    },
+    {
+        "name": "Tigrine Edge",
+        "name_upg": "Tigrine Edge+",
+        "type": "Long Sword",
+        "monster": "Tigrex",
+        "element": "None",
+        "skills": [{ "name": "Critical Ferocity", "level": 1 }]
+    },
+    {
+        "name": "Rookslayer Saber",
+        "name_upg": "Bazel Varga Rookslayer",
+        "type": "Long Sword",
+        "monster": "Bazelgeuse",
+        "element": "Blast",
+        "skills": [{ "name": "Quick Work", "level": 1 }]
+    },
+    {
+        "name": "Arzuros Naginata",
+        "name_upg": "Arzuros Strikequill",
+        "type": "Long Sword",
+        "monster": "Arzuros",
+        "element": "None",
+        "skills": [{ "name": "Special Boost", "level": 2 }]
+    },
+    {
+        "name": "Glavenus Spada",
+        "name_upg": "Glavenus Spada",
+        "type": "Long Sword",
+        "monster": "Glavenus",
+        "element": "Fire",
+        "skills": [{ "name": "Critical Ferocity", "level": 1 }]
+    },
+    {
+        "name": "Phantom Mirage",
+        "name_upg": "Phantom Mirage",
+        "type": "Long Sword",
+        "monster": "Chameleos",
+        "element": "Poison",
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Status Sneak Attack", "level": 2 }
+        ]
+    },
+    {
+        "name": "Wroggi Sword",
+        "name_upg": "Poison Barb",
+        "type": "Long Sword",
+        "monster": "Great Wroggi",
+        "element": "Poison",
+        "skills": [{ "name": "Lock On", "level": 1 }]
+    },
+    {
+        "name": "Hidden Saber",
+        "name_upg": "Hidden Saber+",
+        "type": "Long Sword",
+        "monster": "Nargacuga",
+        "element": "None",
+        "skills": [{ "name": "Resuscitate", "level": 2 }]
+    },
+    {
+        "name": "Bone Shotel",
+        "name_upg": "Hard Bone Shotel",
+        "type": "Long Sword",
+        "monster": "Bone",
+        "element": "None",
+        "skills": [{ "name": "Concentration", "level": 1 }]
+    },
+    {
+        "name": "Cawscythe",
+        "name_upg": "Squawkscythe",
+        "type": "Long Sword",
+        "monster": "Halloween",
+        "element": "None",
+        "skills": [{ "name": "Power Prolonger", "level": 2 }]
+    },
+    {
+        "name": "Hope Edge",
+        "name_upg": "Esperanza Edge",
+        "type": "Long Sword",
+        "monster": "Hope",
+        "element": "None",
+        "skills": [{ "name": "Lock On", "level": 1 }]
+    }
+]
