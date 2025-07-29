@@ -1,0 +1,266 @@
+[
+    {
+        "name": "Iron Gunlance",
+        "name_upg": "Steel Gunlance",
+        "type": "Gunlance",
+        "monster": "Iron",
+        "element": "None",
+        "skills": [{ "name": "Poison Resistance", "level": 2 }]
+    },
+    {
+        "name": "Jagras Gunlance", 
+        "name_upg": "Glutton Gunlance",
+        "type": "Gunlance",
+        "monster": "Great Jagras",
+        "element": "Water",
+        "skills": [{ "name": "Health Boost", "level": 2 }]
+    },
+    {
+        "name": "Carapace Cannon",
+        "name_upg": "Barroth Blaster",
+        "type": "Gunlance",
+        "monster": "Barroth",
+        "element": "None",
+        "skills": [{ "name": "Defense Boost", "level": 2 }]
+    },
+    {
+        "name": "Girros Gunlance",
+        "name_upg": "Malady's Cannon",
+        "type": "Gunlance",
+        "monster": "Great Girros",
+        "element": "Paralysis",
+        "skills": [{ "name": "Sneak Attack", "level": 1 }]
+    },
+    {
+        "name": "Thunder Gunlance",
+        "name_upg": "Kadachi Gunlance",
+        "type": "Gunlance",
+        "monster": "Tobi-Kadachi",
+        "element": "Thunder",
+        "skills": [{ "name": "Evade Extender", "level": 1 }]
+    },
+    {
+        "name": "Blazing Gunlance",
+        "name_upg": "Anja Cannon",
+        "type": "Gunlance",
+        "monster": "Anjanath",
+        "element": "Fire",
+        "skills": [{ "name": "Rising Tide", "level": 1 }]
+    },
+    {
+        "name": "Aqua Gunlance",
+        "name_upg": "Jyura Gunlance",
+        "type": "Gunlance",
+        "monster": "Jyuratodus",
+        "element": "Water",
+        "skills": [{ "name": "Last Stand", "level": 1 }]
+    },
+    {
+        "name": "Princess Buster",
+        "name_upg": "Queen Buster",
+        "type": "Gunlance",
+        "monster": "Rathian",
+        "element": "Poison",
+        "skills": [{ "name": "Health Boost", "level": 2 }]
+    },
+    {
+        "name": "Queen Buster",
+        "name_upg": "Queen Buster+",
+        "type": "Gunlance",
+        "monster": "Pink Rathian",
+        "element": "Poison",
+        "skills": [{ "name": "Evade Extender", "level": 1 }]
+    },
+    {
+        "name": "Lunatic Buster",
+        "name_upg": "Lunatic Buster+",
+        "type": "Gunlance",
+        "monster": "Golden Rathian",
+        "element": "Poison",
+        "skills": [{ "name": "Poison Exploit", "level": 2 }]
+    },
+    {
+        "name": "Flame Buster",
+        "name_upg": "Heat Cannon",
+        "type": "Gunlance",
+        "monster": "Rathalos",
+        "element": "Fire",
+        "skills": [{ "name": "Earplugs", "level": 1 }]
+    },
+    {
+        "name": "Blue Buster",
+        "name_upg": "Azure Cannon",
+        "type": "Gunlance",
+        "monster": "Azure Rathalos",
+        "element": "Fire",
+        "skills": [{ "name": "Special Boost", "level": 1 }]
+    },
+    {
+        "name": "Platinum Buster",
+        "name_upg": "Platinum Buster+",
+        "type": "Gunlance",
+        "monster": "Silver Rathalos",
+        "element": "Fire",
+        "skills": [{ "name": "Critical Element", "level": 2 }]
+    },
+    {
+        "name": "Mammoth Gunlance",
+        "name_upg": "Mammoth Gunlance+",
+        "type": "Gunlance",
+        "monster": "Banbaro",
+        "element": "None",
+        "skills": [{ "name": "Firm Foothold", "level": 2 }]
+    },
+    {
+        "name": "Icicle Gunlance",
+        "name_upg": "Barioth Gunlance+",
+        "type": "Gunlance",
+        "monster": "Barioth",
+        "element": "Ice",
+        "skills": [{ "name": "Evade Extender", "level": 1 }]
+    },
+    {
+        "name": "Usurper's Firebolt",
+        "name_upg": "Despot's Crookbolt",
+        "type": "Gunlance",
+        "monster": "Zinogre",
+        "element": "Thunder",
+        "skills": [{ "name": "Artful Dodger", "level": 1 }]
+    },
+    {
+        "name": "Grief Buster",
+        "name_upg": "Fiendish Buster",
+        "type": "Gunlance",
+        "monster": "Deviljho",
+        "element": "Dragon",
+        "skills": [{ "name": "Burst", "level": 2 }]
+    },
+    {
+        "name": "Khezu Gunlance",
+        "name_upg": "Painful Gunlance",
+        "type": "Gunlance",
+        "monster": "Khezu",
+        "element": "Thunder",
+        "skills": [{ "name": "Peak Performance", "level": 1 }]
+    },
+    {
+        "name": "Daora's Gunlance",
+        "name_upg": "Daora's Gunlance+",
+        "type": "Gunlance",
+        "monster": "Kushala Daora",
+        "element": "Ice",
+        "skills": []
+    },
+    {
+        "name": "Hana no Gunlance",
+        "name_upg": "Kurenawi Gunlance",
+        "type": "Gunlance",
+        "monster": "Mizutsune",
+        "element": "Water",
+        "skills": [{ "name": "Artful Dodger", "level": 1 }]
+    },
+    {
+        "name": "Aknosom Gunlance",
+        "name_upg": "Daybreak Gunlance",
+        "type": "Gunlance",
+        "monster": "Aknosom",
+        "element": "Fire",
+        "skills": [{ "name": "Lock On", "level": 1 }]
+    },
+    {
+        "name": "Sinister Gunlance",
+        "name_upg": "Sinister Faminegunlance",
+        "type": "Gunlance",
+        "monster": "Magnamalo",
+        "element": "Blast",
+        "skills": [{ "name": "Partbreaker", "level": 1 }]
+    },
+    {
+        "name": "Suzuka Gunlance",
+        "name_upg": "Suzuka Otakemaru Gunlance",
+        "type": "Gunlance",
+        "monster": "Rajang",
+        "element": "Thunder",
+        "skills": [{ "name": "Power Prolonger", "level": 2 }]
+    },
+    {
+        "name": "Decimation Gunlance",
+        "name_upg": "Decimation Gunlance+",
+        "type": "Gunlance",
+        "monster": "Nergigante",
+        "element": "Dragon",
+        "skills": []
+    },
+    {
+        "name": "Snow Gunlance",
+        "name_upg": "Lagombi Gunlance+",
+        "type": "Gunlance",
+        "monster": "Lagombi",
+        "element": "Ice",
+        "skills": [{ "name": "Lock On", "level": 1 }]
+    },
+    {
+        "name": "Volvi Gunlance",
+        "name_upg": "Volvi Gunlance+",
+        "type": "Gunlance",
+        "monster": "Volvidon",
+        "element": "None",
+        "skills": [{ "name": "Stamina Thief", "level": 1 }]
+    },
+    {
+        "name": "Rex Gunlance",
+        "name_upg": "Rex Gunlance+",
+        "type": "Gunlance",
+        "monster": "Tigrex",
+        "element": "None",
+        "skills": [{ "name": "Critical Ferocity", "level": 1 }]
+    },
+    {
+        "name": "Rookslayer Gunlance",
+        "name_upg": "Bazelhawk Rookslayer Gunlance",
+        "type": "Gunlance",
+        "monster": "Bazelgeuse",
+        "element": "Blast",
+        "skills": [{ "name": "Critical Ferocity", "level": 1 }]
+    },
+    {
+        "name": "Svarog Gunlance",
+        "name_upg": "Svarog Gunlance+",
+        "type": "Gunlance",
+        "monster": "Glavenus",
+        "element": "Fire",
+        "skills": [{ "name": "Critical Ferocity", "level": 1 }]
+    },
+    {
+        "name": "Chameleos Gunlance",
+        "name_upg": "Chameleos Gunlance+",
+        "type": "Gunlance",
+        "monster": "Chameleos",
+        "element": "Poison",
+        "skills": []
+    },
+    {
+        "name": "Hidden Gunlance",
+        "name_upg": "Hidden Gunlance+",
+        "type": "Gunlance",
+        "monster": "Nargacuga",
+        "element": "None",
+        "skills": [{ "name": "Resuscitate", "level": 2 }]
+    },
+    {
+        "name": "Bone Gunlance",
+        "name_upg": "Wild Gunlance",
+        "type": "Gunlance",
+        "monster": "Bone",
+        "element": "None",
+        "skills": [{ "name": "Concentration", "level": 1 }]
+    },
+    {
+        "name": "Hope Gunlance",
+        "name_upg": "Esperanza Gunlance",
+        "type": "Gunlance",
+        "monster": "Hope",
+        "element": "None",
+        "skills": [{ "name": "Lock On", "level": 1 }]
+    }
+]
