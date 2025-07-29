@@ -25,15 +25,15 @@
     },
     {
         "name": "Girros Gunlance",
-        "name_upg": "Malady's Cannon",
+        "name_upg": "Deathfang Gunlance",
         "type": "Gunlance",
         "monster": "Great Girros",
         "element": "Paralysis",
         "skills": [{ "name": "Sneak Attack", "level": 1 }]
     },
     {
-        "name": "Thunder Gunlance",
-        "name_upg": "Kadachi Gunlance",
+        "name": "Pulsar Gunlance",
+        "name_upg": "Kadachi Striker",
         "type": "Gunlance",
         "monster": "Tobi-Kadachi",
         "element": "Thunder",
@@ -48,56 +48,64 @@
         "skills": [{ "name": "Rising Tide", "level": 1 }]
     },
     {
-        "name": "Aqua Gunlance",
-        "name_upg": "Jyura Gunlance",
+        "name": "Madness Gunlance",
+        "name_upg": "Jyura Buster",
         "type": "Gunlance",
         "monster": "Jyuratodus",
         "element": "Water",
         "skills": [{ "name": "Last Stand", "level": 1 }]
     },
     {
-        "name": "Princess Buster",
-        "name_upg": "Queen Buster",
+        "name": "Princess Panoply",
+        "name_upg": "Princess Panoply+",
         "type": "Gunlance",
         "monster": "Rathian",
         "element": "Poison",
         "skills": [{ "name": "Health Boost", "level": 2 }]
     },
     {
-        "name": "Queen Buster",
-        "name_upg": "Queen Buster+",
+        "name": "Rose Burst",
+        "name_upg": "Royal Burst",
         "type": "Gunlance",
         "monster": "Pink Rathian",
         "element": "Poison",
         "skills": [{ "name": "Evade Extender", "level": 1 }]
     },
     {
-        "name": "Lunatic Buster",
-        "name_upg": "Lunatic Buster+",
+        "name": "Queen's Panoply",
+        "name_upg": "Queen's Panoply",
         "type": "Gunlance",
         "monster": "Golden Rathian",
         "element": "Poison",
         "skills": [{ "name": "Poison Exploit", "level": 2 }]
     },
     {
-        "name": "Flame Buster",
-        "name_upg": "Heat Cannon",
+        "name": "Glacial Gunlance",
+        "name_upg": "Legiana Cannon",
+        "type": "Gunlance",
+        "monster": "Legiana",
+        "element": "Ice",
+        "skills": [{ "name": "Divine Blessing", "level": 2 }]
+    },
+    {
+        "name": "Rath Gunlance",
+        "name_upg": "Red Rook",
         "type": "Gunlance",
         "monster": "Rathalos",
         "element": "Fire",
         "skills": [{ "name": "Earplugs", "level": 1 }]
     },
     {
-        "name": "Blue Buster",
-        "name_upg": "Azure Cannon",
+        "name": "Blue Rook",
+        "name_upg": "Blue Chariot",
         "type": "Gunlance",
         "monster": "Azure Rathalos",
         "element": "Fire",
         "skills": [{ "name": "Special Boost", "level": 1 }]
     },
     {
-        "name": "Platinum Buster",
-        "name_upg": "Platinum Buster+",
+        "name": "Chariot Gun",
+        "name_upg": "Chariot Gun",
         "type": "Gunlance",
         "monster": "Silver Rathalos",
         "element": "Fire",
@@ -105,39 +113,39 @@
     },
     {
         "name": "Mammoth Gunlance",
-        "name_upg": "Mammoth Gunlance+",
+        "name_upg": "Mammoth Gunlance",
         "type": "Gunlance",
         "monster": "Banbaro",
         "element": "None",
         "skills": [{ "name": "Firm Foothold", "level": 2 }]
     },
     {
-        "name": "Icicle Gunlance",
-        "name_upg": "Barioth Gunlance+",
+        "name": "Twinfang",
+        "name_upg": "Twinfang+",
         "type": "Gunlance",
         "monster": "Barioth",
         "element": "Ice",
         "skills": [{ "name": "Evade Extender", "level": 1 }]
     },
     {
-        "name": "Usurper's Firebolt",
-        "name_upg": "Despot's Crookbolt",
+        "name": "Usurper's Roar",
+        "name_upg": "Despot's Phlogiston",
         "type": "Gunlance",
         "monster": "Zinogre",
         "element": "Thunder",
         "skills": [{ "name": "Artful Dodger", "level": 1 }]
     },
     {
-        "name": "Grief Buster",
-        "name_upg": "Fiendish Buster",
+        "name": "Ravenous Gunlance",
+        "name_upg": "Insatiable Gunlance",
         "type": "Gunlance",
         "monster": "Deviljho",
         "element": "Dragon",
-        "skills": [{ "name": "Burst", "level": 2 }]
+        "skills": [{ "name": "Artillery", "level": 1 }]
     },
     {
-        "name": "Khezu Gunlance",
-        "name_upg": "Painful Gunlance",
+        "name": "Full Voltage",
+        "name_upg": "High Voltage Gunlance",
         "type": "Gunlance",
         "monster": "Khezu",
         "element": "Thunder",
