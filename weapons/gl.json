@@ -152,16 +152,19 @@
         "skills": [{ "name": "Peak Performance", "level": 1 }]
     },
     {
-        "name": "Daora's Gunlance",
+        "name": "Daora's Brigia",
         "name_upg": "Daora's Gunlance+",
         "type": "Gunlance",
         "monster": "Kushala Daora",
         "element": "Ice",
-        "skills": []
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Windproof", "level": 2 }
+        ]
     },
     {
-        "name": "Hana no Gunlance",
-        "name_upg": "Kurenawi Gunlance",
+        "name": "Ukiyo no Yamiwo",
+        "name_upg": "Mizumori",
         "type": "Gunlance",
         "monster": "Mizutsune",
         "element": "Water",
@@ -169,7 +172,7 @@
     },
     {
         "name": "Aknosom Gunlance",
-        "name_upg": "Daybreak Gunlance",
+        "name_upg": "Dawnbreaker Gunlance",
         "type": "Gunlance",
         "monster": "Aknosom",
         "element": "Fire",
@@ -177,79 +180,85 @@
     },
     {
         "name": "Sinister Gunlance",
-        "name_upg": "Sinister Faminegunlance",
+        "name_upg": "Sinister Shadowshot",
         "type": "Gunlance",
         "monster": "Magnamalo",
         "element": "Blast",
         "skills": [{ "name": "Partbreaker", "level": 1 }]
     },
     {
-        "name": "Suzuka Gunlance",
-        "name_upg": "Suzuka Otakemaru Gunlance",
+        "name": "Demon Gunlance",
+        "name_upg": "Great Demon Gunlance",
         "type": "Gunlance",
         "monster": "Rajang",
         "element": "Thunder",
-        "skills": [{ "name": "Power Prolonger", "level": 2 }]
+        "skills": [{ "name": "Defensive Loading", "level": 1 }]
     },
     {
-        "name": "Decimation Gunlance",
-        "name_upg": "Decimation Gunlance+",
+        "name": "Eradication Flame",
+        "name_upg": "Eradication Flame",
         "type": "Gunlance",
         "monster": "Nergigante",
         "element": "Dragon",
-        "skills": []
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Partbreaker", "level": 2 }
+        ]
     },
     {
-        "name": "Snow Gunlance",
-        "name_upg": "Lagombi Gunlance+",
+        "name": "Lagomberator",
+        "name_upg": "Lagomberatrix",
         "type": "Gunlance",
         "monster": "Lagombi",
         "element": "Ice",
         "skills": [{ "name": "Lock On", "level": 1 }]
     },
     {
-        "name": "Volvi Gunlance",
-        "name_upg": "Volvi Gunlance+",
+        "name": "Shattershot",
+        "name_upg": "Shatter God",
         "type": "Gunlance",
         "monster": "Volvidon",
         "element": "None",
-        "skills": [{ "name": "Stamina Thief", "level": 1 }]
+        "skills": [{ "name": "Evade Extender", "level": 1 }]
     },
     {
-        "name": "Rex Gunlance",
-        "name_upg": "Rex Gunlance+",
+        "name": "Tiger Blast",
+        "name_upg": "Tiger Blast+",
         "type": "Gunlance",
         "monster": "Tigrex",
         "element": "None",
         "skills": [{ "name": "Critical Ferocity", "level": 1 }]
     },
     {
-        "name": "Rookslayer Gunlance",
-        "name_upg": "Bazelhawk Rookslayer Gunlance",
+        "name": "Bazel Buster",
+        "name_upg": "Bazel Buster",
         "type": "Gunlance",
         "monster": "Bazelgeuse",
         "element": "Blast",
-        "skills": [{ "name": "Critical Ferocity", "level": 1 }]
+        "skills": [{ "name": "Artillery", "level": 1 }]
     },
     {
-        "name": "Svarog Gunlance",
-        "name_upg": "Svarog Gunlance+",
+        "name": "Glavenus Buster",
+        "name_upg": "Glavenus Buster",
         "type": "Gunlance",
         "monster": "Glavenus",
         "element": "Fire",
         "skills": [{ "name": "Critical Ferocity", "level": 1 }]
     },
     {
-        "name": "Chameleos Gunlance",
-        "name_upg": "Chameleos Gunlance+",
+        "name": "Venomous Attar",
+        "name_upg": "Venomous Attar",
         "type": "Gunlance",
         "monster": "Chameleos",
         "element": "Poison",
-        "skills": []
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Status Sneak Attack", "level": 2 }
+        ]
     },
     {
-        "name": "Hidden Gunlance",
-        "name_upg": "Hidden Gunlance+",
+        "name": "Hidden Cannon",
+        "name_upg": "Hidden Cannon",
         "type": "Gunlance",
         "monster": "Nargacuga",
         "element": "None",
@@ -257,7 +266,7 @@
     },
     {
         "name": "Bone Gunlance",
-        "name_upg": "Wild Gunlance",
+        "name_upg": "Bone Cannon",
         "type": "Gunlance",
         "monster": "Bone",
         "element": "None",
