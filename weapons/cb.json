@@ -1,0 +1,316 @@
+[
+    {
+        "name": "Iron Charge Blade",
+        "name_upg": "Steel Charge Blade",
+        "type": "Charge Blade",
+        "monster": "Iron",
+        "element": "None",
+        "skills": [{ "name": "Poison Resistance", "level": 2 }]
+    },
+    {
+        "name": "Jagras Charge Blade",
+        "name_upg": "Jagras Guard",
+        "type": "Charge Blade",
+        "monster": "Great Jagras",
+        "element": "Water",
+        "skills": [{ "name": "Health Boost", "level": 2 }]
+    },
+    {
+        "name": "Girros Charge Blade",
+        "name_upg": "Malady's Guard",
+        "type": "Charge Blade",
+        "monster": "Great Girros",
+        "element": "Paralysis",
+        "skills": [{ "name": "Sneak Attack", "level": 1 }]
+    },
+    {
+        "name": "Thunder Charge Blade",
+        "name_upg": "Kadachi Guard",
+        "type": "Charge Blade",
+        "monster": "Tobi-Kadachi",
+        "element": "Thunder",
+        "skills": [{ "name": "Evade Extender", "level": 1 }]
+    },
+    {
+        "name": "Aqua Charge Blade",
+        "name_upg": "Jyura Guard",
+        "type": "Charge Blade",
+        "monster": "Jyuratodus",
+        "element": "Water",
+        "skills": [{ "name": "Last Stand", "level": 1 }]
+    },
+    {
+        "name": "Princess Guard",
+        "name_upg": "Queen Guard",
+        "type": "Charge Blade",
+        "monster": "Rathian",
+        "element": "Poison",
+        "skills": [{ "name": "Health Boost", "level": 2 }]
+    },
+    {
+        "name": "Queen Guard",
+        "name_upg": "Queen Guard+",
+        "type": "Charge Blade",
+        "monster": "Pink Rathian",
+        "element": "Poison",
+        "skills": [{ "name": "Evade Extender", "level": 1 }]
+    },
+    {
+        "name": "Lunatic Guard",
+        "name_upg": "Lunatic Guard+",
+        "type": "Charge Blade",
+        "monster": "Golden Rathian",
+        "element": "Poison",
+        "skills": [{ "name": "Poison Exploit", "level": 2 }]
+    },
+    {
+        "name": "Glacial Charge Blade",
+        "name_upg": "Legiana Guard",
+        "type": "Charge Blade",
+        "monster": "Legiana",
+        "element": "Ice",
+        "skills": [{ "name": "Divine Blessing", "level": 2 }]
+    },
+    {
+        "name": "Diablos Charge Blade",
+        "name_upg": "Diablos Guard",
+        "type": "Charge Blade",
+        "monster": "Diablos",
+        "element": "None",
+        "skills": [{ "name": "Heroics", "level": 1 }]
+    },
+    {
+        "name": "Thanatos Guard",
+        "name_upg": "Thanatos Guard",
+        "type": "Charge Blade",
+        "monster": "Black Diablos",
+        "element": "None",
+        "skills": [{ "name": "Partbreaker", "level": 1 }]
+    },
+    {
+        "name": "Flame Guard",
+        "name_upg": "Heat Guard",
+        "type": "Charge Blade",
+        "monster": "Rathalos",
+        "element": "Fire",
+        "skills": [{ "name": "Earplugs", "level": 1 }]
+    },
+    {
+        "name": "Blue Guard",
+        "name_upg": "Azure Guard",
+        "type": "Charge Blade",
+        "monster": "Azure Rathalos",
+        "element": "Fire",
+        "skills": [{ "name": "Special Boost", "level": 1 }]
+    },
+    {
+        "name": "Platinum Guard",
+        "name_upg": "Platinum Guard+",
+        "type": "Charge Blade",
+        "monster": "Silver Rathalos",
+        "element": "Fire",
+        "skills": [{ "name": "Critical Element", "level": 2 }]
+    },
+    {
+        "name": "Icicle Charge Blade",
+        "name_upg": "Barioth Guard+",
+        "type": "Charge Blade",
+        "monster": "Barioth",
+        "element": "Ice",
+        "skills": [{ "name": "Evade Extender", "level": 1 }]
+    },
+    {
+        "name": "Usurper's Firebolt",
+        "name_upg": "Despot's Crookbolt",
+        "type": "Charge Blade",
+        "monster": "Zinogre",
+        "element": "Thunder",
+        "skills": [{ "name": "Artful Dodger", "level": 1 }]
+    },
+    {
+        "name": "Garon Charge Blade",
+        "name_upg": "Blood-drinker Guard",
+        "type": "Charge Blade",
+        "monster": "Odogaron",
+        "element": "None",
+        "skills": [{ "name": "Evasive Concentration", "level": 1 }]
+    },
+    {
+        "name": "Nether Guard",
+        "name_upg": "Death Row Guard",
+        "type": "Charge Blade",
+        "monster": "Ebony Odogaron",
+        "element": "Dragon",
+        "skills": [{ "name": "Critical Boost", "level": 1 }]
+    },
+    {
+        "name": "Wrath & Rancor Guard",
+        "name_upg": "Wrathful Predation Guard",
+        "type": "Charge Blade",
+        "monster": "Deviljho",
+        "element": "Dragon",
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Burst", "level": 2 }
+        ]
+    },
+    {
+        "name": "Basarios Guard",
+        "name_upg": "Gigant Guard",
+        "type": "Charge Blade",
+        "monster": "Basarios",
+        "element": "Fire",
+        "skills": [{ "name": "Heroics", "level": 1 }]
+    },
+    {
+        "name": "Daora's Charge Blade",
+        "name_upg": "Daora's Charge Blade+",
+        "type": "Charge Blade",
+        "monster": "Kushala Daora",
+        "element": "Ice",
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Windproof", "level": 2 }
+        ]
+    },
+    {
+        "name": "Hana no Charge Blade",
+        "name_upg": "Kurenawi Charge Blade",
+        "type": "Charge Blade",
+        "monster": "Mizutsune",
+        "element": "Water",
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Artful Dodger", "level": 1 }
+        ]
+    },
+    {
+        "name": "Imperial Shimmer Guard",
+        "name_upg": "Imperial Shimmer Guard+",
+        "type": "Charge Blade",
+        "monster": "Teostra",
+        "element": "Blast",
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Heroics", "level": 2 }
+        ]
+    },
+    {
+        "name": "Sinister Guard",
+        "name_upg": "Sinister Famineguard",
+        "type": "Charge Blade",
+        "monster": "Magnamalo",
+        "element": "Blast",
+        "skills": [{ "name": "Partbreaker", "level": 1 }]
+    },
+    {
+        "name": "Suzuka Guard",
+        "name_upg": "Suzuka Otakemaru Guard",
+        "type": "Charge Blade",
+        "monster": "Rajang",
+        "element": "Thunder",
+        "skills": [{ "name": "Power Prolonger", "level": 2 }]
+    },
+    {
+        "name": "Decimation Guard",
+        "name_upg": "Decimation Guard+",
+        "type": "Charge Blade",
+        "monster": "Nergigante",
+        "element": "Dragon",
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Partbreaker", "level": 2 }
+        ]
+    },
+    {
+        "name": "Volvi Guard",
+        "name_upg": "Volvi Guard+",
+        "type": "Charge Blade",
+        "monster": "Volvidon",
+        "element": "None",
+        "skills": [{ "name": "Stamina Thief", "level": 1 }]
+    },
+    {
+        "name": "Frilled Guard",
+        "name_upg": "Illusory Frilled Guard",
+        "type": "Charge Blade",
+        "monster": "Somnacanth",
+        "element": "Sleep",
+        "skills": [{ "name": "Evade Extender", "level": 1 }]
+    },
+    {
+        "name": "Tiger Guard",
+        "name_upg": "Tiger Guard+",
+        "type": "Charge Blade",
+        "monster": "Tigrex",
+        "element": "None",
+        "skills": [{ "name": "Critical Ferocity", "level": 1 }]
+    },
+    {
+        "name": "Chata Guard",
+        "name_upg": "Shrouded Guard",
+        "type": "Charge Blade",
+        "monster": "Chatacabra",
+        "element": "None",
+        "skills": [{ "name": "Litheness", "level": 1 }]
+    },
+    {
+        "name": "Svarog Guard",
+        "name_upg": "Svarog Guard+",
+        "type": "Charge Blade",
+        "monster": "Glavenus",
+        "element": "Fire",
+        "skills": [{ "name": "Critical Ferocity", "level": 1 }]
+    },
+    {
+        "name": "Dual Chameleos Guard",
+        "name_upg": "Dual Chameleos Guard+",
+        "type": "Charge Blade",
+        "monster": "Chameleos",
+        "element": "Poison",
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Status Sneak Attack", "level": 2 }
+        ]
+    },
+    {
+        "name": "Beo Guard",
+        "name_upg": "Beo Guard+",
+        "type": "Charge Blade",
+        "monster": "Beotodus",
+        "element": "Ice",
+        "skills": [{ "name": "Valor", "level": 1 }]
+    },
+    {
+        "name": "Hidden Guard",
+        "name_upg": "Hidden Guard+",
+        "type": "Charge Blade",
+        "monster": "Nargacuga",
+        "element": "None",
+        "skills": [{ "name": "Resuscitate", "level": 2 }]
+    },
+    {
+        "name": "Bone Guard",
+        "name_upg": "Wild Guard",
+        "type": "Charge Blade",
+        "monster": "Bone",
+        "element": "None",
+        "skills": [{ "name": "Concentration", "level": 1 }]
+    },
+    {
+        "name": "Hope Guard",
+        "name_upg": "Esperanza Guard",
+        "type": "Charge Blade",
+        "monster": "Hope",
+        "element": "None",
+        "skills": [{ "name": "Lock On", "level": 1 }]
+    },
+    {
+        "name": "Balloon Guard",
+        "name_upg": "Balloon Guard+",
+        "type": "Charge Blade",
+        "monster": "Balloon",
+        "element": "None",
+        "skills": [{ "name": "Power Prolonger", "level": 2 }]
+    }
+]
