@@ -1,47 +1,47 @@
 [
     {
-        "name": "Iron Switchaxe",
-        "name_upg": "Steel Switchaxe",
+        "name": "Proto Iron Axe",
+        "name_upg": "Improved Steel Axe",
         "type": "Switch Axe",
         "monster": "Iron",
         "element": "None",
         "skills": [{ "name": "Poison Resistance", "level": 2 }]
     },
     {
-        "name": "Jagras Switchaxe",
-        "name_upg": "Jagras Cleaver",
+        "name": "Jagras Axe",
+        "name_upg": "Jagras Raider",
         "type": "Switch Axe",
         "monster": "Great Jagras",
         "element": "Water",
         "skills": [{ "name": "Health Boost", "level": 2 }]
     },
     {
-        "name": "Blooming Axe",
-        "name_upg": "Datura Axe",
+        "name": "Datura Garden",
+        "name_upg": "Datura Garden",
         "type": "Switch Axe",
         "monster": "Pukei-Pukei",
         "element": "Poison",
         "skills": [{ "name": "Sneak Attack", "level": 1 }]
     },
     {
-        "name": "Laguna Axe",
-        "name_upg": "Laguna Axe",
+        "name": "Deep Lagoon",
+        "name_upg": "Deep Lagoon",
         "type": "Switch Axe",
         "monster": "Coral Pukei-Pukei",
         "element": "Water",
         "skills": [{ "name": "Earplugs", "level": 1 }]
     },
     {
-        "name": "Carapace Switchaxe",
-        "name_upg": "Barroth Cleaver",
+        "name": "Carapace Axe",
+        "name_upg": "Barroth Grinder",
         "type": "Switch Axe",
         "monster": "Barroth",
         "element": "None",
         "skills": [{ "name": "Defense Boost", "level": 2 }]
     },
     {
-        "name": "Thunder Switchaxe",
-        "name_upg": "Kadachi Axe",
+        "name": "Thunder Axe",
+        "name_upg": "Lightning Chopper",
         "type": "Switch Axe",
         "monster": "Tobi-Kadachi",
         "element": "Thunder",
@@ -49,146 +49,143 @@
     },
     {
         "name": "Lumu Axe",
-        "name_upg": "Lumu Cleaver",
+        "name_upg": "Lumu Smasher",
         "type": "Switch Axe",
         "monster": "Paolumu",
         "element": "None",
         "skills": [{ "name": "Divine Blessing", "level": 2 }]
     },
     {
-        "name": "Nyx Cleaver",
-        "name_upg": "Nyx Cleaver",
+        "name": "Nyx Smasher",
+        "name_upg": "Nyx Smasher",
         "type": "Switch Axe",
         "monster": "Nightshade Paolumu",
         "element": "Sleep",
         "skills": [{ "name": "Sneak Attack", "level": 1 }]
     },
     {
-        "name": "Aqua Switchaxe",
-        "name_upg": "Jyura Axe",
+        "name": "Madness Axe",
+        "name_upg": "Jyura Drought",
         "type": "Switch Axe",
         "monster": "Jyuratodus",
         "element": "Water",
         "skills": [{ "name": "Last Stand", "level": 1 }]
     },
     {
-        "name": "Blazing Axe",
-        "name_upg": "Anja Cleaver",
+        "name": "Flammenbeil",
+        "name_upg": "Flammenbeil+",
         "type": "Switch Axe",
         "monster": "Anjanath",
         "element": "Fire",
         "skills": [{ "name": "Rising Tide", "level": 1 }]
     },
     {
-        "name": "Princess Cleaver",
-        "name_upg": "Queen Cleaver",
+        "name": "Dragonmaiden Axe",
+        "name_upg": "Dragonmaiden Axe+",
         "type": "Switch Axe",
         "monster": "Rathian",
         "element": "Poison",
         "skills": [{ "name": "Health Boost", "level": 2 }]
     },
     {
-        "name": "Lunatic Cleaver",
-        "name_upg": "Lunatic Cleaver+",
+        "name": "Golden Crescent",
+        "name_upg": "Golden Crescent",
         "type": "Switch Axe",
         "monster": "Golden Rathian",
         "element": "Poison",
         "skills": [{ "name": "Poison Exploit", "level": 2 }]
     },
     {
-        "name": "Glacial Switchaxe",
-        "name_upg": "Legiana Cleaver",
+        "name": "Glacial Axe",
+        "name_upg": "Legia Frostreaver",
         "type": "Switch Axe",
         "monster": "Legiana",
         "element": "Ice",
         "skills": [{ "name": "Divine Blessing", "level": 2 }]
     },
     {
-        "name": "Diablos Switchaxe",
-        "name_upg": "Diablos Cleaver",
+        "name": "Diablos Axe",
+        "name_upg": "Axe Semper Tyrannis",
         "type": "Switch Axe",
         "monster": "Diablos",
         "element": "None",
         "skills": [{ "name": "Heroics", "level": 1 }]
     },
     {
-        "name": "Thanatos Cleaver",
-        "name_upg": "Thanatos Cleaver",
+        "name": "Axe of Thanatos",
+        "name_upg": "Axe of Thanatos",
         "type": "Switch Axe",
         "monster": "Black Diablos",
         "element": "None",
         "skills": [{ "name": "Partbreaker", "level": 1 }]
     },
     {
-        "name": "Flame Cleaver",
-        "name_upg": "Heat Cleaver",
+        "name": "Rathalos Axe",
+        "name_upg": "Rathbringer Axe",
         "type": "Switch Axe",
         "monster": "Rathalos",
         "element": "Fire",
         "skills": [{ "name": "Earplugs", "level": 1 }]
     },
     {
-        "name": "Blue Cleaver",
-        "name_upg": "Azure Cleaver",
+        "name": "Azure Rathbringer",
+        "name_upg": "Azure Rathbringer",
         "type": "Switch Axe",
         "monster": "Azure Rathalos",
         "element": "Fire",
         "skills": [{ "name": "Special Boost", "level": 1 }]
     },
     {
-        "name": "Platinum Cleaver",
-        "name_upg": "Platinum Cleaver+",
+        "name": "Silver Rathbringer",
+        "name_upg": "Silver Rathbringer",
         "type": "Switch Axe",
         "monster": "Silver Rathalos",
         "element": "Fire",
         "skills": [{ "name": "Critical Element", "level": 2 }]
     },
     {
-        "name": "Mammoth Switchaxe",
-        "name_upg": "Mammoth Switchaxe+",
+        "name": "Mammoth Halberd",
+        "name_upg": "Mammoth Halberd",
         "type": "Switch Axe",
         "monster": "Banbaro",
         "element": "None",
         "skills": [{ "name": "Firm Foothold", "level": 2 }]
     },
     {
-        "name": "Icicle Switchaxe",
-        "name_upg": "Barioth Switchaxe+",
+        "name": "Amber Slash",
+        "name_upg": "Amber Slash+",
         "type": "Switch Axe",
         "monster": "Barioth",
         "element": "Ice",
         "skills": [{ "name": "Evade Extender", "level": 1 }]
     },
     {
-        "name": "Usurper's Firebolt",
-        "name_upg": "Despot's Crookbolt",
+        "name": "Thundercleave",
+        "name_upg": "Thundercleave",
         "type": "Switch Axe",
         "monster": "Zinogre",
         "element": "Thunder",
         "skills": [{ "name": "Artful Dodger", "level": 1 }]
     },
     {
-        "name": "Wrath & Rancor Axe",
-        "name_upg": "Wrathful Predation Axe",
+        "name": "Tyrannos",
+        "name_upg": "Terror Tyrannos",
         "type": "Switch Axe",
         "monster": "Deviljho",
         "element": "Dragon",
-        "skills": [
-            { "name": "Hunter's Unity", "level": 1 },
-            { "name": "Burst", "level": 2 }
-        ]
+        "skills": [{ "name": "Morph Boost", "level": 1 }]
     },
     {
-        "name": "Khezu Switchaxe",
-        "name_upg": "Painful Switchaxe",
+        "name": "Khezu Axe",
+        "name_upg": "Khezu Cleaver",
         "type": "Switch Axe",
         "monster": "Khezu",
         "element": "Thunder",
         "skills": [{ "name": "Peak Performance", "level": 1 }]
     },
     {
-        "name": "Daora's Switchaxe",
-        "name_upg": "Daora's Switchaxe+",
+        "name": "Daora's Janah",
+        "name_upg": "Daora's Janah ",
         "type": "Switch Axe",
         "monster": "Kushala Daora",
         "element": "Ice",
@@ -198,18 +195,15 @@
         ]
     },
     {
-        "name": "Hana no Switchaxe",
-        "name_upg": "Kurenawi Switchaxe",
+        "name": "Fond Farewell",
+        "name_upg": "Parting Slice",
         "type": "Switch Axe",
         "monster": "Mizutsune",
         "element": "Water",
-        "skills": [
-            { "name": "Hunter's Unity", "level": 1 },
-            { "name": "Artful Dodger", "level": 1 }
-        ]
+        "skills": [{ "name": "Artful Dodger", "level": 1 }]
     },
     {
-        "name": "Imperial Shimmer Axe",
+        "name": "Teostra's Castle",
         "name_upg": "Imperial Shimmer Axe+",
         "type": "Switch Axe",
         "monster": "Teostra",
@@ -220,32 +214,32 @@
         ]
     },
     {
-        "name": "Aknosom Switchaxe",
-        "name_upg": "Daybreak Switchaxe",
+        "name": "Axenosom",
+        "name_upg": "Daybreak Silvaris",
         "type": "Switch Axe",
         "monster": "Aknosom",
         "element": "Fire",
         "skills": [{ "name": "Lock On", "level": 1 }]
     },
     {
-        "name": "Sinister Switchaxe",
-        "name_upg": "Sinister Famineaxe",
+        "name": "Sinister Axe",
+        "name_upg": "Sinister Shadowslice",
         "type": "Switch Axe",
         "monster": "Magnamalo",
         "element": "Blast",
         "skills": [{ "name": "Partbreaker", "level": 1 }]
     },
     {
-        "name": "Suzuka Switchaxe",
-        "name_upg": "Suzuka Otakemaru Switchaxe",
+        "name": "Undying Axe",
+        "name_upg": "Undying Light",
         "type": "Switch Axe",
         "monster": "Rajang",
         "element": "Thunder",
-        "skills": [{ "name": "Power Prolonger", "level": 2 }]
+        "skills": [{ "name": "Fighting Spirit", "level": 1 }]
     },
     {
-        "name": "Decimation Switchaxe",
-        "name_upg": "Decimation Switchaxe+",
+        "name": "Dying Light",
+        "name_upg": "Dying Light",
         "type": "Switch Axe",
         "monster": "Nergigante",
         "element": "Dragon",
@@ -255,66 +249,67 @@
         ]
     },
     {
-        "name": "Snow Switchaxe",
-        "name_upg": "Lagombi Switchaxe+",
+        "name": "Longear Axe",
+        "name_upg": "Longear Weiss",
         "type": "Switch Axe",
         "monster": "Lagombi",
         "element": "Ice",
         "skills": [{ "name": "Lock On", "level": 1 }]
     },
     {
-        "name": "Volvi Switchaxe",
-        "name_upg": "Volvi Switchaxe+",
+        "name": "Binding Roller",
+        "name_upg": "Vermilingua",
         "type": "Switch Axe",
         "monster": "Volvidon",
-        "element": "None",
-        "skills": [{ "name": "Stamina Thief", "level": 1 }]
+        "element": "Paralysis",
+        "skills": [{ "name": "Evade Extender", "level": 1 }]
     },
     {
-        "name": "Rex Switchaxe",
-        "name_upg": "Rex Switchaxe+",
+        "name": "Rex Raider",
+        "name_upg": "Rex Raider",
         "type": "Switch Axe",
         "monster": "Tigrex",
         "element": "None",
         "skills": [{ "name": "Critical Ferocity", "level": 1 }]
     },
     {
-        "name": "Monarch Switchaxe",
-        "name_upg": "Monarch Switchaxe+",
+        "name": "Peal",
+        "name_upg": "Peal",
         "type": "Switch Axe",
         "monster": "Kirin",
         "element": "Thunder",
         "skills": [
-            { "name": "Hunter's Unity", "level": 1 }
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Latent Power", "level": 1 }
         ]
     },
     {
-        "name": "Rookslayer Switchaxe",
-        "name_upg": "Bazelhawk Rookslayer Switchaxe",
+        "name": "Bazel Raider",
+        "name_upg": "Bazel Raider",
         "type": "Switch Axe",
         "monster": "Bazelgeuse",
         "element": "Blast",
-        "skills": [{ "name": "Critical Ferocity", "level": 1 }]
+        "skills": [{ "name": "Burst", "level": 2 }]
     },
     {
-        "name": "Cerulean Switchaxe",
-        "name_upg": "Ashigara Switchaxe",
+        "name": "Arzuros Axe",
+        "name_upg": "Arzuros Revelax",
         "type": "Switch Axe",
         "monster": "Arzuros",
         "element": "None",
-        "skills": [{ "name": "Special Boost", "level": 2 }]
+        "skills": [{ "name": "Special Boost", "level": 1 }]
     },
     {
-        "name": "Svarog Switchaxe",
-        "name_upg": "Svarog Switchaxe+",
+        "name": "Glavenus Smasher",
+        "name_upg": "Glavenus Smasher",
         "type": "Switch Axe",
         "monster": "Glavenus",
         "element": "Fire",
         "skills": [{ "name": "Critical Ferocity", "level": 1 }]
     },
     {
-        "name": "Dual Chameleos Axe",
-        "name_upg": "Dual Chameleos Axe+",
+        "name": "Balor's Mirage",
+        "name_upg": "BAlor's Mirage",
         "type": "Switch Axe",
         "monster": "Chameleos",
         "element": "Poison",
@@ -324,32 +319,32 @@
         ]
     },
     {
-        "name": "Bishaten Switchaxe",
-        "name_upg": "Bishaten Switchaxe+",
+        "name": "Wheel Axe",
+        "name_upg": "Axe of Wisdom",
         "type": "Switch Axe",
         "monster": "Bishaten",
         "element": "None",
         "skills": [{ "name": "Shared Sword", "level": 2 }]
     },
     {
-        "name": "Hidden Switchaxe",
-        "name_upg": "Hidden Switchaxe+",
+        "name": "Hidden Axe",
+        "name_upg": "Hidden Axe+",
         "type": "Switch Axe",
         "monster": "Nargacuga",
         "element": "None",
         "skills": [{ "name": "Resuscitate", "level": 2 }]
     },
     {
-        "name": "Bone Switchaxe",
-        "name_upg": "Wild Switchaxe",
+        "name": "Bone Axe",
+        "name_upg": "Bone Smasher",
         "type": "Switch Axe",
         "monster": "Bone",
         "element": "None",
         "skills": [{ "name": "Concentration", "level": 1 }]
     },
     {
-        "name": "Hope Switchaxe",
-        "name_upg": "Esperanza Switchaxe",
+        "name": "Hope Axe",
+        "name_upg": "Esperanza Axe",
         "type": "Switch Axe",
         "monster": "Hope",
         "element": "None",
