@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Fulguring Bow",
+        "name_upg": "Fulguring Bow",
+        "type": "Bow",
+        "monster": "Fulgur Anjanath",
+        "element": "Thunder",
+        "skills": [
+            { 
+                "name": "Critical Element", 
+                "level": 1 
+            }
+        ],
+        "charged_shot": [
+            { 
+                "name": "Rapid", 
+                "level": 2 
+            },
+            { 
+                "name": "Rapid", 
+                "level": 3 
+            },
+            { 
+                "name": "Spread", 
+                "level": 3 
+            },
+            { 
+                "name": "Spread", 
+                "level": 4 
+            }
+        ]
+    }
+]
