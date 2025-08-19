@@ -178,10 +178,9 @@
         "element": "Water",
         "skills": [{ "name": "Artful Dodger", "level": 1 }]
     },
-    //quede aca
     {
-        "name": "Imperial Shimmer Guard",
-        "name_upg": "Imperial Shimmer Guard+",
+        "name": "Teostra's Nova",
+        "name_upg": "Teostra's Nova",
         "type": "Charge Blade",
         "monster": "Teostra",
         "element": "Blast",
@@ -191,23 +190,23 @@
         ]
     },
     {
-        "name": "Sinister Guard",
-        "name_upg": "Sinister Famineguard",
+        "name": "Sinister Slasher+",
+        "name_upg": "Sinister Shade Axe",
         "type": "Charge Blade",
         "monster": "Magnamalo",
         "element": "Blast",
         "skills": [{ "name": "Partbreaker", "level": 1 }]
     },
     {
-        "name": "Suzuka Guard",
-        "name_upg": "Suzuka Otakemaru Guard",
+        "name": "Undying Blade",
+        "name_upg": "Ikaji Immortal",
         "type": "Charge Blade",
         "monster": "Rajang",
         "element": "Thunder",
-        "skills": [{ "name": "Power Prolonger", "level": 2 }]
+        "skills": [{ "name": "Quick Work", "level": 1 }]
     },
     {
-        "name": "Decimation Guard",
+        "name": "Devastation's Thorns",
         "name_upg": "Decimation Guard+",
         "type": "Charge Blade",
         "monster": "Nergigante",
@@ -218,48 +217,48 @@
         ]
     },
     {
-        "name": "Volvi Guard",
-        "name_upg": "Volvi Guard+",
+        "name": "Rough Roller",
+        "name_upg": "Rotaxion",
         "type": "Charge Blade",
         "monster": "Volvidon",
-        "element": "None",
+        "element": "Paralysis",
         "skills": [{ "name": "Stamina Thief", "level": 1 }]
     },
     {
-        "name": "Frilled Guard",
-        "name_upg": "Illusory Frilled Guard",
+        "name": "Bellowing Blow",
+        "name_upg": "Illusory Frilled Wail",
         "type": "Charge Blade",
         "monster": "Somnacanth",
         "element": "Sleep",
         "skills": [{ "name": "Evade Extender", "level": 1 }]
     },
     {
-        "name": "Tiger Guard",
-        "name_upg": "Tiger Guard+",
+        "name": "Rex Arms",
+        "name_upg": "Rex Arms",
         "type": "Charge Blade",
         "monster": "Tigrex",
         "element": "None",
         "skills": [{ "name": "Critical Ferocity", "level": 1 }]
     },
     {
-        "name": "Chata Guard",
-        "name_upg": "Shrouded Guard",
+        "name": "Chata Strongarm",
+        "name_upg": "Shrouded Kutharja",
         "type": "Charge Blade",
         "monster": "Chatacabra",
         "element": "None",
         "skills": [{ "name": "Litheness", "level": 1 }]
     },
     {
-        "name": "Svarog Guard",
-        "name_upg": "Svarog Guard+",
+        "name": "Scorching Demander",
+        "name_upg": "Scorching Demander+",
         "type": "Charge Blade",
         "monster": "Glavenus",
         "element": "Fire",
         "skills": [{ "name": "Critical Ferocity", "level": 1 }]
     },
     {
-        "name": "Dual Chameleos Guard",
-        "name_upg": "Dual Chameleos Guard+",
+        "name": "Etherward",
+        "name_upg": "Etherward",
         "type": "Charge Blade",
         "monster": "Chameleos",
         "element": "Poison",
@@ -269,43 +268,43 @@
         ]
     },
     {
-        "name": "Beo Guard",
-        "name_upg": "Beo Guard+",
+        "name": "Deep Schnegel",
+        "name_upg": "Deep Schnegel",
         "type": "Charge Blade",
         "monster": "Beotodus",
         "element": "Ice",
         "skills": [{ "name": "Valor", "level": 1 }]
     },
     {
-        "name": "Hidden Guard",
-        "name_upg": "Hidden Guard+",
+        "name": "Hidden Guardian",
+        "name_upg": "Hidden Guardian",
         "type": "Charge Blade",
         "monster": "Nargacuga",
         "element": "None",
         "skills": [{ "name": "Resuscitate", "level": 2 }]
     },
     {
-        "name": "Bone Guard",
-        "name_upg": "Wild Guard",
+        "name": "Bone Strongarm",
+        "name_upg": "Hard Bone Strongarm",
         "type": "Charge Blade",
         "monster": "Bone",
         "element": "None",
         "skills": [{ "name": "Concentration", "level": 1 }]
     },
     {
-        "name": "Hope Guard",
-        "name_upg": "Esperanza Guard",
+        "name": "Hope Strongarm",
+        "name_upg": "Esperanza Strongarm",
         "type": "Charge Blade",
         "monster": "Hope",
         "element": "None",
         "skills": [{ "name": "Lock On", "level": 1 }]
     },
     {
-        "name": "Balloon Guard",
-        "name_upg": "Balloon Guard+",
+        "name": "Egg Strongarm",
+        "name_upg": "Egg Strongarm",
         "type": "Charge Blade",
         "monster": "Balloon",
         "element": "None",
-        "skills": [{ "name": "Power Prolonger", "level": 2 }]
+        "skills": [{ "name": "Eggsplosive", "level": 1 }]
     }
 ]
