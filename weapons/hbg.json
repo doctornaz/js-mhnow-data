@@ -978,5 +978,27 @@
             }
         ],
         "skills": [{ "name": "Super Swimmer", "level": 1 }]
+    },
+    {
+        "name": "Donnerkanone",
+        "name_upg": "Donnerkanone",
+        "type": "Heavy Bowgun",
+        "monster": "Fulgur Anjanath",
+        "element": "Thunder",
+        "ammo_type": [
+            {
+                "type": "Piercing Thunder Ammo",
+                "capacity": 6,
+                "recoil": "Average",
+                "reload": "Very Slow"
+            },
+            {
+                "type": "Spread Thunder Ammo",
+                "capacity": 6,
+                "recoil": "Average",
+                "reload": "Very Slow"
+            }
+        ],
+        "skills": [{ "name": "Critical Ferocity", "level": 1 }]
     }
 ]
