@@ -1,0 +1,342 @@
+[
+    {
+        "name": "Iron Assault",
+        "name_upg": "Steel Assault",
+        "type": "Light Bowgun",
+        "monster": "Iron",
+        "element": "None",
+        "skills": [{ "name": "Poison Resistance", "level": 2 }]
+    },
+    {
+        "name": "Jagras Blitz",
+        "name_upg": "Jagras Garotte",
+        "type": "Light Bowgun",
+        "monster": "Great Jagras",
+        "element": "Water",
+        "skills": [{ "name": "Health Boost", "level": 2 }]
+    },
+    {
+        "name": "Laguna Shot",
+        "name_upg": "Laguna Shot",
+        "type": "Light Bowgun",
+        "monster": "Coral Pukei-Pukei",
+        "element": "Water",
+        "skills": [{ "name": "Earplugs", "level": 1 }]
+    },
+    {
+        "name": "Carapace Blitz",
+        "name_upg": "Barroth Burst",
+        "type": "Light Bowgun",
+        "monster": "Barroth",
+        "element": "None",
+        "skills": [{ "name": "Defense Boost", "level": 2 }]
+    },
+    {
+        "name": "Thunder Blitz",
+        "name_upg": "Kadachi Storm",
+        "type": "Light Bowgun",
+        "monster": "Tobi-Kadachi",
+        "element": "Thunder",
+        "skills": [{ "name": "Evade Extender", "level": 1 }]
+    },
+    {
+        "name": "Lumu Shot",
+        "name_upg": "Lumu Barone",
+        "type": "Light Bowgun",
+        "monster": "Paolumu",
+        "element": "None",
+        "skills": [{ "name": "Divine Blessing", "level": 2 }]
+    },
+    {
+        "name": "Nyx Blitz",
+        "name_upg": "Nyx Blitz",
+        "type": "Light Bowgun",
+        "monster": "Nightshade Paolumu",
+        "element": "Sleep",
+        "skills": [{ "name": "Sneak Attack", "level": 1 }]
+    },
+    {
+        "name": "Aqua Blitz",
+        "name_upg": "Jyura Torrent",
+        "type": "Light Bowgun",
+        "monster": "Jyuratodus",
+        "element": "Water",
+        "skills": [{ "name": "Last Stand", "level": 1 }]
+    },
+    {
+        "name": "Blazing Blitz",
+        "name_upg": "Anja Cyclone",
+        "type": "Light Bowgun",
+        "monster": "Anjanath",
+        "element": "Fire",
+        "skills": [{ "name": "Rising Tide", "level": 1 }]
+    },
+    {
+        "name": "Fulgur Blitz",
+        "name_upg": "Fulgur Cyclone",
+        "type": "Light Bowgun",
+        "monster": "Fulgur Anjanath",
+        "element": "Thunder",
+        "skills": [{ "name": "Special Boost", "level": 2 }]
+    },
+    {
+        "name": "Gold Blitz",
+        "name_upg": "Gold Blitz",
+        "type": "Light Bowgun",
+        "monster": "Golden Rathian",
+        "element": "Poison",
+        "skills": [{ "name": "Poison Exploit", "level": 2 }]
+    },
+    {
+        "name": "Glacial Blitz",
+        "name_upg": "Legiana Gale",
+        "type": "Light Bowgun",
+        "monster": "Legiana",
+        "element": "Ice",
+        "skills": [{ "name": "Divine Blessing", "level": 2 }]
+    },
+    {
+        "name": "Flame Blitz",
+        "name_upg": "Red Wing",
+        "type": "Light Bowgun",
+        "monster": "Rathalos",
+        "element": "Fire",
+        "skills": [{ "name": "Earplugs", "level": 1 }]
+    },
+    {
+        "name": "Azure Blitz",
+        "name_upg": "Azure Cyclone",
+        "type": "Light Bowgun",
+        "monster": "Azure Rathalos",
+        "element": "Fire",
+        "skills": [{ "name": "Special Boost", "level": 1 }]
+    },
+    {
+        "name": "Silver Blitz",
+        "name_upg": "Silver Cyclone",
+        "type": "Light Bowgun",
+        "monster": "Silver Rathalos",
+        "element": "Fire",
+        "skills": [{ "name": "Critical Element", "level": 2 }]
+    },
+    {
+        "name": "Mammoth Blitz",
+        "name_upg": "Mammoth Blitz",
+        "type": "Light Bowgun",
+        "monster": "Banbaro",
+        "element": "None",
+        "skills": [{ "name": "Firm Foothold", "level": 2 }]
+    },
+    {
+        "name": "Icicle Blitz",
+        "name_upg": "Barioth Gale",
+        "type": "Light Bowgun",
+        "monster": "Barioth",
+        "element": "Ice",
+        "skills": [{ "name": "Evade Extender", "level": 1 }]
+    },
+    {
+        "name": "Usurper's Blitz",
+        "name_upg": "Despot's Blitz",
+        "type": "Light Bowgun",
+        "monster": "Zinogre",
+        "element": "Thunder",
+        "skills": [{ "name": "Artful Dodger", "level": 1 }]
+    },
+    {
+        "name": "Garon Blitz",
+        "name_upg": "Blood-drinker Blitz",
+        "type": "Light Bowgun",
+        "monster": "Odogaron",
+        "element": "None",
+        "skills": [{ "name": "Evasive Concentration", "level": 1 }]
+    },
+    {
+        "name": "Nether Blitz",
+        "name_upg": "Death Row Blitz",
+        "type": "Light Bowgun",
+        "monster": "Ebony Odogaron",
+        "element": "Dragon",
+        "skills": [{ "name": "Critical Boost", "level": 1 }]
+    },
+    {
+        "name": "Wrathful Blitz",
+        "name_upg": "Wrathful Predation Blitz",
+        "type": "Light Bowgun",
+        "monster": "Deviljho",
+        "element": "Dragon",
+        "skills": [{ "name": "Burst", "level": 2 }]
+    },
+    {
+        "name": "Basarios Blitz",
+        "name_upg": "Basarios Venom Blitz",
+        "type": "Light Bowgun",
+        "monster": "Basarios",
+        "element": "Fire",
+        "skills": [{ "name": "Heroics", "level": 1 }]
+    },
+    {
+        "name": "Khezu Blitz",
+        "name_upg": "Khezu Shock Blitz",
+        "type": "Light Bowgun",
+        "monster": "Khezu",
+        "element": "Thunder",
+        "skills": [{ "name": "Peak Performance", "level": 1 }]
+    },
+    {
+        "name": "Daora's Blitz",
+        "name_upg": "Daora's Blitz",
+        "type": "Light Bowgun",
+        "monster": "Kushala Daora",
+        "element": "Ice",
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 }
+        ]
+    },
+    {
+        "name": "Morning Dawn Blitz",
+        "name_upg": "Evening Dusk Blitz",
+        "type": "Light Bowgun",
+        "monster": "Mizutsune",
+        "element": "Water",
+        "skills": [{ "name": "Artful Dodger", "level": 1 }]
+    },
+    {
+        "name": "Imperial Blitz",
+        "name_upg": "Imperial Blitz+",
+        "type": "Light Bowgun",
+        "monster": "Teostra",
+        "element": "Blast",
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 }
+        ]
+    },
+    {
+        "name": "Sinister Blitz",
+        "name_upg": "Sinister Famineblitz",
+        "type": "Light Bowgun",
+        "monster": "Magnamalo",
+        "element": "Blast",
+        "skills": [{ "name": "Partbreaker", "level": 1 }]
+    },
+    {
+        "name": "Suzuka Blitz",
+        "name_upg": "Suzuka Otakemaru Blitz",
+        "type": "Light Bowgun",
+        "monster": "Rajang",
+        "element": "Thunder",
+        "skills": [{ "name": "Power Prolonger", "level": 2 }]
+    },
+    {
+        "name": "Decimation Blitz",
+        "name_upg": "Decimation Blitz",
+        "type": "Light Bowgun",
+        "monster": "Nergigante",
+        "element": "Dragon",
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 }
+        ]
+    },
+    {
+        "name": "Tigrine Blitz",
+        "name_upg": "Tigrine Blitz+",
+        "type": "Light Bowgun",
+        "monster": "Tigrex",
+        "element": "None",
+        "skills": [{ "name": "Critical Ferocity", "level": 1 }]
+    },
+    {
+        "name": "Monarch Blitz",
+        "name_upg": "Monarch Blitz",
+        "type": "Light Bowgun",
+        "monster": "Kirin",
+        "element": "Thunder",
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 }
+        ]
+    },
+    {
+        "name": "Rookslayer Blitz",
+        "name_upg": "Bazelhawk Rookslayer Blitz",
+        "type": "Light Bowgun",
+        "monster": "Bazelgeuse",
+        "element": "Blast",
+        "skills": [{ "name": "Critical Ferocity", "level": 1 }]
+    },
+    {
+        "name": "Svarog Blitz",
+        "name_upg": "Svarog Blitz+",
+        "type": "Light Bowgun",
+        "monster": "Glavenus",
+        "element": "Fire",
+        "skills": [{ "name": "Critical Ferocity", "level": 1 }]
+    },
+    {
+        "name": "Dual Chameleos Blitz",
+        "name_upg": "Dual Chameleos Blitz",
+        "type": "Light Bowgun",
+        "monster": "Chameleos",
+        "element": "Poison",
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 }
+        ]
+    },
+    {
+        "name": "Bishaten Blitz",
+        "name_upg": "Bishaten Blitz+",
+        "type": "Light Bowgun",
+        "monster": "Bishaten",
+        "element": "None",
+        "skills": [{ "name": "Lock On", "level": 1 }]
+    },
+    {
+        "name": "Beotodus Blitz",
+        "name_upg": "Beotodus Blitz+",
+        "type": "Light Bowgun",
+        "monster": "Beotodus",
+        "element": "Ice",
+        "skills": [{ "name": "Evade Extender", "level": 1 }]
+    },
+    {
+        "name": "Hidden Blitz",
+        "name_upg": "Hidden Blitz+",
+        "type": "Light Bowgun",
+        "monster": "Nargacuga",
+        "element": "None",
+        "skills": [{ "name": "Resuscitate", "level": 2 }]
+    },
+    {
+        "name": "Namielle Blitz",
+        "name_upg": "Namielle Blitz+",
+        "type": "Light Bowgun",
+        "monster": "Namielle",
+        "element": "Water",
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 }
+        ]
+    },
+    {
+        "name": "Bone Blitz",
+        "name_upg": "Hard Bone Blitz",
+        "type": "Light Bowgun",
+        "monster": "Bone",
+        "element": "None",
+        "skills": [{ "name": "Concentration", "level": 1 }]
+    },
+    {
+        "name": "Lucky Blitz",
+        "name_upg": "Lucky Blitz+",
+        "type": "Light Bowgun",
+        "monster": "Lucky Dragon",
+        "element": "None",
+        "skills": [{ "name": "Lock On", "level": 1 }]
+    },
+    {
+        "name": "Hope Blitz",
+        "name_upg": "Hope Blitz+",
+        "type": "Light Bowgun",
+        "monster": "Hope",
+        "element": "None",
+        "skills": [{ "name": "Lock On", "level": 1 }]
+    }
+]
