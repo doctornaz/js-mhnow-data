@@ -1,0 +1,535 @@
+[
+    {
+        "name": "Chain Blitz",
+        "name_upg": "High Chain Blitz",
+        "type": "Light Bowgun",
+        "monster": "Iron",
+        "element": "None",
+        "skills": [{ "name": "Poison Resistance", "level": 2 }],
+        "ammo_type": [
+            { "type": "Normal Ammo 1", "capacity": 5, "recoil": "Average", "reload": "Normal" },
+            { "type": "Pierce Ammo 1", "capacity": 4, "recoil": "High", "reload": "Slow" }
+        ]
+    },
+    {
+        "name": "Jagras Blitz",
+        "name_upg": "Jagras Fire",
+        "type": "Light Bowgun",
+        "monster": "Great Jagras",
+        "element": "Water",
+        "skills": [{ "name": "Health Boost", "level": 2 }],
+        "ammo_type": [
+            { "type": "Water Ammo", "capacity": 6, "recoil": "Average", "reload": "Normal" },
+            { "type": "Slicing Water Ammo", "capacity": 2, "recoil": "Very High", "reload": "Slow" }
+        ]
+    },
+    {
+        "name": "Laguna Blitz",
+        "name_upg": "Laguna Blitz",
+        "type": "Light Bowgun",
+        "monster": "Coral Pukei-Pukei",
+        "element": "Water",
+        "skills": [{ "name": "Earplugs", "level": 1 }],
+        "ammo_type": [
+            { "type": "Water Ammo", "capacity": 5, "recoil": "Average", "reload": "Normal" },
+            { "type": "Piercing Water Ammo", "capacity": 4, "recoil": "High", "reload": "Slow" },
+            { "type": "Sticky Water Ammo", "capacity": 4, "recoil": "Very High", "reload": "Very Slow" }
+        ]
+    },
+    {
+        "name": "Carapace Rifle",
+        "name_upg": "Barroth Short",
+        "type": "Light Bowgun",
+        "monster": "Barroth",
+        "element": "None",
+        "skills": [{ "name": "Defense Boost", "level": 2 }],
+        "ammo_type": [
+            { "type": "Normal Ammo 1", "capacity": 4, "recoil": "Average", "reload": "Normal" },
+            { "type": "Spread Ammo 1", "capacity": 3, "recoil": "High", "reload": "Slow" }
+        ]
+    },
+    {
+        "name": "Thunder Blitz",
+        "name_upg": "Lightning Blitz",
+        "type": "Light Bowgun",
+        "monster": "Tobi-Kadachi",
+        "element": "Thunder",
+        "skills": [{ "name": "Evade Extender", "level": 1 }],
+        "ammo_type": [
+            { "type": "Thunder Ammo", "capacity": 5, "recoil": "Average", "reload": "Normal" },
+            { "type": "Slicing Thunder Ammo", "capacity": 3, "recoil": "Very High", "reload": "Slow" }
+        ]
+    },
+    {
+        "name": "Lumu Blitz",
+        "name_upg": "Lumu Typhon",
+        "type": "Light Bowgun",
+        "monster": "Paolumu",
+        "element": "None",
+        "skills": [{ "name": "Divine Blessing", "level": 2 }],
+        "ammo_type": [
+            { "type": "Normal Ammo 1", "capacity": 5, "recoil": "Average", "reload": "Normal" },
+            { "type": "Spread Ammo 1", "capacity": 4, "recoil": "High", "reload": "Slow" },
+            { "type": "Pierce Ammo 1", "capacity": 4, "recoil": "High", "reload": "Slow" }
+        ]
+    },
+    {
+        "name": "Nightmare's Seed",
+        "name_upg": "Nightmare's Seed",
+        "type": "Light Bowgun",
+        "monster": "Nightshade Paolumu",
+        "element": "None",
+        "skills": [{ "name": "Sneak Attack", "level": 1 }],
+        "ammo_type": [
+            { "type": "Sleep Ammo 1", "capacity": 3, "recoil": "High", "reload": "Slow" },
+            { "type": "Sticky Ammo 1", "capacity": 3, "recoil": "Very High", "reload": "Slow" },
+            { "type": "Pierce Ammo 1", "capacity": 4, "recoil": "High", "reload": "Slow" }
+        ]
+    },
+    {
+        "name": "Madness Rifle",
+        "name_upg": "Jyura Bullet",
+        "type": "Light Bowgun",
+        "monster": "Jyuratodus",
+        "element": "Water",
+        "skills": [{ "name": "Last Stand", "level": 1 }],
+        "ammo_type": [
+            { "type": "Water Ammo", "capacity": 5, "recoil": "Average", "reload": "Normal" },
+            { "type": "Spread Water Ammo", "capacity": 4, "recoil": "High", "reload": "Slow" },
+            { "type": "Sticky Water Ammo", "capacity": 2, "recoil": "Very High", "reload": "Slow" }
+        ]
+    },
+    {
+        "name": "Blazing Rifle",
+        "name_upg": "Anja Buster",
+        "type": "Light Bowgun",
+        "monster": "Anjanath",
+        "element": "Fire",
+        "skills": [{ "name": "Rising Tide", "level": 1 }],
+        "ammo_type": [
+            { "type": "Flaming Ammo", "capacity": 6, "recoil": "Average", "reload": "Normal" },
+            { "type": "Sticky Fire Ammo", "capacity": 3, "recoil": "Very High", "reload": "Slow" }
+        ]
+    },
+    {
+        "name": "Fulgurshot",
+        "name_upg": "Fulgurshot",
+        "type": "Light Bowgun",
+        "monster": "Fulgur Anjanath",
+        "element": "Thunder",
+        "skills": [{ "name": "Critical Ferocity", "level": 1 }],
+        "ammo_type": [
+            { "type": "Spread Thunder Ammo", "capacity": 3, "recoil": "High", "reload": "Slow" },
+            { "type": "Spread Thunder Ammo", "capacity": 4, "recoil": "High", "reload": "Slow" },
+            { "type": "Thunder Ammo", "capacity": 5, "recoil": "Average", "reload": "Normal" }
+        ]
+    },
+    {
+        "name": "Gold Valkyrie",
+        "name_upg": "Gold Valkyrie",
+        "type": "Light Bowgun",
+        "monster": "Golden Rathian",
+        "element": "None",
+        "skills": [{ "name": "Poison Exploit", "level": 2 }],
+        "ammo_type": [
+            { "type": "Poison Ammo 1", "capacity": 4, "recoil": "High", "reload": "Slow" },
+            { "type": "Spread Ammo 1", "capacity": 5, "recoil": "High", "reload": "Slow" },
+            { "type": "Sticky Ammo 1", "capacity": 3, "recoil": "Very High", "reload": "Slow" }
+        ]
+    },
+    {
+        "name": "Snow Blitz",
+        "name_upg": "Frost Blitz",
+        "type": "Light Bowgun",
+        "monster": "Legiana",
+        "element": "Ice",
+        "skills": [{ "name": "Divine Blessing", "level": 2 }],
+        "ammo_type": [
+            { "type": "Freeze Ammo", "capacity": 5, "recoil": "Average", "reload": "Normal" },
+            { "type": "Spread Ice Ammo", "capacity": 4, "recoil": "High", "reload": "Slow" },
+            { "type": "Slicing Ice Ammo", "capacity": 3, "recoil": "Very High", "reload": "Slow" }
+        ]
+    },
+    {
+        "name": "Flame Blitz",
+        "name_upg": "Rathbuster",
+        "type": "Light Bowgun",
+        "monster": "Rathalos",
+        "element": "Fire",
+        "skills": [{ "name": "Earplugs", "level": 1 }],
+        "ammo_type": [
+            { "type": "Flaming Ammo", "capacity": 5, "recoil": "Average", "reload": "Normal" },
+            { "type": "Piercing Fire Ammo", "capacity": 4, "recoil": "High", "reload": "Slow" },
+            { "type": "Slicing Fire Ammo", "capacity": 3, "recoil": "Very High", "reload": "Slow" }
+        ]
+    },
+    {
+        "name": "Azure Soulscorcher",
+        "name_upg": "Azure Soulscorcher",
+        "type": "Light Bowgun",
+        "monster": "Azure Rathalos",
+        "element": "Fire",
+        "skills": [{ "name": "Special Boost", "level": 1 }],
+        "ammo_type": [
+            { "type": "Flaming Ammo", "capacity": 5, "recoil": "Average", "reload": "Normal" },
+            { "type": "Piercing Fire Ammo", "capacity": 4, "recoil": "High", "reload": "Slow" },
+            { "type": "Sticky Fire Ammo", "capacity": 2, "recoil": "Very High", "reload": "Slow" }
+        ]
+    },
+    {
+        "name": "Argent Ray",
+        "name_upg": "Silver Cyclone",
+        "type": "Light Bowgun",
+        "monster": "Silver Rathalos",
+        "element": "Fire",
+        "skills": [{ "name": "Critical Element", "level": 2 }],
+        "ammo_type": [
+            { "type": "Piercing Fire Ammo", "capacity": 4, "recoil": "High", "reload": "Slow" },
+            { "type": "Slicing Fire Ammo", "capacity": 3, "recoil": "Very High", "reload": "Slow" },
+            { "type": "Poison Ammo 1", "capacity": 3, "recoil": "High", "reload": "Slow" }
+        ]
+    },
+    {
+        "name": "Mammoth Bowgun",
+        "name_upg": "Mammoth Bowgun",
+        "type": "Light Bowgun",
+        "monster": "Banbaro",
+        "element": "None",
+        "skills": [{ "name": "Firm Foothold", "level": 2 }],
+        "ammo_type": [
+            { "type": "Normal Ammo 1", "capacity": 5, "recoil": "Average", "reload": "Normal" },
+            { "type": "Spread Ammo 1", "capacity": 3, "recoil": "High", "reload": "Normal" },
+            { "type": "Sticky Ammo 1", "capacity": 2, "recoil": "Very High", "reload": "Slow" }
+        ]
+    },
+    {
+        "name": "Blizzard Cannon",
+        "name_upg": "Blizzard Cannon+",
+        "type": "Light Bowgun",
+        "monster": "Barioth",
+        "element": "Ice",
+        "skills": [{ "name": "Evade Extender", "level": 1 }],
+        "ammo_type": [
+            { "type": "Spread Ice Ammo", "capacity": 3, "recoil": "High", "reload": "Slow" },
+            { "type": "Piercing Ice Ammo", "capacity": 3, "recoil": "High", "reload": "Slow" }
+        ]
+    },
+    {
+        "name": "Usurper's Crime",
+        "name_upg": "Despot's Wildfire",
+        "type": "Light Bowgun",
+        "monster": "Zinogre",
+        "element": "Thunder",
+        "skills": [{ "name": "Artful Dodger", "level": 1 }],
+        "ammo_type": [
+            { "type": "Thunder Ammo", "capacity": 5, "recoil": "Average", "reload": "Normal" },
+            { "type": "Piercing Thunder Ammo", "capacity": 4, "recoil": "High", "reload": "Slow" },
+            { "type": "Sticky Thunder Ammo", "capacity": 2, "recoil": "Very High", "reload": "Slow" }
+        ]
+    },
+    {
+        "name": "Garon Rifle",
+        "name_upg": "Fate's Ember",
+        "type": "Light Bowgun",
+        "monster": "Odogaron",
+        "element": "None",
+        "skills": [{ "name": "Evasive Concentration", "level": 1 }],
+        "ammo_type": [
+            { "type": "Normal Ammo 1", "capacity": 4, "recoil": "Average", "reload": "Fast" },
+            { "type": "Pierce Ammo 1", "capacity": 3, "recoil": "High", "reload": "Normal" }
+        ]
+    },
+    {
+        "name": "Nether Salvo",
+        "name_upg": "Ghost",
+        "type": "Light Bowgun",
+        "monster": "Ebony Odogaron",
+        "element": "Dragon",
+        "skills": [{ "name": "Critical Boost", "level": 1 }],
+        "ammo_type": [
+            { "type": "Dragon Ammo", "capacity": 4, "recoil": "Average", "reload": "Fast" },
+            { "type": "Piercing Dragon Ammo", "capacity": 3, "recoil": "High", "reload": "Normal" }
+        ]
+    },
+    {
+        "name": "Devil's Grin",
+        "name_upg": "Devil's Madness",
+        "type": "Light Bowgun",
+        "monster": "Deviljho",
+        "element": "Dragon",
+        "skills": [{ "name": "Rising Tide", "level": 2 }],
+        "ammo_type": [
+            { "type": "Dragon Ammo", "capacity": 5, "recoil": "Average", "reload": "Normal" },
+            { "type": "Slicing Dragon Ammo", "capacity": 3, "recoil": "Very High", "reload": "Slow" },
+            { "type": "Sticky Dragon Ammo", "capacity": 2, "recoil": "Very High", "reload": "Slow" }
+        ]
+    },
+    {
+        "name": "Grenade Launcher",
+        "name_upg": "Grenade Revolver",
+        "type": "Light Bowgun",
+        "monster": "Basarios",
+        "element": "Fire",
+        "skills": [{ "name": "Heroics", "level": 1 }],
+        "ammo_type": [
+            { "type": "Flaming Ammo", "capacity": 4, "recoil": "Low", "reload": "Slow" },
+            { "type": "Sticky Fire Ammo", "capacity": 2, "recoil": "High", "reload": "Very Slow" }
+        ]
+    },
+    {
+        "name": "Khezu Syringe",
+        "name_upg": "Khezu Hypo",
+        "type": "Light Bowgun",
+        "monster": "Khezu",
+        "element": "Thunder",
+        "skills": [{ "name": "Peak Performance", "level": 1 }],
+        "ammo_type": [
+            { "type": "Spread Thunder Ammo", "capacity": 3, "recoil": "High", "reload": "Slow" },
+            { "type": "Piercing Thunder Ammo", "capacity": 3, "recoil": "High", "reload": "Slow" }
+        ]
+    },
+    {
+        "name": "Daora's Hornet",
+        "name_upg": "Daora's Hornet",
+        "type": "Light Bowgun",
+        "monster": "Kushala Daora",
+        "element": "Ice",
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Windproof", "level": 2 }
+        ],
+        "ammo_type": [
+            { "type": "Freeze Ammo", "capacity": 5, "recoil": "Low", "reload": "Normal" },
+            { "type": "Piercing Ice Ammo", "capacity": 4, "recoil": "Average", "reload": "Slow" },
+            { "type": "Slicing Ice Ammo", "capacity": 3, "recoil": "Very High", "reload": "Slow" }
+        ]
+    },
+    {
+        "name": "Desolate Mist",
+        "name_upg": "Nifl Mist",
+        "type": "Light Bowgun",
+        "monster": "Mizutsune",
+        "element": "Water",
+        "skills": [{ "name": "Artful Dodger", "level": 1 }],
+        "ammo_type": [
+            { "type": "Water Ammo", "capacity": 5, "recoil": "Average", "reload": "Normal" },
+            { "type": "Sticky Water Ammo", "capacity": 3, "recoil": "Very High", "reload": "Slow" },
+            { "type": "Slicing Water Ammo", "capacity": 3, "recoil": "Very High", "reload": "Slow" }
+        ]
+    },
+    {
+        "name": "Teostra's Flamebolt",
+        "name_upg": "Imperial Blitz+",
+        "type": "Light Bowgun",
+        "monster": "Teostra",
+        "element": "Fire",
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Heroics", "level": 2 }
+        ],
+        "ammo_type": [
+            { "type": "Flaming Ammo", "capacity": 5, "recoil": "Low", "reload": "Normal" },
+            { "type": "Spread Fire Ammo", "capacity": 4, "recoil": "Average", "reload": "Slow" },
+            { "type": "Sticky Fire Ammo", "capacity": 3, "recoil": "Very High", "reload": "Slow" }
+        ]
+    },
+    {
+        "name": "Sinister Bowgun",
+        "name_upg": "Sinister Shadow Bolt",
+        "type": "Light Bowgun",
+        "monster": "Magnamalo",
+        "element": "None",
+        "skills": [{ "name": "Partbreaker", "level": 1 }],
+        "ammo_type": [
+            { "type": "Normal Ammo 1", "capacity": 6, "recoil": "Average", "reload": "Normal" },
+            { "type": "Sticky Ammo 1", "capacity": 3, "recoil": "Very High", "reload": "Slow" },
+            { "type": "Cluster Bomb 1", "capacity": 2, "recoil": "Very High", "reload": "Slow" }
+        ]
+    },
+    {
+        "name": "Rahjang Barrage",
+        "name_upg": "Ten Thousand Volts",
+        "type": "Light Bowgun",
+        "monster": "Rajang",
+        "element": "Thunder",
+        "skills": [{ "name": "Artillery", "level": 1 }],
+        "ammo_type": [
+            { "type": "Thunder Ammo", "capacity": 4, "recoil": "Average", "reload": "Fast" },
+            { "type": "Spread Thunder Ammo", "capacity": 5, "recoil": "High", "reload": "Slow" },
+            { "type": "Sticky Thunder Ammo", "capacity": 3, "recoil": "Very High", "reload": "Slow" }
+        ]
+    },
+    {
+        "name": "Cataclysm's Trigger",
+        "name_upg": "Decimation Blitz",
+        "type": "Light Bowgun",
+        "monster": "Nergigante",
+        "element": "Dragon",
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Partbreaker", "level": 2 }
+        ],
+        "ammo_type": [
+            { "type": "Dragon Ammo", "capacity": 5, "recoil": "Low", "reload": "Normal" },
+            { "type": "Spread Dragon Ammo", "capacity": 4, "recoil": "Average", "reload": "Slow" },
+            { "type": "Sticky Dragon Ammo", "capacity": 3, "recoil": "Very High", "reload": "Slow" }
+        ]
+    },
+    {
+        "name": "Rex Fusilade",
+        "name_upg": "Rex Fusilade",
+        "type": "Light Bowgun",
+        "monster": "Tigrex",
+        "element": "None",
+        "skills": [{ "name": "Critical Ferocity", "level": 1 }],
+        "ammo_type": [
+            { "type": "Spread Ammo 1", "capacity": 4, "recoil": "High", "reload": "Slow" },
+            { "type": "Pierce Ammo 1", "capacity": 4, "recoil": "High", "reload": "Slow" },
+            { "type": "Normal Ammo 1", "capacity": 4, "recoil": "Average", "reload": "Normal" }
+        ]
+    },
+    {
+        "name": "Mythical Three-Horn",
+        "name_upg": "Mythical Three-Horn",
+        "type": "Light Bowgun",
+        "monster": "Kirin",
+        "element": "Thunder",
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Latent Power", "level": 1 }
+        ],
+        "ammo_type": [
+            { "type": "Piercing Thunder Ammo", "capacity": 5, "recoil": "High", "reload": "Normal" },
+            { "type": "Paralysis Ammo 1", "capacity": 3, "recoil": "High", "reload": "Normal" }
+        ]
+    },
+    {
+        "name": "Bazel Typhoon",
+        "name_upg": "Bazel Typhoon",
+        "type": "Light Bowgun",
+        "monster": "Bazelgeuse",
+        "element": "Fire",
+        "skills": [{ "name": "Evading Reload", "level": 2 }],
+        "ammo_type": [
+            { "type": "Flaming Ammo", "capacity": 5, "recoil": "Average", "reload": "Normal" },
+            { "type": "Sticky Fire Ammo", "capacity": 2, "recoil": "Very High", "reload": "Slow" },
+            { "type": "Cluster Fire Ammo", "capacity": 2, "recoil": "Very High", "reload": "Slow" }
+        ]
+    },
+    {
+        "name": "Glavenus Blitz",
+        "name_upg": "Glavenus Blitz",
+        "type": "Light Bowgun",
+        "monster": "Glavenus",
+        "element": "Fire",
+        "skills": [{ "name": "Critical Ferocity", "level": 1 }],
+        "ammo_type": [
+            { "type": "Spread Fire Ammo", "capacity": 3, "recoil": "High", "reload": "Slow" },
+            { "type": "Slicing Fire Ammo", "capacity": 3, "recoil": "Very High", "reload": "Slow" }
+        ]
+    },
+    {
+        "name": "Cursed Lamp",
+        "name_upg": "Cursed Lamp",
+        "type": "Light Bowgun",
+        "monster": "Chameleos",
+        "element": "None",
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Sneak Attack", "level": 2 }
+        ],
+        "ammo_type": [
+            { "type": "Poison Ammo 1", "capacity": 6, "recoil": "High", "reload": "Slow" },
+            { "type": "Pierce Ammo 1", "capacity": 5, "recoil": "High", "reload": "Slow" },
+            { "type": "Sticky Ammo 1", "capacity": 3, "recoil": "Very High", "reload": "Slow" }
+        ]
+    },
+    {
+        "name": "Lotus Bowgun",
+        "name_upg": "Great Lotus Bowgun",
+        "type": "Light Bowgun",
+        "monster": "Bishaten",
+        "element": "None",
+        "skills": [{ "name": "Shared Sword", "level": 2 }],
+        "ammo_type": [
+            { "type": "Paralysis Ammo 1", "capacity": 3, "recoil": "High", "reload": "Normal" },
+            { "type": "Spread Ammo 1", "capacity": 4, "recoil": "High", "reload": "Slow" }
+        ]
+    },
+    {
+        "name": "Beo Shooter",
+        "name_upg": "Beo Shooter",
+        "type": "Light Bowgun",
+        "monster": "Beotodus",
+        "element": "Ice",
+        "skills": [{ "name": "Valor", "level": 1 }],
+        "ammo_type": [
+            { "type": "Freeze Ammo", "capacity": 5, "recoil": "Average", "reload": "Normal" },
+            { "type": "Sticky Ice Ammo", "capacity": 3, "recoil": "Very High", "reload": "Slow" }
+        ]
+    },
+    {
+        "name": "Hidden Bullet",
+        "name_upg": "Hidden Bullet",
+        "type": "Light Bowgun",
+        "monster": "Nargacuga",
+        "element": "None",
+        "skills": [{ "name": "Resuscitate", "level": 2 }],
+        "ammo_type": [
+            { "type": "Pierce Ammo 1", "capacity": 3, "recoil": "High", "reload": "Slow" },
+            { "type": "Slicing Ammo", "capacity": 3, "recoil": "Very High", "reload": "Slow" }
+        ]
+    },
+    {
+        "name": "Black Actinula",
+        "name_upg": "Black Actinula",
+        "type": "Light Bowgun",
+        "monster": "Namielle",
+        "element": "Water",
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Weakness Exploit", "level": 1 }
+        ],
+        "ammo_type": [
+            { "type": "Spread Water Ammo", "capacity": 3, "recoil": "High", "reload": "Normal" },
+            { "type": "Paralysis Ammo 1", "capacity": 3, "recoil": "High", "reload": "Normal" },
+            { "type": "Spread Water Ammo", "capacity": 4, "recoil": "High", "reload": "Normal" }
+        ]
+    },
+    {
+        "name": "Hunter's Rifle",
+        "name_upg": "Power Rifle",
+        "type": "Light Bowgun",
+        "monster": "Bone",
+        "element": "None",
+        "skills": [{ "name": "Concentration", "level": 1 }],
+        "ammo_type": [
+            { "type": "Normal Ammo 1", "capacity": 5, "recoil": "Average", "reload": "Normal" },
+            { "type": "Sticky Ammo 1", "capacity": 2, "recoil": "Very High", "reload": "Slow" }
+        ]
+    },
+    {
+        "name": "Lucky Light Bowgun",
+        "name_upg": "Lucky Light Bowgun",
+        "type": "Light Bowgun",
+        "monster": "Fortune Dragon",
+        "element": "Dragon",
+        "skills": [{ "name": "Slugger", "level": 1 }],
+        "ammo_type": [
+            { "type": "Dragon Ammo", "capacity": 5, "recoil": "Average", "reload": "Normal" },
+            { "type": "Sticky Dragon Ammo", "capacity": 3, "recoil": "Very High", "reload": "Slow" }
+        ]
+    },
+    {
+        "name": "Hope Rifle",
+        "name_upg": "Esperanza Rifle",
+        "type": "Light Bowgun",
+        "monster": "Hope",
+        "element": "None",
+        "skills": [{ "name": "Artful Dodger", "level": 1 }],
+        "ammo_type": [
+            { "type": "Poison Ammo 1", "capacity": 3, "recoil": "High", "reload": "Normal" },
+            { "type": "Pierce Ammo 1", "capacity": 3, "recoil": "High", "reload": "Normal" }
+        ]
+    }
+]
