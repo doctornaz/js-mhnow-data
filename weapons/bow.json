@@ -6,20 +6,22 @@
         "monster": "Iron",
         "element": "None",
         "skills": [{ "name": "Poison Resistance", "level": 2 }],
+        "coating_type": "None",
         "charged_shot": [
+            { "name": "Rapid", "level": 1 },
             { "name": "Rapid", "level": 2 },
             { "name": "Rapid", "level": 3 },
-            { "name": "Spread", "level": 3 },
-            { "name": "Spread", "level": 4 }
+            { "name": "Rapid", "level": 4 }
         ]
     },
     {
-        "name": "Kulu Bow",
+        "name": "Kulu Arrow ",
         "name_upg": "Kulu Hasta",
         "type": "Bow",
         "monster": "Kulu-Ya-Ku",
         "element": "None",
         "skills": [{ "name": "Fortify", "level": 2 }],
+        "coating_type": "None",
         "charged_shot": [
             { "name": "Rapid", "level": 2 },
             { "name": "Rapid", "level": 3 },
@@ -34,6 +36,7 @@
         "monster": "Pukei-Pukei",
         "element": "Poison",
         "skills": [{ "name": "Sneak Attack", "level": 1 }],
+        "coating_type": "Poison",
         "charged_shot": [
             { "name": "Rapid", "level": 2 },
             { "name": "Rapid", "level": 3 },
@@ -48,12 +51,13 @@
         "monster": "Coral Pukei-Pukei",
         "element": "Water",
         "skills": [{ "name": "Earplugs", "level": 1 }],
-        "charged_shot": [
-            { "name": "Rapid", "level": 2 },
-            { "name": "Rapid", "level": 3 },
-            { "name": "Spread", "level": 3 },
-            { "name": "Spread", "level": 4 }
-        ]
+            "coating_type": "Water",
+            "charged_shot": [
+                { "name": "Rapid", "level": 2 },
+                { "name": "Rapid", "level": 3 },
+                { "name": "Spread", "level": 3 },
+                { "name": "Spread", "level": 4 }
+            ]
     },
     {
         "name": "Girros Bow",
@@ -62,12 +66,13 @@
         "monster": "Great Girros",
         "element": "Paralysis",
         "skills": [{ "name": "Sneak Attack", "level": 1 }],
-        "charged_shot": [
-            { "name": "Rapid", "level": 2 },
-            { "name": "Rapid", "level": 3 },
-            { "name": "Spread", "level": 3 },
-            { "name": "Spread", "level": 4 }
-        ]
+            "coating_type": "Paralysis",
+            "charged_shot": [
+                { "name": "Rapid", "level": 2 },
+                { "name": "Rapid", "level": 3 },
+                { "name": "Spread", "level": 3 },
+                { "name": "Spread", "level": 4 }
+            ]
     },
     {
         "name": "Pulsar Bow",
@@ -76,12 +81,13 @@
         "monster": "Tobi-Kadachi",
         "element": "Thunder",
         "skills": [{ "name": "Evade Extender", "level": 1 }],
-        "charged_shot": [
-            { "name": "Rapid", "level": 2 },
-            { "name": "Rapid", "level": 3 },
-            { "name": "Spread", "level": 3 },
-            { "name": "Spread", "level": 4 }
-        ]
+            "coating_type": "Thunder",
+            "charged_shot": [
+                { "name": "Rapid", "level": 2 },
+                { "name": "Rapid", "level": 3 },
+                { "name": "Spread", "level": 3 },
+                { "name": "Spread", "level": 4 }
+            ]
     },
     {
         "name": "Nyx Bow",
@@ -90,12 +96,13 @@
         "monster": "Nightshade Paolumu",
         "element": "Sleep",
         "skills": [{ "name": "Sneak Attack", "level": 1 }],
-        "charged_shot": [
-            { "name": "Rapid", "level": 2 },
-            { "name": "Rapid", "level": 3 },
-            { "name": "Spread", "level": 3 },
-            { "name": "Spread", "level": 4 }
-        ]
+            "coating_type": "Sleep",
+            "charged_shot": [
+                { "name": "Rapid", "level": 2 },
+                { "name": "Rapid", "level": 3 },
+                { "name": "Spread", "level": 3 },
+                { "name": "Spread", "level": 4 }
+            ]
     },
     {
         "name": "Aqua Bow",
@@ -104,12 +111,13 @@
         "monster": "Jyuratodus",
         "element": "Water",
         "skills": [{ "name": "Last Stand", "level": 1 }],
-        "charged_shot": [
-            { "name": "Rapid", "level": 2 },
-            { "name": "Rapid", "level": 3 },
-            { "name": "Spread", "level": 3 },
-            { "name": "Spread", "level": 4 }
-        ]
+            "coating_type": "Water",
+            "charged_shot": [
+                { "name": "Rapid", "level": 2 },
+                { "name": "Rapid", "level": 3 },
+                { "name": "Spread", "level": 3 },
+                { "name": "Spread", "level": 4 }
+            ]
     },
     {
         "name": "Blazing Bow",
@@ -118,12 +126,13 @@
         "monster": "Anjanath",
         "element": "Fire",
         "skills": [{ "name": "Rising Tide", "level": 1 }],
-        "charged_shot": [
-            { "name": "Rapid", "level": 2 },
-            { "name": "Rapid", "level": 3 },
-            { "name": "Spread", "level": 3 },
-            { "name": "Spread", "level": 4 }
-        ]
+            "coating_type": "Fire",
+            "charged_shot": [
+                { "name": "Rapid", "level": 2 },
+                { "name": "Rapid", "level": 3 },
+                { "name": "Spread", "level": 3 },
+                { "name": "Spread", "level": 4 }
+            ]
     },
         {
         "name": "Fulguring Bow",
@@ -137,12 +146,13 @@
                 "level": 1 
             }
         ],
-        "charged_shot": [
-            { "name": "Rapid", "level": 2 },
-            { "name": "Rapid", "level": 3 },
-            { "name": "Spread", "level": 3 },
-            { "name": "Spread", "level": 4 }
-        ]
+            "coating_type": "Thunder",
+            "charged_shot": [
+                { "name": "Rapid", "level": 2 },
+                { "name": "Rapid", "level": 3 },
+                { "name": "Spread", "level": 3 },
+                { "name": "Spread", "level": 4 }
+            ]
     },
     {
         "name": "Queen's Bow",
@@ -151,12 +161,13 @@
         "monster": "Rathian",
         "element": "Poison",
         "skills": [{ "name": "Health Boost", "level": 2 }],
-        "charged_shot": [
-            { "name": "Rapid", "level": 2 },
-            { "name": "Rapid", "level": 3 },
-            { "name": "Spread", "level": 3 },
-            { "name": "Spread", "level": 4 }
-        ]
+            "coating_type": "Poison",
+            "charged_shot": [
+                { "name": "Rapid", "level": 2 },
+                { "name": "Rapid", "level": 3 },
+                { "name": "Spread", "level": 3 },
+                { "name": "Spread", "level": 4 }
+            ]
     },
     {
         "name": "Pink Bow",
@@ -165,12 +176,13 @@
         "monster": "Pink Rathian",
         "element": "Poison",
         "skills": [{ "name": "Evade Extender", "level": 1 }],
-        "charged_shot": [
-            { "name": "Rapid", "level": 2 },
-            { "name": "Rapid", "level": 3 },
-            { "name": "Spread", "level": 3 },
-            { "name": "Spread", "level": 4 }
-        ]
+            "coating_type": "Poison",
+            "charged_shot": [
+                { "name": "Rapid", "level": 2 },
+                { "name": "Rapid", "level": 3 },
+                { "name": "Spread", "level": 3 },
+                { "name": "Spread", "level": 4 }
+            ]
     },
     {
         "name": "Gold Bow",
@@ -179,12 +191,13 @@
         "monster": "Golden Rathian",
         "element": "Poison",
         "skills": [{ "name": "Poison Exploit", "level": 2 }],
-        "charged_shot": [
-            { "name": "Rapid", "level": 2 },
-            { "name": "Rapid", "level": 3 },
-            { "name": "Spread", "level": 3 },
-            { "name": "Spread", "level": 4 }
-        ]
+            "coating_type": "Poison",
+            "charged_shot": [
+                { "name": "Rapid", "level": 2 },
+                { "name": "Rapid", "level": 3 },
+                { "name": "Spread", "level": 3 },
+                { "name": "Spread", "level": 4 }
+            ]
     },
     {
         "name": "Glacial Bow",
@@ -193,12 +206,13 @@
         "monster": "Legiana",
         "element": "Ice",
         "skills": [{ "name": "Divine Blessing", "level": 2 }],
-        "charged_shot": [
-            { "name": "Rapid", "level": 2 },
-            { "name": "Rapid", "level": 3 },
-            { "name": "Spread", "level": 3 },
-            { "name": "Spread", "level": 4 }
-        ]
+            "coating_type": "Ice",
+            "charged_shot": [
+                { "name": "Rapid", "level": 2 },
+                { "name": "Rapid", "level": 3 },
+                { "name": "Spread", "level": 3 },
+                { "name": "Spread", "level": 4 }
+            ]
     },
     {
         "name": "Diablos Bow",
@@ -207,12 +221,13 @@
         "monster": "Diablos",
         "element": "None",
         "skills": [{ "name": "Heroics", "level": 1 }],
-        "charged_shot": [
-            { "name": "Rapid", "level": 2 },
-            { "name": "Rapid", "level": 3 },
-            { "name": "Spread", "level": 3 },
-            { "name": "Spread", "level": 4 }
-        ]
+            "coating_type": "None",
+            "charged_shot": [
+                { "name": "Rapid", "level": 2 },
+                { "name": "Rapid", "level": 3 },
+                { "name": "Spread", "level": 3 },
+                { "name": "Spread", "level": 4 }
+            ]
     },
     {
         "name": "Nero Bow",
@@ -221,12 +236,13 @@
         "monster": "Black Diablos",
         "element": "None",
         "skills": [{ "name": "Partbreaker", "level": 1 }],
-        "charged_shot": [
-            { "name": "Rapid", "level": 2 },
-            { "name": "Rapid", "level": 3 },
-            { "name": "Spread", "level": 3 },
-            { "name": "Spread", "level": 4 }
-        ]
+            "coating_type": "None",
+            "charged_shot": [
+                { "name": "Rapid", "level": 2 },
+                { "name": "Rapid", "level": 3 },
+                { "name": "Spread", "level": 3 },
+                { "name": "Spread", "level": 4 }
+            ]
     },
     {
         "name": "Flame Bow",
@@ -235,12 +251,13 @@
         "monster": "Rathalos",
         "element": "Fire",
         "skills": [{ "name": "Earplugs", "level": 1 }],
-        "charged_shot": [
-            { "name": "Rapid", "level": 2 },
-            { "name": "Rapid", "level": 3 },
-            { "name": "Spread", "level": 3 },
-            { "name": "Spread", "level": 4 }
-        ]
+            "coating_type": "Fire",
+            "charged_shot": [
+                { "name": "Rapid", "level": 2 },
+                { "name": "Rapid", "level": 3 },
+                { "name": "Spread", "level": 3 },
+                { "name": "Spread", "level": 4 }
+            ]
     },
     {
         "name": "Azure Bow",
@@ -249,12 +266,13 @@
         "monster": "Azure Rathalos",
         "element": "Fire",
         "skills": [{ "name": "Special Boost", "level": 1 }],
-        "charged_shot": [
-            { "name": "Rapid", "level": 2 },
-            { "name": "Rapid", "level": 3 },
-            { "name": "Spread", "level": 3 },
-            { "name": "Spread", "level": 4 }
-        ]
+            "coating_type": "Fire",
+            "charged_shot": [
+                { "name": "Rapid", "level": 2 },
+                { "name": "Rapid", "level": 3 },
+                { "name": "Spread", "level": 3 },
+                { "name": "Spread", "level": 4 }
+            ]
     },
     {
         "name": "Silver Bow",
@@ -263,12 +281,13 @@
         "monster": "Silver Rathalos",
         "element": "Fire",
         "skills": [{ "name": "Critical Element", "level": 2 }],
-        "charged_shot": [
-            { "name": "Rapid", "level": 2 },
-            { "name": "Rapid", "level": 3 },
-            { "name": "Spread", "level": 3 },
-            { "name": "Spread", "level": 4 }
-        ]
+            "coating_type": "Fire",
+            "charged_shot": [
+                { "name": "Rapid", "level": 2 },
+                { "name": "Rapid", "level": 3 },
+                { "name": "Spread", "level": 3 },
+                { "name": "Spread", "level": 4 }
+            ]
     },
     {
         "name": "Mammoth Bow",
@@ -277,12 +296,13 @@
         "monster": "Banbaro",
         "element": "None",
         "skills": [{ "name": "Firm Foothold", "level": 2 }],
-        "charged_shot": [
-            { "name": "Rapid", "level": 2 },
-            { "name": "Rapid", "level": 3 },
-            { "name": "Spread", "level": 3 },
-            { "name": "Spread", "level": 4 }
-        ]
+            "coating_type": "None",
+            "charged_shot": [
+                { "name": "Rapid", "level": 2 },
+                { "name": "Rapid", "level": 3 },
+                { "name": "Spread", "level": 3 },
+                { "name": "Spread", "level": 4 }
+            ]
     },
     {
         "name": "Icicle Bow",
@@ -291,12 +311,13 @@
         "monster": "Barioth",
         "element": "Ice",
         "skills": [{ "name": "Evade Extender", "level": 1 }],
-        "charged_shot": [
-            { "name": "Rapid", "level": 2 },
-            { "name": "Rapid", "level": 3 },
-            { "name": "Spread", "level": 3 },
-            { "name": "Spread", "level": 4 }
-        ]
+            "coating_type": "Ice",
+            "charged_shot": [
+                { "name": "Rapid", "level": 2 },
+                { "name": "Rapid", "level": 3 },
+                { "name": "Spread", "level": 3 },
+                { "name": "Spread", "level": 4 }
+            ]
     },
     {
         "name": "Usurper's Bow",
@@ -305,12 +326,13 @@
         "monster": "Zinogre",
         "element": "Thunder",
         "skills": [{ "name": "Artful Dodger", "level": 1 }],
-        "charged_shot": [
-            { "name": "Rapid", "level": 2 },
-            { "name": "Rapid", "level": 3 },
-            { "name": "Spread", "level": 3 },
-            { "name": "Spread", "level": 4 }
-        ]
+            "coating_type": "Thunder",
+            "charged_shot": [
+                { "name": "Rapid", "level": 2 },
+                { "name": "Rapid", "level": 3 },
+                { "name": "Spread", "level": 3 },
+                { "name": "Spread", "level": 4 }
+            ]
     },
     {
         "name": "Devil's Bow",
@@ -319,12 +341,13 @@
         "monster": "Deviljho",
         "element": "Dragon",
         "skills": [{ "name": "Burst", "level": 2 }],
-        "charged_shot": [
-            { "name": "Rapid", "level": 2 },
-            { "name": "Rapid", "level": 3 },
-            { "name": "Spread", "level": 3 },
-            { "name": "Spread", "level": 4 }
-        ]
+            "coating_type": "Dragon",
+            "charged_shot": [
+                { "name": "Rapid", "level": 2 },
+                { "name": "Rapid", "level": 3 },
+                { "name": "Spread", "level": 3 },
+                { "name": "Spread", "level": 4 }
+            ]
     },
     {
         "name": "Khezu Bow",
@@ -333,12 +356,13 @@
         "monster": "Khezu",
         "element": "Thunder",
         "skills": [{ "name": "Peak Performance", "level": 1 }],
-        "charged_shot": [
-            { "name": "Rapid", "level": 2 },
-            { "name": "Rapid", "level": 3 },
-            { "name": "Spread", "level": 3 },
-            { "name": "Spread", "level": 4 }
-        ]
+            "coating_type": "Thunder",
+            "charged_shot": [
+                { "name": "Rapid", "level": 2 },
+                { "name": "Rapid", "level": 3 },
+                { "name": "Spread", "level": 3 },
+                { "name": "Spread", "level": 4 }
+            ]
     },
     {
         "name": "Daora's Bow",
@@ -350,12 +374,13 @@
             { "name": "Hunter's Unity", "level": 1 },
             { "name": "Windproof", "level": 2 }
         ],
-        "charged_shot": [
-            { "name": "Rapid", "level": 2 },
-            { "name": "Rapid", "level": 3 },
-            { "name": "Spread", "level": 3 },
-            { "name": "Spread", "level": 4 }
-        ]
+            "coating_type": "Ice",
+            "charged_shot": [
+                { "name": "Rapid", "level": 2 },
+                { "name": "Rapid", "level": 3 },
+                { "name": "Spread", "level": 3 },
+                { "name": "Spread", "level": 4 }
+            ]
     },
     {
         "name": "Hana Bow",
@@ -364,12 +389,13 @@
         "monster": "Mizutsune",
         "element": "Water",
         "skills": [{ "name": "Artful Dodger", "level": 1 }],
-        "charged_shot": [
-            { "name": "Rapid", "level": 2 },
-            { "name": "Rapid", "level": 3 },
-            { "name": "Spread", "level": 3 },
-            { "name": "Spread", "level": 4 }
-        ]
+            "coating_type": "Water",
+            "charged_shot": [
+                { "name": "Rapid", "level": 2 },
+                { "name": "Rapid", "level": 3 },
+                { "name": "Spread", "level": 3 },
+                { "name": "Spread", "level": 4 }
+            ]
     },
     {
         "name": "Teostra's Bow",
@@ -381,12 +407,13 @@
             { "name": "Hunter's Unity", "level": 1 },
             { "name": "Heroics", "level": 2 }
         ],
-        "charged_shot": [
-            { "name": "Rapid", "level": 2 },
-            { "name": "Rapid", "level": 3 },
-            { "name": "Spread", "level": 3 },
-            { "name": "Spread", "level": 4 }
-        ]
+            "coating_type": "Blast",
+            "charged_shot": [
+                { "name": "Rapid", "level": 2 },
+                { "name": "Rapid", "level": 3 },
+                { "name": "Spread", "level": 3 },
+                { "name": "Spread", "level": 4 }
+            ]
     },
     {
         "name": "Sinister Bow",
@@ -395,12 +422,13 @@
         "monster": "Magnamalo",
         "element": "Blast",
         "skills": [{ "name": "Partbreaker", "level": 1 }],
-        "charged_shot": [
-            { "name": "Rapid", "level": 2 },
-            { "name": "Rapid", "level": 3 },
-            { "name": "Spread", "level": 3 },
-            { "name": "Spread", "level": 4 }
-        ]
+            "coating_type": "Blast",
+            "charged_shot": [
+                { "name": "Rapid", "level": 2 },
+                { "name": "Rapid", "level": 3 },
+                { "name": "Spread", "level": 3 },
+                { "name": "Spread", "level": 4 }
+            ]
     },
     {
         "name": "Suzuka Bow",
@@ -409,12 +437,13 @@
         "monster": "Rajang",
         "element": "Thunder",
         "skills": [{ "name": "Power Prolonger", "level": 2 }],
-        "charged_shot": [
-            { "name": "Rapid", "level": 2 },
-            { "name": "Rapid", "level": 3 },
-            { "name": "Spread", "level": 3 },
-            { "name": "Spread", "level": 4 }
-        ]
+            "coating_type": "Thunder",
+            "charged_shot": [
+                { "name": "Rapid", "level": 2 },
+                { "name": "Rapid", "level": 3 },
+                { "name": "Spread", "level": 3 },
+                { "name": "Spread", "level": 4 }
+            ]
     },
     {
         "name": "Decimation Bow",
@@ -426,12 +455,13 @@
             { "name": "Hunter's Unity", "level": 1 },
             { "name": "Partbreaker", "level": 2 }
         ],
-        "charged_shot": [
-            { "name": "Rapid", "level": 2 },
-            { "name": "Rapid", "level": 3 },
-            { "name": "Spread", "level": 3 },
-            { "name": "Spread", "level": 4 }
-        ]
+            "coating_type": "Dragon",
+            "charged_shot": [
+                { "name": "Rapid", "level": 2 },
+                { "name": "Rapid", "level": 3 },
+                { "name": "Spread", "level": 3 },
+                { "name": "Spread", "level": 4 }
+            ]
     },
     {
         "name": "Tigrine Bow",
@@ -440,12 +470,13 @@
         "monster": "Tigrex",
         "element": "None",
         "skills": [{ "name": "Critical Ferocity", "level": 1 }],
-        "charged_shot": [
-            { "name": "Rapid", "level": 2 },
-            { "name": "Rapid", "level": 3 },
-            { "name": "Spread", "level": 3 },
-            { "name": "Spread", "level": 4 }
-        ]
+            "coating_type": "None",
+            "charged_shot": [
+                { "name": "Rapid", "level": 2 },
+                { "name": "Rapid", "level": 3 },
+                { "name": "Spread", "level": 3 },
+                { "name": "Spread", "level": 4 }
+            ]
     },
     {
         "name": "Arzuros Bow",
@@ -454,12 +485,13 @@
         "monster": "Arzuros",
         "element": "None",
         "skills": [{ "name": "Special Boost", "level": 2 }],
-        "charged_shot": [
-            { "name": "Rapid", "level": 2 },
-            { "name": "Rapid", "level": 3 },
-            { "name": "Spread", "level": 3 },
-            { "name": "Spread", "level": 4 }
-        ]
+            "coating_type": "None",
+            "charged_shot": [
+                { "name": "Rapid", "level": 2 },
+                { "name": "Rapid", "level": 3 },
+                { "name": "Spread", "level": 3 },
+                { "name": "Spread", "level": 4 }
+            ]
     },
     {
         "name": "Svarog Bow",
@@ -468,12 +500,13 @@
         "monster": "Glavenus",
         "element": "Fire",
         "skills": [{ "name": "Critical Ferocity", "level": 1 }],
-        "charged_shot": [
-            { "name": "Rapid", "level": 2 },
-            { "name": "Rapid", "level": 3 },
-            { "name": "Spread", "level": 3 },
-            { "name": "Spread", "level": 4 }
-        ]
+            "coating_type": "Fire",
+            "charged_shot": [
+                { "name": "Rapid", "level": 2 },
+                { "name": "Rapid", "level": 3 },
+                { "name": "Spread", "level": 3 },
+                { "name": "Spread", "level": 4 }
+            ]
     },
     {
         "name": "Dual Chameleos Bow",
@@ -485,12 +518,13 @@
             { "name": "Hunter's Unity", "level": 1 },
             { "name": "Sneak Attack", "level": 2 }
         ],
-        "charged_shot": [
-            { "name": "Rapid", "level": 2 },
-            { "name": "Rapid", "level": 3 },
-            { "name": "Spread", "level": 3 },
-            { "name": "Spread", "level": 4 }
-        ]
+            "coating_type": "Poison",
+            "charged_shot": [
+                { "name": "Rapid", "level": 2 },
+                { "name": "Rapid", "level": 3 },
+                { "name": "Spread", "level": 3 },
+                { "name": "Spread", "level": 4 }
+            ]
     },
     {
         "name": "Wroggi Bow",
@@ -499,12 +533,13 @@
         "monster": "Great Wroggi",
         "element": "Poison",
         "skills": [{ "name": "Lock On", "level": 1 }],
-        "charged_shot": [
-            { "name": "Rapid", "level": 2 },
-            { "name": "Rapid", "level": 3 },
-            { "name": "Spread", "level": 3 },
-            { "name": "Spread", "level": 4 }
-        ]
+            "coating_type": "Poison",
+            "charged_shot": [
+                { "name": "Rapid", "level": 2 },
+                { "name": "Rapid", "level": 3 },
+                { "name": "Spread", "level": 3 },
+                { "name": "Spread", "level": 4 }
+            ]
     },
     {
         "name": "Lotus Bow",
@@ -513,12 +548,13 @@
         "monster": "Bishaten",
         "element": "None",
         "skills": [{ "name": "Shared Sword", "level": 2 }],
-        "charged_shot": [
-            { "name": "Rapid", "level": 2 },
-            { "name": "Rapid", "level": 3 },
-            { "name": "Spread", "level": 3 },
-            { "name": "Spread", "level": 4 }
-        ]
+            "coating_type": "None",
+            "charged_shot": [
+                { "name": "Rapid", "level": 2 },
+                { "name": "Rapid", "level": 3 },
+                { "name": "Spread", "level": 3 },
+                { "name": "Spread", "level": 4 }
+            ]
     },
     {
         "name": "Hidden Bow",
@@ -527,12 +563,13 @@
         "monster": "Nargacuga",
         "element": "None",
         "skills": [{ "name": "Resuscitate", "level": 2 }],
-        "charged_shot": [
-            { "name": "Rapid", "level": 2 },
-            { "name": "Rapid", "level": 3 },
-            { "name": "Spread", "level": 3 },
-            { "name": "Spread", "level": 4 }
-        ]
+            "coating_type": "None",
+            "charged_shot": [
+                { "name": "Rapid", "level": 2 },
+                { "name": "Rapid", "level": 3 },
+                { "name": "Spread", "level": 3 },
+                { "name": "Spread", "level": 4 }
+            ]
     },
     {
         "name": "Namielle Bow",
@@ -544,12 +581,13 @@
             { "name": "Hunter's Unity", "level": 1 },
             { "name": "Weakness Exploit", "level": 1 }
         ],
-        "charged_shot": [
-            { "name": "Rapid", "level": 2 },
-            { "name": "Rapid", "level": 3 },
-            { "name": "Spread", "level": 3 },
-            { "name": "Spread", "level": 4 }
-        ]
+            "coating_type": "Water",
+            "charged_shot": [
+                { "name": "Rapid", "level": 2 },
+                { "name": "Rapid", "level": 3 },
+                { "name": "Spread", "level": 3 },
+                { "name": "Spread", "level": 4 }
+            ]
     },
     {
         "name": "Bone Bow",
@@ -558,12 +596,13 @@
         "monster": "Bone",
         "element": "None",
         "skills": [{ "name": "Concentration", "level": 1 }],
-        "charged_shot": [
-            { "name": "Rapid", "level": 2 },
-            { "name": "Rapid", "level": 3 },
-            { "name": "Spread", "level": 3 },
-            { "name": "Spread", "level": 4 }
-        ]
+            "coating_type": "None",
+            "charged_shot": [
+                { "name": "Rapid", "level": 2 },
+                { "name": "Rapid", "level": 3 },
+                { "name": "Spread", "level": 3 },
+                { "name": "Spread", "level": 4 }
+            ]
     },
     {
         "name": "Hope Bow",
@@ -572,11 +611,12 @@
         "monster": "Hope",
         "element": "None",
         "skills": [{ "name": "Lock On", "level": 1 }],
-        "charged_shot": [
-            { "name": "Rapid", "level": 2 },
-            { "name": "Rapid", "level": 3 },
-            { "name": "Spread", "level": 3 },
-            { "name": "Spread", "level": 4 }
-        ]
+            "coating_type": "None",
+            "charged_shot": [
+                { "name": "Rapid", "level": 2 },
+                { "name": "Rapid", "level": 3 },
+                { "name": "Spread", "level": 3 },
+                { "name": "Spread", "level": 4 }
+            ]
     }
 ]
