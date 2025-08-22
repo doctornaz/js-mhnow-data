@@ -300,6 +300,17 @@
         "skills": [{ "name": "Resuscitate", "level": 2 }]
     },
     {
+        "name": "Hydros Discus",
+        "name_upg": "Hydros Discus",
+        "type": "Sword and Shield",
+        "monster": "Namielle",
+        "element": "Water",
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Weakness Exploit", "level": 1 }
+        ]
+    },
+    {
         "name": "Bone Kukri",
         "name_upg": "Chief Kukri",
         "type": "Sword and Shield",

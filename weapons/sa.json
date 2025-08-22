@@ -343,6 +343,17 @@
         "skills": [{ "name": "Resuscitate", "level": 2 }]
     },
     {
+        "name": "Black Strobila",
+        "name_upg": "Black Strobila",
+        "type": "Switch Axe",
+        "monster": "Namielle",
+        "element": "Water",
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Weakness Exploit", "level": 1 }
+        ]
+    },
+    {
         "name": "Bone Axe",
         "name_upg": "Bone Smasher",
         "type": "Switch Axe",

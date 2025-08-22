@@ -273,6 +273,17 @@
         "skills": [{ "name": "Resuscitate", "level": 2 }]
     },
     {
+        "name": "Black Ephyra",
+        "name_upg": "Black Ephyra",
+        "type": "Gunlance",
+        "monster": "Namielle",
+        "element": "Water",
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Weakness Exploit", "level": 1 }
+        ]
+    },
+    {
         "name": "Bone Gunlance",
         "name_upg": "Bone Cannon",
         "type": "Gunlance",

@@ -284,6 +284,17 @@
         "skills": [{ "name": "Resuscitate", "level": 2 }]
     },
     {
+        "name": "Hydros Kardia",
+        "name_upg": "Hydros Kardia",
+        "type": "Charge Blade",
+        "monster": "Namielle",
+        "element": "Water",
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Weakness Exploit", "level": 1 }
+        ]
+    },
+    {
         "name": "Bone Strongarm",
         "name_upg": "Hard Bone Strongarm",
         "type": "Charge Blade",

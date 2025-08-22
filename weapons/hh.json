@@ -496,6 +496,22 @@
         "skills": [{ "name": "Resuscitate", "level": 2 }]
     },
     {
+        "name": "Hydros Horn",
+        "name_upg": "Hydros Horn",
+        "type": "Hunting Horn",
+        "monster": "Namielle",
+        "element": "Water",
+        "buffs": [
+            { "name": "All Resistances Up", "melody": "BB" },
+            { "name": "Affinity Up (S)", "melody": "RR" },
+            { "name": "Sonic Wave", "melody": "BRB" }
+        ],
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Weakness Exploit", "level": 1 }
+        ]
+    },
+    {
         "name": "Bone Horn",
         "name_upg": "Hardened Bone Horn",
         "type": "Hunting Horn",
