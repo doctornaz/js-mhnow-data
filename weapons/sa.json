@@ -80,6 +80,14 @@
         "skills": [{ "name": "Rising Tide", "level": 1 }]
     },
     {
+        "name": "Donnerbeil",
+        "name_upg": "Donnerbeil+",
+        "type": "Switch Axe",
+        "monster": "Fulgur Anjanath",
+        "element": "Thunder",
+        "skills": [{ "name": "Critical Element", "level": 1 }]
+    },
+    {
         "name": "Dragonmaiden Axe",
         "name_upg": "Dragonmaiden Axe+",
         "type": "Switch Axe",

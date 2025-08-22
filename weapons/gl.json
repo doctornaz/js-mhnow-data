@@ -56,6 +56,14 @@
         "skills": [{ "name": "Last Stand", "level": 1 }]
     },
     {
+        "name": "Ending Fulgur",
+        "name_upg": "Ending Fulgur",
+        "type": "Gunlance",
+        "monster": "Fulgur Anjanath",
+        "element": "Thunder",
+        "skills": [{ "name": "Critical Element", "level": 1 }]
+    },
+    {
         "name": "Princess Panoply",
         "name_upg": "Princess Panoply+",
         "type": "Gunlance",

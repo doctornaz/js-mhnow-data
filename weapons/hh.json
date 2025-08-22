@@ -130,6 +130,19 @@
         "skills": [{ "name": "Rising Tide", "level": 1 }]
     },
     {
+        "name": "Fulguring Horn",
+        "name_upg": "Fulguring Horn",
+        "type": "Hunting Horn",
+        "monster": "Fulgur Anjanath",
+        "element": "Thunder",
+        "buffs": [
+            { "name": "Defense Up", "melody": "BB" },
+            { "name": "Evasion Distance Up", "melody": "RR" },
+            { "name": "Sonic Wave", "melody": "BRB" }
+        ],
+        "skills": [{ "name": "Critical Element", "level": 1 }]
+    },
+    {
         "name": "Valkyrie Chordmaker",
         "name_upg": "Queen Chordmaker",
         "type": "Hunting Horn",
