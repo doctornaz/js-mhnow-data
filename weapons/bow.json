@@ -1,5 +1,131 @@
 [
     {
+        "name": "Iron Bow",
+        "name_upg": "Steel Bow",
+        "type": "Bow",
+        "monster": "Iron",
+        "element": "None",
+        "skills": [{ "name": "Poison Resistance", "level": 2 }],
+        "charged_shot": [
+            { "name": "Rapid", "level": 2 },
+            { "name": "Rapid", "level": 3 },
+            { "name": "Spread", "level": 3 },
+            { "name": "Spread", "level": 4 }
+        ]
+    },
+    {
+        "name": "Kulu Bow",
+        "name_upg": "Kulu Hasta",
+        "type": "Bow",
+        "monster": "Kulu-Ya-Ku",
+        "element": "None",
+        "skills": [{ "name": "Fortify", "level": 2 }],
+        "charged_shot": [
+            { "name": "Rapid", "level": 2 },
+            { "name": "Rapid", "level": 3 },
+            { "name": "Spread", "level": 3 },
+            { "name": "Spread", "level": 4 }
+        ]
+    },
+    {
+        "name": "Blooming Bow",
+        "name_upg": "Datura Bow",
+        "type": "Bow",
+        "monster": "Pukei-Pukei",
+        "element": "Poison",
+        "skills": [{ "name": "Sneak Attack", "level": 1 }],
+        "charged_shot": [
+            { "name": "Rapid", "level": 2 },
+            { "name": "Rapid", "level": 3 },
+            { "name": "Spread", "level": 3 },
+            { "name": "Spread", "level": 4 }
+        ]
+    },
+    {
+        "name": "Laguna Bow",
+        "name_upg": "Laguna Bow",
+        "type": "Bow",
+        "monster": "Coral Pukei-Pukei",
+        "element": "Water",
+        "skills": [{ "name": "Earplugs", "level": 1 }],
+        "charged_shot": [
+            { "name": "Rapid", "level": 2 },
+            { "name": "Rapid", "level": 3 },
+            { "name": "Spread", "level": 3 },
+            { "name": "Spread", "level": 4 }
+        ]
+    },
+    {
+        "name": "Girros Bow",
+        "name_upg": "Malady's Bow",
+        "type": "Bow",
+        "monster": "Great Girros",
+        "element": "Paralysis",
+        "skills": [{ "name": "Sneak Attack", "level": 1 }],
+        "charged_shot": [
+            { "name": "Rapid", "level": 2 },
+            { "name": "Rapid", "level": 3 },
+            { "name": "Spread", "level": 3 },
+            { "name": "Spread", "level": 4 }
+        ]
+    },
+    {
+        "name": "Pulsar Bow",
+        "name_upg": "Kadachi Bow",
+        "type": "Bow",
+        "monster": "Tobi-Kadachi",
+        "element": "Thunder",
+        "skills": [{ "name": "Evade Extender", "level": 1 }],
+        "charged_shot": [
+            { "name": "Rapid", "level": 2 },
+            { "name": "Rapid", "level": 3 },
+            { "name": "Spread", "level": 3 },
+            { "name": "Spread", "level": 4 }
+        ]
+    },
+    {
+        "name": "Nyx Bow",
+        "name_upg": "Nyx Bow",
+        "type": "Bow",
+        "monster": "Nightshade Paolumu",
+        "element": "Sleep",
+        "skills": [{ "name": "Sneak Attack", "level": 1 }],
+        "charged_shot": [
+            { "name": "Rapid", "level": 2 },
+            { "name": "Rapid", "level": 3 },
+            { "name": "Spread", "level": 3 },
+            { "name": "Spread", "level": 4 }
+        ]
+    },
+    {
+        "name": "Aqua Bow",
+        "name_upg": "Jyura Bow",
+        "type": "Bow",
+        "monster": "Jyuratodus",
+        "element": "Water",
+        "skills": [{ "name": "Last Stand", "level": 1 }],
+        "charged_shot": [
+            { "name": "Rapid", "level": 2 },
+            { "name": "Rapid", "level": 3 },
+            { "name": "Spread", "level": 3 },
+            { "name": "Spread", "level": 4 }
+        ]
+    },
+    {
+        "name": "Blazing Bow",
+        "name_upg": "Anja Bow",
+        "type": "Bow",
+        "monster": "Anjanath",
+        "element": "Fire",
+        "skills": [{ "name": "Rising Tide", "level": 1 }],
+        "charged_shot": [
+            { "name": "Rapid", "level": 2 },
+            { "name": "Rapid", "level": 3 },
+            { "name": "Spread", "level": 3 },
+            { "name": "Spread", "level": 4 }
+        ]
+    },
+        {
         "name": "Fulguring Bow",
         "name_upg": "Fulguring Bow",
         "type": "Bow",
@@ -11,6 +137,441 @@
                 "level": 1 
             }
         ],
+        "charged_shot": [
+            { "name": "Rapid", "level": 2 },
+            { "name": "Rapid", "level": 3 },
+            { "name": "Spread", "level": 3 },
+            { "name": "Spread", "level": 4 }
+        ]
+    },
+    {
+        "name": "Queen's Bow",
+        "name_upg": "Queen's Bow+",
+        "type": "Bow",
+        "monster": "Rathian",
+        "element": "Poison",
+        "skills": [{ "name": "Health Boost", "level": 2 }],
+        "charged_shot": [
+            { "name": "Rapid", "level": 2 },
+            { "name": "Rapid", "level": 3 },
+            { "name": "Spread", "level": 3 },
+            { "name": "Spread", "level": 4 }
+        ]
+    },
+    {
+        "name": "Pink Bow",
+        "name_upg": "Pink Bow+",
+        "type": "Bow",
+        "monster": "Pink Rathian",
+        "element": "Poison",
+        "skills": [{ "name": "Evade Extender", "level": 1 }],
+        "charged_shot": [
+            { "name": "Rapid", "level": 2 },
+            { "name": "Rapid", "level": 3 },
+            { "name": "Spread", "level": 3 },
+            { "name": "Spread", "level": 4 }
+        ]
+    },
+    {
+        "name": "Gold Bow",
+        "name_upg": "Gold Bow+",
+        "type": "Bow",
+        "monster": "Golden Rathian",
+        "element": "Poison",
+        "skills": [{ "name": "Poison Exploit", "level": 2 }],
+        "charged_shot": [
+            { "name": "Rapid", "level": 2 },
+            { "name": "Rapid", "level": 3 },
+            { "name": "Spread", "level": 3 },
+            { "name": "Spread", "level": 4 }
+        ]
+    },
+    {
+        "name": "Glacial Bow",
+        "name_upg": "Legiana Bow",
+        "type": "Bow",
+        "monster": "Legiana",
+        "element": "Ice",
+        "skills": [{ "name": "Divine Blessing", "level": 2 }],
+        "charged_shot": [
+            { "name": "Rapid", "level": 2 },
+            { "name": "Rapid", "level": 3 },
+            { "name": "Spread", "level": 3 },
+            { "name": "Spread", "level": 4 }
+        ]
+    },
+    {
+        "name": "Diablos Bow",
+        "name_upg": "Diablos Bow+",
+        "type": "Bow",
+        "monster": "Diablos",
+        "element": "None",
+        "skills": [{ "name": "Heroics", "level": 1 }],
+        "charged_shot": [
+            { "name": "Rapid", "level": 2 },
+            { "name": "Rapid", "level": 3 },
+            { "name": "Spread", "level": 3 },
+            { "name": "Spread", "level": 4 }
+        ]
+    },
+    {
+        "name": "Nero Bow",
+        "name_upg": "Griffon Bow",
+        "type": "Bow",
+        "monster": "Black Diablos",
+        "element": "None",
+        "skills": [{ "name": "Partbreaker", "level": 1 }],
+        "charged_shot": [
+            { "name": "Rapid", "level": 2 },
+            { "name": "Rapid", "level": 3 },
+            { "name": "Spread", "level": 3 },
+            { "name": "Spread", "level": 4 }
+        ]
+    },
+    {
+        "name": "Flame Bow",
+        "name_upg": "Red Wing Bow",
+        "type": "Bow",
+        "monster": "Rathalos",
+        "element": "Fire",
+        "skills": [{ "name": "Earplugs", "level": 1 }],
+        "charged_shot": [
+            { "name": "Rapid", "level": 2 },
+            { "name": "Rapid", "level": 3 },
+            { "name": "Spread", "level": 3 },
+            { "name": "Spread", "level": 4 }
+        ]
+    },
+    {
+        "name": "Azure Bow",
+        "name_upg": "Azure Bow+",
+        "type": "Bow",
+        "monster": "Azure Rathalos",
+        "element": "Fire",
+        "skills": [{ "name": "Special Boost", "level": 1 }],
+        "charged_shot": [
+            { "name": "Rapid", "level": 2 },
+            { "name": "Rapid", "level": 3 },
+            { "name": "Spread", "level": 3 },
+            { "name": "Spread", "level": 4 }
+        ]
+    },
+    {
+        "name": "Silver Bow",
+        "name_upg": "Silver Bow+",
+        "type": "Bow",
+        "monster": "Silver Rathalos",
+        "element": "Fire",
+        "skills": [{ "name": "Critical Element", "level": 2 }],
+        "charged_shot": [
+            { "name": "Rapid", "level": 2 },
+            { "name": "Rapid", "level": 3 },
+            { "name": "Spread", "level": 3 },
+            { "name": "Spread", "level": 4 }
+        ]
+    },
+    {
+        "name": "Mammoth Bow",
+        "name_upg": "Mammoth Bow+",
+        "type": "Bow",
+        "monster": "Banbaro",
+        "element": "None",
+        "skills": [{ "name": "Firm Foothold", "level": 2 }],
+        "charged_shot": [
+            { "name": "Rapid", "level": 2 },
+            { "name": "Rapid", "level": 3 },
+            { "name": "Spread", "level": 3 },
+            { "name": "Spread", "level": 4 }
+        ]
+    },
+    {
+        "name": "Icicle Bow",
+        "name_upg": "Barioth Bow+",
+        "type": "Bow",
+        "monster": "Barioth",
+        "element": "Ice",
+        "skills": [{ "name": "Evade Extender", "level": 1 }],
+        "charged_shot": [
+            { "name": "Rapid", "level": 2 },
+            { "name": "Rapid", "level": 3 },
+            { "name": "Spread", "level": 3 },
+            { "name": "Spread", "level": 4 }
+        ]
+    },
+    {
+        "name": "Usurper's Bow",
+        "name_upg": "Despot's Bow",
+        "type": "Bow",
+        "monster": "Zinogre",
+        "element": "Thunder",
+        "skills": [{ "name": "Artful Dodger", "level": 1 }],
+        "charged_shot": [
+            { "name": "Rapid", "level": 2 },
+            { "name": "Rapid", "level": 3 },
+            { "name": "Spread", "level": 3 },
+            { "name": "Spread", "level": 4 }
+        ]
+    },
+    {
+        "name": "Devil's Bow",
+        "name_upg": "Devil's Bow+",
+        "type": "Bow",
+        "monster": "Deviljho",
+        "element": "Dragon",
+        "skills": [{ "name": "Burst", "level": 2 }],
+        "charged_shot": [
+            { "name": "Rapid", "level": 2 },
+            { "name": "Rapid", "level": 3 },
+            { "name": "Spread", "level": 3 },
+            { "name": "Spread", "level": 4 }
+        ]
+    },
+    {
+        "name": "Khezu Bow",
+        "name_upg": "Khezu Bow+",
+        "type": "Bow",
+        "monster": "Khezu",
+        "element": "Thunder",
+        "skills": [{ "name": "Peak Performance", "level": 1 }],
+        "charged_shot": [
+            { "name": "Rapid", "level": 2 },
+            { "name": "Rapid", "level": 3 },
+            { "name": "Spread", "level": 3 },
+            { "name": "Spread", "level": 4 }
+        ]
+    },
+    {
+        "name": "Daora's Bow",
+        "name_upg": "Daora's Bow+",
+        "type": "Bow",
+        "monster": "Kushala Daora",
+        "element": "Ice",
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Windproof", "level": 2 }
+        ],
+        "charged_shot": [
+            { "name": "Rapid", "level": 2 },
+            { "name": "Rapid", "level": 3 },
+            { "name": "Spread", "level": 3 },
+            { "name": "Spread", "level": 4 }
+        ]
+    },
+    {
+        "name": "Hana Bow",
+        "name_upg": "Kimi Bow",
+        "type": "Bow",
+        "monster": "Mizutsune",
+        "element": "Water",
+        "skills": [{ "name": "Artful Dodger", "level": 1 }],
+        "charged_shot": [
+            { "name": "Rapid", "level": 2 },
+            { "name": "Rapid", "level": 3 },
+            { "name": "Spread", "level": 3 },
+            { "name": "Spread", "level": 4 }
+        ]
+    },
+    {
+        "name": "Teostra's Bow",
+        "name_upg": "Teostra's Bow+",
+        "type": "Bow",
+        "monster": "Teostra",
+        "element": "Blast",
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Heroics", "level": 2 }
+        ],
+        "charged_shot": [
+            { "name": "Rapid", "level": 2 },
+            { "name": "Rapid", "level": 3 },
+            { "name": "Spread", "level": 3 },
+            { "name": "Spread", "level": 4 }
+        ]
+    },
+    {
+        "name": "Sinister Bow",
+        "name_upg": "Sinister Bow+",
+        "type": "Bow",
+        "monster": "Magnamalo",
+        "element": "Blast",
+        "skills": [{ "name": "Partbreaker", "level": 1 }],
+        "charged_shot": [
+            { "name": "Rapid", "level": 2 },
+            { "name": "Rapid", "level": 3 },
+            { "name": "Spread", "level": 3 },
+            { "name": "Spread", "level": 4 }
+        ]
+    },
+    {
+        "name": "Suzuka Bow",
+        "name_upg": "Suzuka Bow+",
+        "type": "Bow",
+        "monster": "Rajang",
+        "element": "Thunder",
+        "skills": [{ "name": "Power Prolonger", "level": 2 }],
+        "charged_shot": [
+            { "name": "Rapid", "level": 2 },
+            { "name": "Rapid", "level": 3 },
+            { "name": "Spread", "level": 3 },
+            { "name": "Spread", "level": 4 }
+        ]
+    },
+    {
+        "name": "Decimation Bow",
+        "name_upg": "Decimation Bow+",
+        "type": "Bow",
+        "monster": "Nergigante",
+        "element": "Dragon",
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Partbreaker", "level": 2 }
+        ],
+        "charged_shot": [
+            { "name": "Rapid", "level": 2 },
+            { "name": "Rapid", "level": 3 },
+            { "name": "Spread", "level": 3 },
+            { "name": "Spread", "level": 4 }
+        ]
+    },
+    {
+        "name": "Tigrine Bow",
+        "name_upg": "Tigrine Bow+",
+        "type": "Bow",
+        "monster": "Tigrex",
+        "element": "None",
+        "skills": [{ "name": "Critical Ferocity", "level": 1 }],
+        "charged_shot": [
+            { "name": "Rapid", "level": 2 },
+            { "name": "Rapid", "level": 3 },
+            { "name": "Spread", "level": 3 },
+            { "name": "Spread", "level": 4 }
+        ]
+    },
+    {
+        "name": "Arzuros Bow",
+        "name_upg": "Arzuros Bow+",
+        "type": "Bow",
+        "monster": "Arzuros",
+        "element": "None",
+        "skills": [{ "name": "Special Boost", "level": 2 }],
+        "charged_shot": [
+            { "name": "Rapid", "level": 2 },
+            { "name": "Rapid", "level": 3 },
+            { "name": "Spread", "level": 3 },
+            { "name": "Spread", "level": 4 }
+        ]
+    },
+    {
+        "name": "Svarog Bow",
+        "name_upg": "Svarog Bow+",
+        "type": "Bow",
+        "monster": "Glavenus",
+        "element": "Fire",
+        "skills": [{ "name": "Critical Ferocity", "level": 1 }],
+        "charged_shot": [
+            { "name": "Rapid", "level": 2 },
+            { "name": "Rapid", "level": 3 },
+            { "name": "Spread", "level": 3 },
+            { "name": "Spread", "level": 4 }
+        ]
+    },
+    {
+        "name": "Dual Chameleos Bow",
+        "name_upg": "Dual Chameleos Bow+",
+        "type": "Bow",
+        "monster": "Chameleos",
+        "element": "Poison",
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Sneak Attack", "level": 2 }
+        ],
+        "charged_shot": [
+            { "name": "Rapid", "level": 2 },
+            { "name": "Rapid", "level": 3 },
+            { "name": "Spread", "level": 3 },
+            { "name": "Spread", "level": 4 }
+        ]
+    },
+    {
+        "name": "Wroggi Bow",
+        "name_upg": "Wroggi Bow+",
+        "type": "Bow",
+        "monster": "Great Wroggi",
+        "element": "Poison",
+        "skills": [{ "name": "Lock On", "level": 1 }],
+        "charged_shot": [
+            { "name": "Rapid", "level": 2 },
+            { "name": "Rapid", "level": 3 },
+            { "name": "Spread", "level": 3 },
+            { "name": "Spread", "level": 4 }
+        ]
+    },
+    {
+        "name": "Lotus Bow",
+        "name_upg": "Lotus Bow+",
+        "type": "Bow",
+        "monster": "Bishaten",
+        "element": "None",
+        "skills": [{ "name": "Shared Sword", "level": 2 }],
+        "charged_shot": [
+            { "name": "Rapid", "level": 2 },
+            { "name": "Rapid", "level": 3 },
+            { "name": "Spread", "level": 3 },
+            { "name": "Spread", "level": 4 }
+        ]
+    },
+    {
+        "name": "Hidden Bow",
+        "name_upg": "Hidden Bow+",
+        "type": "Bow",
+        "monster": "Nargacuga",
+        "element": "None",
+        "skills": [{ "name": "Resuscitate", "level": 2 }],
+        "charged_shot": [
+            { "name": "Rapid", "level": 2 },
+            { "name": "Rapid", "level": 3 },
+            { "name": "Spread", "level": 3 },
+            { "name": "Spread", "level": 4 }
+        ]
+    },
+    {
+        "name": "Namielle Bow",
+        "name_upg": "Namielle Bow+",
+        "type": "Bow",
+        "monster": "Namielle",
+        "element": "Water",
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Weakness Exploit", "level": 1 }
+        ],
+        "charged_shot": [
+            { "name": "Rapid", "level": 2 },
+            { "name": "Rapid", "level": 3 },
+            { "name": "Spread", "level": 3 },
+            { "name": "Spread", "level": 4 }
+        ]
+    },
+    {
+        "name": "Bone Bow",
+        "name_upg": "Hard Bone Bow+",
+        "type": "Bow",
+        "monster": "Bone",
+        "element": "None",
+        "skills": [{ "name": "Concentration", "level": 1 }],
+        "charged_shot": [
+            { "name": "Rapid", "level": 2 },
+            { "name": "Rapid", "level": 3 },
+            { "name": "Spread", "level": 3 },
+            { "name": "Spread", "level": 4 }
+        ]
+    },
+    {
+        "name": "Hope Bow",
+        "name_upg": "Hope Bow+",
+        "type": "Bow",
+        "monster": "Hope",
+        "element": "None",
+        "skills": [{ "name": "Lock On", "level": 1 }],
         "charged_shot": [
             { "name": "Rapid", "level": 2 },
             { "name": "Rapid", "level": 3 },
