@@ -80,12 +80,20 @@
         "skills": [{ "name": "Last Stand", "level": 1 }]
     },
     {
-        "name": "Blazing Claw",
+        "name": "Blazing Edge",
         "name_upg": "Flammensucher",
         "type": "Sword and Shield",
         "monster": "Anjanath",
         "element": "Fire",
         "skills": [{ "name": "Rising Tide", "level": 1 }]
+    },
+    {
+        "name": "Donnersieger",
+        "name_upg": "Donnersieger+",
+        "type": "Sword and Shield",
+        "monster": "Fulgur Anjanath",
+        "element": "Thunder",
+        "skills": [{ "name": "Critical Element", "level": 1 }]
     },
     {
         "name": "Princess Rapier",

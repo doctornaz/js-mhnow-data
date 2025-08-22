@@ -40,6 +40,14 @@
         "skills": [{ "name": "Rising Tide", "level": 1 }]
     },
     {
+        "name": "Gnashing Fulgur",
+        "name_upg": "Gnashing Fulgur",
+        "type": "Long Sword",
+        "monster": "Fulgur Anjanath",
+        "element": "Thunder",
+        "skills": [{ "name": "Critical Element", "level": 1 }]
+    },
+    {
         "name": "Wyvern Blade 'Leaf'",
         "name_upg": "Wyvern Blade 'Verde'",
         "type": "Long Sword",

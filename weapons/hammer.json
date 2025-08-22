@@ -80,6 +80,14 @@
         "skills": [{ "name": "Rising Tide", "level": 1 }]
     },
     {
+        "name": "Grinding Fulgor",
+        "name_upg": "Grinding Fulgor",
+        "type": "Hammer",
+        "monster": "Fulgur Anjanath",
+        "element": "Thunder",
+        "skills": [{ "name": "Critical Element", "level": 1 }]
+    },
+    {
         "name": "Diablos Sledge",
         "name_upg": "Diablos Shatterer",
         "type": "Hammer",
