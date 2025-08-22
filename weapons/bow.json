@@ -12,22 +12,10 @@
             }
         ],
         "charged_shot": [
-            { 
-                "name": "Rapid", 
-                "level": 2 
-            },
-            { 
-                "name": "Rapid", 
-                "level": 3 
-            },
-            { 
-                "name": "Spread", 
-                "level": 3 
-            },
-            { 
-                "name": "Spread", 
-                "level": 4 
-            }
+            { "name": "Rapid", "level": 2 },
+            { "name": "Rapid", "level": 3 },
+            { "name": "Spread", "level": 3 },
+            { "name": "Spread", "level": 4 }
         ]
     }
 ]
