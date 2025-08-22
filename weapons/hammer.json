@@ -80,8 +80,8 @@
         "skills": [{ "name": "Rising Tide", "level": 1 }]
     },
     {
-        "name": "Grinding Fulgor",
-        "name_upg": "Grinding Fulgor",
+        "name": "Grinding Fulgur",
+        "name_upg": "Grinding Fulgur",
         "type": "Hammer",
         "monster": "Fulgur Anjanath",
         "element": "Thunder",
