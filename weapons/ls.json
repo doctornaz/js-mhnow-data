@@ -292,6 +292,17 @@
         "skills": [{ "name": "Resuscitate", "level": 2 }]
     },
     {
+        "name": "Black Tornaria",
+        "name_upg": "Black Tornaria",
+        "type": "Long Sword",
+        "monster": "Namielle",
+        "element": "Water",
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Weakness Exploit", "level": 1 }
+        ]
+    },
+    {
         "name": "Bone Shotel",
         "name_upg": "Hard Bone Shotel",
         "type": "Long Sword",
