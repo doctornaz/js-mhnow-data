@@ -80,12 +80,20 @@
         "skills": [{ "name": "Last Stand", "level": 1 }]
     },
     {
-        "name": "Blazing Claw",
+        "name": "Blazing Edge",
         "name_upg": "Flammensucher",
         "type": "Sword and Shield",
         "monster": "Anjanath",
         "element": "Fire",
         "skills": [{ "name": "Rising Tide", "level": 1 }]
+    },
+    {
+        "name": "Donnersieger",
+        "name_upg": "Donnersieger+",
+        "type": "Sword and Shield",
+        "monster": "Fulgur Anjanath",
+        "element": "Thunder",
+        "skills": [{ "name": "Critical Element", "level": 1 }]
     },
     {
         "name": "Princess Rapier",
@@ -290,6 +298,17 @@
         "monster": "Nargacuga",
         "element": "None",
         "skills": [{ "name": "Resuscitate", "level": 2 }]
+    },
+    {
+        "name": "Hydros Discus",
+        "name_upg": "Hydros Discus",
+        "type": "Sword and Shield",
+        "monster": "Namielle",
+        "element": "Water",
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Weakness Exploit", "level": 1 }
+        ]
     },
     {
         "name": "Bone Kukri",

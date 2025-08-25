@@ -56,6 +56,14 @@
         "skills": [{ "name": "Last Stand", "level": 1 }]
     },
     {
+        "name": "Ending Fulgur",
+        "name_upg": "Ending Fulgur",
+        "type": "Gunlance",
+        "monster": "Fulgur Anjanath",
+        "element": "Thunder",
+        "skills": [{ "name": "Critical Element", "level": 1 }]
+    },
+    {
         "name": "Princess Panoply",
         "name_upg": "Princess Panoply+",
         "type": "Gunlance",
@@ -263,6 +271,17 @@
         "monster": "Nargacuga",
         "element": "None",
         "skills": [{ "name": "Resuscitate", "level": 2 }]
+    },
+    {
+        "name": "Black Ephyra",
+        "name_upg": "Black Ephyra",
+        "type": "Gunlance",
+        "monster": "Namielle",
+        "element": "Water",
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Weakness Exploit", "level": 1 }
+        ]
     },
     {
         "name": "Bone Gunlance",

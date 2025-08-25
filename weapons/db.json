@@ -40,6 +40,14 @@
         "skills": [{ "name": "Rising Tide", "level": 1 }]
     },
     {
+        "name": "Fulguring Tornado",
+        "name_upg": "Fulguring Tornado",
+        "type": "Dual Blades",
+        "monster": "Fulgur Anjanath",
+        "element": "Thunder",
+        "skills": [{ "name": "Critical Element", "level": 1 }]
+    },
+    {
         "name": "Freeze Daggers",
         "name_upg": "Freeze Chain",
         "type": "Dual Blades",

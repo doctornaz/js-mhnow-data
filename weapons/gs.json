@@ -80,6 +80,14 @@
         "skills": [{ "name": "Rising Tide", "level": 1 }]
     },
     {
+        "name": "Donnerzahn",
+        "name_upg": "Donnerzahn+",
+        "type": "Great Sword",
+        "monster": "Fulgur Anjanath",
+        "element": "Thunder",
+        "skills": [{ "name": "Critical Element", "level": 1 }]
+    },
+    {
         "name": "Freeze Blade",
         "name_upg": "Frost Blaze",
         "type": "Great Sword",

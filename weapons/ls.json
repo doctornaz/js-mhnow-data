@@ -40,6 +40,14 @@
         "skills": [{ "name": "Rising Tide", "level": 1 }]
     },
     {
+        "name": "Gnashing Fulgur",
+        "name_upg": "Gnashing Fulgur",
+        "type": "Long Sword",
+        "monster": "Fulgur Anjanath",
+        "element": "Thunder",
+        "skills": [{ "name": "Critical Element", "level": 1 }]
+    },
+    {
         "name": "Wyvern Blade 'Leaf'",
         "name_upg": "Wyvern Blade 'Verde'",
         "type": "Long Sword",
@@ -282,6 +290,17 @@
         "monster": "Nargacuga",
         "element": "None",
         "skills": [{ "name": "Resuscitate", "level": 2 }]
+    },
+    {
+        "name": "Black Tornaria",
+        "name_upg": "Black Tornaria",
+        "type": "Long Sword",
+        "monster": "Namielle",
+        "element": "Water",
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Weakness Exploit", "level": 1 }
+        ]
     },
     {
         "name": "Bone Shotel",

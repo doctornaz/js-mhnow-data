@@ -80,6 +80,14 @@
         "skills": [{ "name": "Rising Tide", "level": 1 }]
     },
     {
+        "name": "Donnerbeil",
+        "name_upg": "Donnerbeil+",
+        "type": "Switch Axe",
+        "monster": "Fulgur Anjanath",
+        "element": "Thunder",
+        "skills": [{ "name": "Critical Element", "level": 1 }]
+    },
+    {
         "name": "Dragonmaiden Axe",
         "name_upg": "Dragonmaiden Axe+",
         "type": "Switch Axe",
@@ -333,6 +341,17 @@
         "monster": "Nargacuga",
         "element": "None",
         "skills": [{ "name": "Resuscitate", "level": 2 }]
+    },
+    {
+        "name": "Black Strobila",
+        "name_upg": "Black Strobila",
+        "type": "Switch Axe",
+        "monster": "Namielle",
+        "element": "Water",
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Weakness Exploit", "level": 1 }
+        ]
     },
     {
         "name": "Bone Axe",

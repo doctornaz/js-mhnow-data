@@ -130,6 +130,19 @@
         "skills": [{ "name": "Rising Tide", "level": 1 }]
     },
     {
+        "name": "Fulguring Horn",
+        "name_upg": "Fulguring Horn",
+        "type": "Hunting Horn",
+        "monster": "Fulgur Anjanath",
+        "element": "Thunder",
+        "buffs": [
+            { "name": "Defense Up", "melody": "BB" },
+            { "name": "Evasion Distance Up", "melody": "RR" },
+            { "name": "Sonic Wave", "melody": "BRB" }
+        ],
+        "skills": [{ "name": "Critical Element", "level": 1 }]
+    },
+    {
         "name": "Valkyrie Chordmaker",
         "name_upg": "Queen Chordmaker",
         "type": "Hunting Horn",
@@ -481,6 +494,22 @@
             { "name": "Special Replenishment (L)", "melody": "RBR" }
         ],
         "skills": [{ "name": "Resuscitate", "level": 2 }]
+    },
+    {
+        "name": "Hydros Horn",
+        "name_upg": "Hydros Horn",
+        "type": "Hunting Horn",
+        "monster": "Namielle",
+        "element": "Water",
+        "buffs": [
+            { "name": "All Resistances Up", "melody": "BB" },
+            { "name": "Affinity Up (S)", "melody": "RR" },
+            { "name": "Sonic Wave", "melody": "BRB" }
+        ],
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Weakness Exploit", "level": 1 }
+        ]
     },
     {
         "name": "Bone Horn",

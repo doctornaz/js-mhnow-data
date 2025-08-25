@@ -260,6 +260,17 @@
         "skills": [{ "name": "Resuscitate", "level": 2 }]
     },
     {
+        "name": "Hydros Ullr",
+        "name_upg": "Hydros Ullr",
+        "type": "Lance",
+        "monster": "Namielle",
+        "element": "Water",
+        "skills": [
+            { "name": "Hunter's Unity", "level": 1 },
+            { "name": "Weakness Exploit", "level": 1 }
+        ]
+    },
+    {
         "name": "Bone Lance",
         "name_upg": "Hard Bone Pike",
         "type": "Lance",
