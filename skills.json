@@ -540,8 +540,8 @@
         "limit": 1
     },
     {
-        "name": "Vital Thunder",
-        "description": "Increases weapon's thunder element value by (2x, 4x, 8x) your remaining health.",
+        "name": "Namielle Electrowave",
+        "description": "Reduces damage received fmor thunder element monsters by 10% and increases yor weapon's water element value by (10%, 15%, 25%).",
         "type": "offensive",
         "limit": 3
     },
@@ -556,5 +556,11 @@
         "description": "Equipping 1 piece of the Swimmer Set significantly reduces bowgun reload time. Equipping 2 pieces significantly reduces recoil wen firing. Equipping 3 pieces Increases your ammo capacity.",
         "type": "utility",
         "limit": 1
-    }
+    },
+    {
+        "name": "Vital Thunder",
+        "description": "Increases weapon's thunder element value by (2x, 4x, 8x) your remaining health.",
+        "type": "offensive",
+        "limit": 3
+    },
 ]
