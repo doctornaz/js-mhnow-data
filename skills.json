@@ -544,5 +544,17 @@
         "description": "Increases weapon's thunder element value by (2x, 4x, 8x) your remaining health.",
         "type": "offensive",
         "limit": 3
+    },
+    {
+        "name": "Sweltering Summer 2025",
+        "description": "Increases weapon's fire element value by (10, 20, 50). *If active during the Summer Hunt 2025 event, the effect is multiplied by 10.",
+        "type": "offensive",
+        "limit": 3
+    },
+    {
+        "name": "Supper Swimmer 2025",
+        "description": "Equipping 1 piece of the Swimmer Set significantly reduces bowgun reload time. Equipping 2 pieces significantly reduces recoil wen firing. Equipping 3 pieces Increases your ammo capacity.",
+        "type": "utility",
+        "limit": 1
     }
 ]
