@@ -562,5 +562,5 @@
         "description": "Increases weapon's thunder element value by (2x, 4x, 8x) your remaining health.",
         "type": "offensive",
         "limit": 3
-    },
+    }
 ]
