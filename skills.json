@@ -538,5 +538,11 @@
         "description": "Whenever you activate Element Boost, your shield will begin to glow, powering up your phials' explosions.",
         "type": "offensive",
         "limit": 1
+    },
+    {
+        "name": "Vital Thunder",
+        "description": "Increases weapon's thunder element value by (2x, 4x, 8x) your remaining health.",
+        "type": "offensive",
+        "limit": 3
     }
 ]
